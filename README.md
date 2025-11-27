@@ -78,9 +78,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **45** |
+| 📝 Total Prompts | **50** |
 | ⭐ Featured | **0** |
-| 🔄 Last Updated | **Thursday, November 27, 2025 at 12:23:13 PM UTC** |
+| 🔄 Last Updated | **Thursday, November 27, 2025 at 4:30:08 PM UTC** |
 
 </div>
 
@@ -158,7 +158,57 @@ I want to design the landing page for a new {argument name="product_type_en" def
 
 ---
 
-### No. 3: Luxury 3D watch product experience page (Next.js + Three.js)
+### No. 3: Hello world web page with Linear-style variants
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Three simple prompts for Gemini 3.0 that show how adding style and imagery—specifically a Linear-style design and an image prompt—changes the quality of a generated hello world page.
+
+#### 📝 Prompt
+
+```
+Help me build a hello world page.
+
+Help me build a hello world page with {argument name="style_en" default="Linear"} style.
+
+Help me build a hello world page with {argument name="style_en" default="Linear"} style.
+```
+
+#### 🖼️ Example Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764255462009_uhh5bg_G6QfnjjacAgZb_r.jpg" width="600" alt="Hello world web page with Linear-style variants - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764255465710_4a3clb_G6QfvcXaAAAhcf6.jpg" width="600" alt="Hello world web page with Linear-style variants - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764255468357_cf0sk3_G6QgI2RacAAPjCl.jpg" width="600" alt="Hello world web page with Linear-style variants - Image 3">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Jason Zhou](https://x.com/jasonzhou1993)
+- **Source:** [Twitter Post](https://x.com/jasonzhou1993/status/1991754086417682891)
+- **Published:** November 21, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Help%20me%20build%20a%20hello%20world%20page.%0A%0AHelp%20me%20build%20a%20hello%20world%20page%20with%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Linear%22%7D%20style.%0A%0AHelp%20me%20build%20a%20hello%20world%20page%20with%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Linear%22%7D%20style.)**
+
+---
+
+### No. 4: Luxury 3D watch product experience page (Next.js + Three.js)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -214,7 +264,7 @@ Uniform values for each shader (time progression, scroll progress, hue, intensit
 
 ---
 
-### No. 4: Playful Zelda video capture editor prompt
+### No. 5: Playful Zelda video capture editor prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -248,7 +298,7 @@ You are a veteran game programming master. Please help me write an editor whose 
 
 ---
 
-### No. 5: Luxury smartwatch Three.js landing page with animated sections
+### No. 6: Luxury smartwatch Three.js landing page with animated sections
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -288,7 +338,7 @@ Turn the single screen into a multi-section scroll site. When the user scrolls, 
 
 ---
 
-### No. 6: Generate 40 simple SVG icons with download buttons
+### No. 7: Generate 40 simple SVG icons with download buttons
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -322,7 +372,7 @@ Generate {argument name="icon_count_en" default="40"} simple and highly versatil
 
 ---
 
-### No. 7: Voxel-art pagoda garden single-file HTML scene
+### No. 8: Voxel-art pagoda garden single-file HTML scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -358,7 +408,7 @@ Use any voxel or WebGL libraries you prefer, but deliver the entire project as a
 
 ---
 
-### No. 8: Futuristic cryptocurrency dashboard UI
+### No. 9: Futuristic cryptocurrency dashboard UI
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -391,7 +441,7 @@ Recreate a futuristic dark-mode cryptocurrency data dashboard: use a high-contra
 
 ---
 
-### No. 9: SVG Ferris wheel mechanical animation in HTML
+### No. 10: SVG Ferris wheel mechanical animation in HTML
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -424,7 +474,7 @@ Design an SVG Ferris wheel mechanical animation that includes a main wheel, cent
 
 ---
 
-### No. 10: Keep-inspired Chinese workout course website
+### No. 11: Keep-inspired Chinese workout course website
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -458,7 +508,7 @@ Build a Chinese “workout course” webpage inspired by {argument name="referen
 
 ---
 
-### No. 11: Keep-style Chinese fitness page (single HTML)
+### No. 12: Keep-style Chinese fitness page (single HTML)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -491,7 +541,7 @@ Build a Keep-style Chinese fitness page with a clean, modern UI, an interactive 
 
 ---
 
-### No. 12: Neo-Brutalist website design prompt
+### No. 13: Neo-Brutalist website design prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -524,7 +574,7 @@ Create a neo-Brutalist website that pushes the boundaries of creativity. Include
 
 ---
 
-### No. 13: Retro Polaroid camera website with photo wall
+### No. 14: Retro Polaroid camera website with photo wall
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -557,7 +607,7 @@ Please develop a web camera application with a retro Polaroid atmosphere. Place 
 
 ---
 
-### No. 14: Dream journaling tarot-style web app
+### No. 15: Dream journaling tarot-style web app
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -590,7 +640,7 @@ Generate a Chinese web application where users record their dreams every morning
 
 ---
 
-### No. 15: 3D brick builder app with Gemini and React
+### No. 16: 3D brick builder app with Gemini and React
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -627,7 +677,7 @@ Act as a world-class frontend engineer and UX designer. Build a {argument name="
 
 ---
 
-### No. 16: X (Twitter) MBTI analyzer web app
+### No. 17: X (Twitter) MBTI analyzer web app
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -661,19 +711,19 @@ Design style should follow Linear, dark mode only, with a minimalist yet high-qu
 
 ---
 
-### No. 17: Chinese AI hanfu wardrobe web app
+### No. 18: AI Hanfu wardrobe virtual try-on app
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A prompt for generating a Chinese web application that lets users upload a photo and virtually try on hanfu outfits from different dynasties, including customizing hairpins and makeup, likely as a single-page HTML app.
+A Chinese prompt for Gemini 3 Pro to generate a Hanfu wardrobe web app where users upload a photo to virtually try on clothing from different dynasties and customize hairpins and makeup.
 
 #### 📝 Prompt
 
 ```
-Generate an AI hanfu wardrobe {argument name="language_en" default="Chinese"} application that uses AI face-swapping or 3D body-shape technology. Users can upload a photo and with one click “try on” hanfu from various dynasties ({argument name="dynasty1_en" default="Tang"}, {argument name="dynasty2_en" default="Song"}, {argument name="dynasty3_en" default="Ming"}), or freely mix and match hairpins and makeup.
+Generate a Chinese-language AI Hanfu wardrobe application. Use AI face-swapping or 3D body-shape technology. Users upload a photo and can, with one click, "try on" Hanfu from various dynasties ({argument name="dynasty_1_en" default="Tang"}, {argument name="dynasty_2_en" default="Song"}, {argument name="dynasty_3_en" default="Ming"}), or customize hairpins and makeup themselves.
 ```
 
 #### 🖼️ Example Images
@@ -681,7 +731,7 @@ Generate an AI hanfu wardrobe {argument name="language_en" default="Chinese"} ap
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg" width="600" alt="Chinese AI hanfu wardrobe web app - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg" width="600" alt="AI Hanfu wardrobe virtual try-on app - Image 1">
 </div>
 
 #### 📌 Details
@@ -691,23 +741,23 @@ Generate an AI hanfu wardrobe {argument name="language_en" default="Chinese"} ap
 - **Published:** November 20, 2025
 - **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Generate%20an%20AI%20hanfu%20wardrobe%20%7Bargument%20name%3D%22language_en%22%20default%3D%22Chinese%22%7D%20application%20that%20uses%20AI%20face-swapping%20or%203D%20body-shape%20technology.%20Users%20can%20upload%20a%20photo%20and%20with%20one%20click%20%E2%80%9Ctry%20on%E2%80%9D%20hanfu%20from%20various%20dynasties%20(%7Bargument%20name%3D%22dynasty1_en%22%20default%3D%22Tang%22%7D%2C%20%7Bargument%20name%3D%22dynasty2_en%22%20default%3D%22Song%22%7D%2C%20%7Bargument%20name%3D%22dynasty3_en%22%20default%3D%22Ming%22%7D)%2C%20or%20freely%20mix%20and%20match%20hairpins%20and%20makeup.)**
+**[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Generate%20a%20Chinese-language%20AI%20Hanfu%20wardrobe%20application.%20Use%20AI%20face-swapping%20or%203D%20body-shape%20technology.%20Users%20upload%20a%20photo%20and%20can%2C%20with%20one%20click%2C%20%22try%20on%22%20Hanfu%20from%20various%20dynasties%20(%7Bargument%20name%3D%22dynasty_1_en%22%20default%3D%22Tang%22%7D%2C%20%7Bargument%20name%3D%22dynasty_2_en%22%20default%3D%22Song%22%7D%2C%20%7Bargument%20name%3D%22dynasty_3_en%22%20default%3D%22Ming%22%7D)%2C%20or%20customize%20hairpins%20and%20makeup%20themselves.)**
 
 ---
 
-### No. 18: Retro Motorola Fix Beeper typewriter web app
+### No. 19: Retro Motorola Fix Beeper typewriter web app
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A Chinese prompt for Gemini 3 Pro to build a retro-style Motorola Fix Beeper typing web app where a central typewriter turns user input into slowly typed cards that can be dragged around the page.
+A Chinese prompt for Gemini 3 Pro to build a retro Motorola Fix Beeper style web typewriter that turns user input text into draggable cards with slow typing animation in the center of the page.
 
 #### 📝 Prompt
 
 ```
-Please help me create a retro typewriter application themed around {argument name="device_name_en" default="Motorola Fix Beeper"}. A typewriter is displayed in the center of the web page and can turn the text entered by the user into a card, with an effect similar to a typewriter slowly typing it out, and the card can be dragged to empty areas of the page.
+Please help me create a retro typewriter web application themed around {argument name="device_name_en" default="Motorola Fix Beeper"}. In the center of the page, display a typewriter that can take text entered by the user and generate it as a card, with an effect similar to the slow typing of a typewriter, and allow the card to be dragged to empty areas.
 ```
 
 #### 🖼️ Example Images
@@ -725,11 +775,11 @@ Please help me create a retro typewriter application themed around {argument nam
 - **Published:** November 20, 2025
 - **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Please%20help%20me%20create%20a%20retro%20typewriter%20application%20themed%20around%20%7Bargument%20name%3D%22device_name_en%22%20default%3D%22Motorola%20Fix%20Beeper%22%7D.%20A%20typewriter%20is%20displayed%20in%20the%20center%20of%20the%20web%20page%20and%20can%20turn%20the%20text%20entered%20by%20the%20user%20into%20a%20card%2C%20with%20an%20effect%20similar%20to%20a%20typewriter%20slowly%20typing%20it%20out%2C%20and%20the%20card%20can%20be%20dragged%20to%20empty%20areas%20of%20the%20page.)**
+**[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Please%20help%20me%20create%20a%20retro%20typewriter%20web%20application%20themed%20around%20%7Bargument%20name%3D%22device_name_en%22%20default%3D%22Motorola%20Fix%20Beeper%22%7D.%20In%20the%20center%20of%20the%20page%2C%20display%20a%20typewriter%20that%20can%20take%20text%20entered%20by%20the%20user%20and%20generate%20it%20as%20a%20card%2C%20with%20an%20effect%20similar%20to%20the%20slow%20typing%20of%20a%20typewriter%2C%20and%20allow%20the%20card%20to%20be%20dragged%20to%20empty%20areas.)**
 
 ---
 
-### No. 19: Chinese web app for Greek mythology constellations
+### No. 20: Chinese web app for Greek mythology constellations
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -763,7 +813,7 @@ Generate a {argument name="language_en" default="Chinese"} web application that 
 
 ---
 
-### No. 20: Cyber-style modern Chinese almanac web app
+### No. 21: Cyber-style modern Chinese almanac web app
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -797,7 +847,7 @@ Generate a cyber-style Chinese web application for a modern daily almanac aimed 
 
 ---
 
-### No. 21: Retro Polaroid-style camera web app
+### No. 22: Retro Polaroid-style camera web app
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -830,7 +880,41 @@ Please help me create a retro Polaroid-style camera web application. In the lowe
 
 ---
 
-### No. 22: Raymarched Mandelbulb fractal with audio-reactive particles in Three.js
+### No. 23: Maximalist digital hot dog startup website
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A playful prompt for Gemini 3.0 Pro to design a maximalist, shader-heavy, wavy gradient website for a fictional startup selling digital hot dogs, with beautifully animated hero text reacting to mouse hover.
+
+#### 📝 Prompt
+
+```
+Design a maximalist website for a fictional startup that sells {argument name="product_en" default="digital hot dogs"}. I want beautifully animated hero text with shaders that react to mouse hover, with lots of dithering and wavy, groovy gradients.
+```
+
+#### 🖼️ Example Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764255462517_0xbgr4_8CEmdG0IihE4XzEk.jpg" width="600" alt="Maximalist digital hot dog startup website - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [ben](https://x.com/benhylak)
+- **Source:** [Twitter Post](https://x.com/benhylak/status/1991225744194691289)
+- **Published:** November 19, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Design%20a%20maximalist%20website%20for%20a%20fictional%20startup%20that%20sells%20%7Bargument%20name%3D%22product_en%22%20default%3D%22digital%20hot%20dogs%22%7D.%20I%20want%20beautifully%20animated%20hero%20text%20with%20shaders%20that%20react%20to%20mouse%20hover%2C%20with%20lots%20of%20dithering%20and%20wavy%2C%20groovy%20gradients.)**
+
+---
+
+### No. 24: Raymarched Mandelbulb fractal with audio-reactive particles in Three.js
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -864,7 +948,7 @@ Create a raymarching Mandelbulb fractal in GLSL, surround it with {argument name
 
 ---
 
-### No. 23: Agency-style website for a client called AP
+### No. 25: Agency-style website for a client called AP
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -898,7 +982,114 @@ You are the studio {argument name="studio_name_en" default="makemepulse"}. Build
 
 ---
 
-### No. 24: Chinese traditional colors daily web app
+### No. 26: Laser eye effect web demo with Mediapipe and Three.js
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A concise technical prompt for Gemini 3 to build a web experience that uses the front camera and Mediapipe facial landmarks to apply a real-time 3D laser eye effect via Three.js.
+
+#### 📝 Prompt
+
+```
+Use the computer's front-facing camera.
+Use the `mediapipe` library to capture facial landmarks.
+Use `threejs` to apply a LASER EYE effect to the face captured by the camera, based on the real-time 3D landmark information provided by `mediapipe`.
+```
+
+#### 🖼️ Example Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764255461636_mdlo2t_TrOA856i8yUthOuI.jpg" width="600" alt="Laser eye effect web demo with Mediapipe and Three.js - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [愚瞳 | winterx](https://x.com/fangyex)
+- **Source:** [Twitter Post](https://x.com/fangyex/status/1991186281704173931)
+- **Published:** November 19, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Use%20the%20computer's%20front-facing%20camera.%0AUse%20the%20%60mediapipe%60%20library%20to%20capture%20facial%20landmarks.%0AUse%20%60threejs%60%20to%20apply%20a%20LASER%20EYE%20effect%20to%20the%20face%20captured%20by%20the%20camera%2C%20based%20on%20the%20real-time%203D%20landmark%20information%20provided%20by%20%60mediapipe%60.)**
+
+---
+
+### No. 27: Three.js survival-mode replica of Minecraft
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A prompt instructing Gemini 3 Pro to design a full survival-mode replica of Minecraft using Three.js for the web.
+
+#### 📝 Prompt
+
+```
+Design a full survival-mode replica of {argument name="game_name_en" default="Minecraft"} using {argument name="tech_stack_en" default="Three.js"}.
+```
+
+#### 🖼️ Example Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764255475793_hdfpvg_nCOFPLDKO3ls9qTb.jpg" width="600" alt="Three.js survival-mode replica of Minecraft - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Vardhan Agnihotri](https://x.com/agno_three)
+- **Source:** [Twitter Post](https://x.com/agno_three/status/1991176488289223136)
+- **Published:** November 19, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Design%20a%20full%20survival-mode%20replica%20of%20%7Bargument%20name%3D%22game_name_en%22%20default%3D%22Minecraft%22%7D%20using%20%7Bargument%20name%3D%22tech_stack_en%22%20default%3D%22Three.js%22%7D.)**
+
+---
+
+### No. 28: Enterprise landing page with interactive responsive design
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A prompt for Gemini to generate a professional enterprise landing page with responsive layout, animations, and interactive elements, adaptable to any business type.
+
+#### 📝 Prompt
+
+```
+Generate an enterprise-grade professional landing page for {argument name="business_description_en" default="[DESCRIBE YOUR BUSINESS]"}.
+
+Add interactive elements, animations, and make it fully responsive.
+
+Surprise me, be creative, and do this step by step.
+```
+
+#### 🖼️ Example Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764255470380_e6ucvk_ubnvLR01M37lxkrV.jpg" width="600" alt="Enterprise landing page with interactive responsive design - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [God of Prompt](https://x.com/godofprompt)
+- **Source:** [Twitter Post](https://x.com/godofprompt/status/1991146150859039013)
+- **Published:** November 19, 2025
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Generate%20an%20enterprise-grade%20professional%20landing%20page%20for%20%7Bargument%20name%3D%22business_description_en%22%20default%3D%22%5BDESCRIBE%20YOUR%20BUSINESS%5D%22%7D.%0A%0AAdd%20interactive%20elements%2C%20animations%2C%20and%20make%20it%20fully%20responsive.%0A%0ASurprise%20me%2C%20be%20creative%2C%20and%20do%20this%20step%20by%20step.)**
+
+---
+
+### No. 29: Chinese traditional colors daily web app
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -932,19 +1123,19 @@ Generate a web application that introduces one {argument name="color_system_en" 
 
 ---
 
-### No. 25: Web-based Word-like rich text editor in a single HTML file
+### No. 30: Web-based Word-like rich text editor in one HTML file
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A concise Chinese prompt asking Gemini 3.0 Pro to build a Word-style web rich text editor with key formatting features and download functionality, all bundled into one HTML file.
+A Chinese prompt for Gemini-3.0-Pro to build a Word-style rich text editor as a single HTML file, including major formatting features and a download option.
 
 #### 📝 Prompt
 
 ```
-Help me write a web-based rich text editor similar to {argument name="target_app_en" default="Word"}, including its main features, with all code in a single HTML file. It should support things like: headings, paragraphs, left alignment, bold, italic, right alignment, underline, strikethrough, background color, text color, lists/numbering, undo/redo, and finally a download feature so it can directly generate HTML. That’s it!
+Help me write a web-based rich text editor similar to {argument name="reference_software_en" default="Word"}, including its main features, with all code contained in a single HTML file. It should support: headings, paragraphs, left alignment, bold, italic, right alignment, underline, strikethrough, background color, text color, numbering, undo, and finally a download function. Directly generate the HTML, and that’s it!
 ```
 
 #### 🖼️ Example Images
@@ -952,7 +1143,7 @@ Help me write a web-based rich text editor similar to {argument name="target_app
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg" width="600" alt="Web-based Word-like rich text editor in a single HTML file - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg" width="600" alt="Web-based Word-like rich text editor in one HTML file - Image 1">
 </div>
 
 #### 📌 Details
@@ -962,24 +1153,24 @@ Help me write a web-based rich text editor similar to {argument name="target_app
 - **Published:** November 19, 2025
 - **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Help%20me%20write%20a%20web-based%20rich%20text%20editor%20similar%20to%20%7Bargument%20name%3D%22target_app_en%22%20default%3D%22Word%22%7D%2C%20including%20its%20main%20features%2C%20with%20all%20code%20in%20a%20single%20HTML%20file.%20It%20should%20support%20things%20like%3A%20headings%2C%20paragraphs%2C%20left%20alignment%2C%20bold%2C%20italic%2C%20right%20alignment%2C%20underline%2C%20strikethrough%2C%20background%20color%2C%20text%20color%2C%20lists%2Fnumbering%2C%20undo%2Fredo%2C%20and%20finally%20a%20download%20feature%20so%20it%20can%20directly%20generate%20HTML.%20That%E2%80%99s%20it!)**
+**[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Help%20me%20write%20a%20web-based%20rich%20text%20editor%20similar%20to%20%7Bargument%20name%3D%22reference_software_en%22%20default%3D%22Word%22%7D%2C%20including%20its%20main%20features%2C%20with%20all%20code%20contained%20in%20a%20single%20HTML%20file.%20It%20should%20support%3A%20headings%2C%20paragraphs%2C%20left%20alignment%2C%20bold%2C%20italic%2C%20right%20alignment%2C%20underline%2C%20strikethrough%2C%20background%20color%2C%20text%20color%2C%20numbering%2C%20undo%2C%20and%20finally%20a%20download%20function.%20Directly%20generate%20the%20HTML%2C%20and%20that%E2%80%99s%20it!)**
 
 ---
 
-### No. 26: Chinese Twitter KOL ranking landing page
+### No. 31: Chinese Twitter KOL leaderboard landing page
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Description
 
-A Chinese prompt instructing Gemini to act as an aesthetically skilled frontend engineer and create a dark, high-contrast landing page for a Chinese Twitter KOL ranking site with Tailwind CSS and HTML5.
+A Chinese prompt that asks Gemini 3.0 to act as an aesthetically minded frontend engineer and build a dark, high-contrast, Tailwind-powered landing page for a Chinese Twitter KOL ranking site, fetching data from the web and outputting pure HTML with animations.
 
 #### 📝 Prompt
 
 ```
-As a frontend engineer with a strong sense of aesthetics, create a landing page for a website called "{argument name="site_name_en" default="Chinese Twitter KOL Ranking"}". Maximize the sense of design, use a minimalist color scheme, dark mode, and high contrast. Fetch the data source from the web.
-Use Tailwind CSS + HTML5, add animations, and output the HTML code directly.
+As a frontend engineer with a strong sense of aesthetics, create a website landing page for "{argument name="leaderboard_name_en" default="Chinese Twitter KOL Leaderboard"}". The design should be highly polished, with a minimal color palette, dark mode, and high contrast. Fetch the data source from the web.
+Use Tailwind CSS + HTML5, add animations, and output only the HTML code directly.
 ```
 
 #### 🖼️ Example Images
@@ -987,7 +1178,7 @@ Use Tailwind CSS + HTML5, add animations, and output the HTML code directly.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209256210_9yuf3c_nSwhmffYWeL8BVnG.jpg" width="600" alt="Chinese Twitter KOL ranking landing page - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209256210_9yuf3c_nSwhmffYWeL8BVnG.jpg" width="600" alt="Chinese Twitter KOL leaderboard landing page - Image 1">
 </div>
 
 #### 📌 Details
@@ -997,11 +1188,11 @@ Use Tailwind CSS + HTML5, add animations, and output the HTML code directly.
 - **Published:** November 19, 2025
 - **Languages:** zh
 
-**[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=As%20a%20frontend%20engineer%20with%20a%20strong%20sense%20of%20aesthetics%2C%20create%20a%20landing%20page%20for%20a%20website%20called%20%22%7Bargument%20name%3D%22site_name_en%22%20default%3D%22Chinese%20Twitter%20KOL%20Ranking%22%7D%22.%20Maximize%20the%20sense%20of%20design%2C%20use%20a%20minimalist%20color%20scheme%2C%20dark%20mode%2C%20and%20high%20contrast.%20Fetch%20the%20data%20source%20from%20the%20web.%0AUse%20Tailwind%20CSS%20%2B%20HTML5%2C%20add%20animations%2C%20and%20output%20the%20HTML%20code%20directly.)**
+**[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=As%20a%20frontend%20engineer%20with%20a%20strong%20sense%20of%20aesthetics%2C%20create%20a%20website%20landing%20page%20for%20%22%7Bargument%20name%3D%22leaderboard_name_en%22%20default%3D%22Chinese%20Twitter%20KOL%20Leaderboard%22%7D%22.%20The%20design%20should%20be%20highly%20polished%2C%20with%20a%20minimal%20color%20palette%2C%20dark%20mode%2C%20and%20high%20contrast.%20Fetch%20the%20data%20source%20from%20the%20web.%0AUse%20Tailwind%20CSS%20%2B%20HTML5%2C%20add%20animations%2C%20and%20output%20only%20the%20HTML%20code%20directly.)**
 
 ---
 
-### No. 27: English picture book learning web app
+### No. 32: English picture book learning web app
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1035,7 +1226,7 @@ Create a picture book for learning {argument name="learning_subject" default="En
 
 ---
 
-### No. 28: Capacitive touchscreen principle animation
+### No. 33: Capacitive touchscreen principle animation
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1068,7 +1259,7 @@ Create an animation demonstrating the capacitive principle of a touch screen.
 
 ---
 
-### No. 29: Douyin recommendation algorithm demo animation
+### No. 34: Douyin recommendation algorithm demo animation
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1102,7 +1293,7 @@ Create a demo animation of the recommendation algorithm for {argument name="plat
 
 ---
 
-### No. 30: Multi-level gear linkage system animation
+### No. 35: Multi-level gear linkage system animation
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1135,7 +1326,7 @@ A multi-level gear linkage system where rotating the main gear causes all gears 
 
 ---
 
-### No. 31: Parallax scrolling homepage with explosive visual effects
+### No. 36: Parallax scrolling homepage with explosive visual effects
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1168,7 +1359,7 @@ Create a parallax scrolling website with explosive visual effects: layered backg
 
 ---
 
-### No. 32: High-end Swiss-style landing page generator in React
+### No. 37: High-end Swiss-style landing page generator in React
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1226,7 +1417,7 @@ Style: {argument name="style_en" default="Apple/Linear-like Swiss modern style"}
 
 ---
 
-### No. 33: Glassmorphism neon interface UI
+### No. 38: Glassmorphism neon interface UI
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1259,7 +1450,7 @@ A glassmorphism neon interface with ultra-modern UI lighting effects and semi-tr
 
 ---
 
-### No. 34: Interactive SVG demo of Tesla FSD road recognition
+### No. 39: Interactive SVG demo of Tesla FSD road recognition
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1292,7 +1483,7 @@ Use SVG to draw a dynamic, interactive demonstration of how Tesla FSD recognizes
 
 ---
 
-### No. 35: Rebuild GitHub’s React project page UI
+### No. 40: Rebuild GitHub’s React project page UI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1326,7 +1517,7 @@ Build the GitHub page of {argument name="project_name_en" default="React"}.
 
 ---
 
-### No. 36: Three.js museum walkthrough scene
+### No. 41: Three.js museum walkthrough scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1363,7 +1554,7 @@ Also place white blocks in the middle of the hall.
 
 ---
 
-### No. 37: Voxel art threejs scene generation prompt from image
+### No. 42: Voxel art threejs scene generation prompt from image
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1396,7 +1587,7 @@ I have provided an image. Code a beautiful voxel art scene inspired by this imag
 
 ---
 
-### No. 38: 3D Rubik’s cube web app with mix and solve controls
+### No. 43: 3D Rubik’s cube web app with mix and solve controls
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1430,7 +1621,7 @@ Build a 3D {argument name="puzzle_type_en" default="Rubik's cube"}, include a bu
 
 ---
 
-### No. 39: CapCut-like video editor UI in Gemini
+### No. 44: CapCut-like video editor UI in Gemini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1464,7 +1655,7 @@ Design a {argument name="app_name_en" default="CapCut"}.
 
 ---
 
-### No. 40: Single-file HTML billiards game
+### No. 45: Single-file HTML billiards game
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1498,7 +1689,7 @@ Please create a fully functional {argument name="game_type_en" default="billiard
 
 ---
 
-### No. 41: Quantum core monitoring single-page HTML
+### No. 46: Quantum core monitoring single-page HTML
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1532,7 +1723,7 @@ Please generate a single-page HTML (SVG) for a “{argument name="system_name_en
 
 ---
 
-### No. 42: Dynamic point cloud special relativity webpage
+### No. 47: Dynamic point cloud special relativity webpage
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1565,7 +1756,7 @@ Write a dynamic webpage that uses a cool point-cloud style to explain special re
 
 ---
 
-### No. 43: Single-file SVG of an Xbox controller
+### No. 48: Single-file SVG of an Xbox controller
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1599,7 +1790,7 @@ Create an SVG of an {argument name="controller_type_en" default="Xbox controller
 
 ---
 
-### No. 44: Neobrutalist webpage generation prompt
+### No. 49: Neobrutalist webpage generation prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1633,7 +1824,7 @@ Make a neobrutalist webpage, make it extremely creative and push the limits as f
 
 ---
 
-### No. 45: New York skyline SVG single-HTML scene
+### No. 50: New York skyline SVG single-HTML scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1710,6 +1901,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T12:23:13.474Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T16:30:09.189Z</sub>
 
 </div>

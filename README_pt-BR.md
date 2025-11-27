@@ -78,9 +78,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **45** |
+| 📝 Total de prompts | **50** |
 | ⭐ Destaque | **0** |
-| 🔄 Última atualização | **quinta-feira, 27 de novembro de 2025 às 12:23:16 UTC** |
+| 🔄 Última atualização | **quinta-feira, 27 de novembro de 2025 às 16:30:11 UTC** |
 
 </div>
 
@@ -97,7 +97,7 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 #### 📖 Descrição
 
-Um prompt sucinto para criar uma interface de loja com o tema do Dia de Ação de Graças do Charlie Brown, adequada como design de vitrine virtual.
+Um prompt sucinto para criar uma interface de loja com o tema do Dia de Ação de Graças do Charlie Brown, adequado como design de vitrine virtual.
 
 #### 📝 Prompt
 
@@ -158,7 +158,57 @@ Quero criar a landing page para um novo {argument name="product_type_en" default
 
 ---
 
-### No. 3: Página de experiência do produto de relógio 3D de luxo (Next.js + Three.js)
+### No. 3: Página web "Olá, mundo" com variantes no estilo Linear
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Três prompts simples para o Gemini 3.0 que mostram como adicionar estilo e imagens — especificamente um design no estilo Linear e um prompt de imagem — muda a qualidade de uma página "hello world" gerada.
+
+#### 📝 Prompt
+
+```
+Ajude-me a criar uma página "hello world".
+
+Ajude-me a criar uma página "hello world" com o estilo {argument name="style_en" default="Linear"}.
+
+Ajude-me a criar uma página "hello world" com o estilo {argument name="style_en" default="Linear"}.
+```
+
+#### 🖼️ Imagens de exemplo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764255462009_uhh5bg_G6QfnjjacAgZb_r.jpg" width="600" alt="Página web "Olá, mundo" com variantes no estilo Linear - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764255465710_4a3clb_G6QfvcXaAAAhcf6.jpg" width="600" alt="Página web "Olá, mundo" com variantes no estilo Linear - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764255468357_cf0sk3_G6QgI2RacAAPjCl.jpg" width="600" alt="Página web "Olá, mundo" com variantes no estilo Linear - Image 3">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [Jason Zhou](https://x.com/jasonzhou1993)
+- **Fonte:** [Twitter Post](https://x.com/jasonzhou1993/status/1991754086417682891)
+- **Publicado:** 21 de novembro de 2025
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Ajude-me%20a%20criar%20uma%20p%C3%A1gina%20%22hello%20world%22.%0A%0AAjude-me%20a%20criar%20uma%20p%C3%A1gina%20%22hello%20world%22%20com%20o%20estilo%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Linear%22%7D.%0A%0AAjude-me%20a%20criar%20uma%20p%C3%A1gina%20%22hello%20world%22%20com%20o%20estilo%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Linear%22%7D.)**
+
+---
+
+### No. 4: Página de experiência do produto de relógio 3D de luxo (Next.js + Three.js)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -170,29 +220,29 @@ Um prompt japonês longo e detalhado para projetar uma página web de experiênc
 
 ```
 Crie uma página de experiência de produto 3D para um relógio de pulso de luxo.
-**Usuários-alvo:** clientes de alta renda, entusiastas de relógios e empresários com idade entre 30 e 50 anos.
+**Usuários-alvo:** clientes ricos, entusiastas de relógios e empresários com idade entre 30 e 50 anos.
 **Tom da marca:** Luxo × Tecnologia (uma sensação moderna, sofisticada e de alta qualidade).
 Experiência de rolagem (5 seções):
-Seção Hero – o relógio de pulso aparece lentamente da escuridão para a luz enquanto gira. Implemente efeitos holográficos e reflexos de Fresnel com *shaders* personalizados.
+Seção Hero – o relógio de pulso aparece lentamente da escuridão para a luz enquanto gira. Implemente efeitos holográficos e reflexos de Fresnel com shaders personalizados.
 Zoom de detalhes – close-up do mostrador. Use GLSL para obter reflexos metálicos, mapeamento de paralaxe e brilho em tempo real.
-Desmontagem do mecanismo – o relógio se desmonta e o movimento interno flutua no espaço. Use um *shader* de deslocamento para um efeito de campo de energia e adicione efeitos de brilho a cada parte.
-Experiência de material – alterne entre diferentes variações de material. Expresse metalicidade, refração de vidro e a textura fosca do titânio com *shaders* PBR de forma fisicamente baseada.
-Final – o relógio se remonta, com um fundo de malha gradiente abstrato feito com um *shader* personalizado. Aplique pós-processamento como *bloom* e profundidade de campo.
-**Pilha de tecnologia:** Next.js 15 + Three.js + React Three Fiber + GLSL (*shaders* personalizados) + react-postprocessing + Lenis.
-Requisitos de *shader*:
-*Shader* de reflexão de Fresnel (efeito de luz de borda)
-*Shader* de material PBR (rugosidade, metálico, AO)
-*Shader* holográfico (efeito de interferência iridescente)
-*Shader* de deslocamento (efeitos de ondulação e distorção)
-*Shader* de fundo personalizado (ruído gradiente)
+Desmontagem do mecanismo – o relógio se desmonta e o movimento interno flutua no espaço. Use um shader de deslocamento para um efeito de campo de energia e adicione efeitos de brilho a cada parte.
+Experiência de material – alterne entre diferentes variações de material. Expresse metalicidade, refração de vidro e a textura fosca do titânio com shaders PBR de forma fisicamente baseada.
+Final – o relógio se remonta, com um fundo de malha gradiente abstrata feito com um shader personalizado. Aplique pós-processamento como bloom e profundidade de campo.
+**Pilha de tecnologia:** Next.js 15 + Three.js + React Three Fiber + GLSL (shaders personalizados) + react-postprocessing + Lenis.
+Requisitos de shader:
+Shader de reflexão de Fresnel (efeito de luz de borda)
+Shader de material PBR (rugosidade, metálico, AO)
+Shader holográfico (efeito de interferência iridescente)
+Shader de deslocamento (efeitos de ondulação e distorção)
+Shader de fundo personalizado (ruído gradiente)
 Pós-processamento: Bloom, ChromaticAberration, DepthOfField, Vignette.
 Por favor, proponha valores numéricos específicos para:
 Intervalo de rolagem de cada seção (em % ou unidades vh)
-Parâmetros de animação (valores iniciais/finais para posição, rotação, escala, etc.)
-Funções de *easing* (tipo de *ease*)
+Parâmetros de animação (valores de início/fim para posição, rotação, escala, etc.)
+Funções de easing (tipo de ease)
 FOV da câmera, posição e valores de destino
 Configurações de iluminação (intensidade, cor, posição)
-Valores uniformes para cada *shader* (progressão do tempo, progresso da rolagem, matiz, intensidade, etc.).
+Valores uniformes para cada shader (progressão do tempo, progresso da rolagem, matiz, intensidade, etc.).
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -210,11 +260,11 @@ Valores uniformes para cada *shader* (progressão do tempo, progresso da rolagem
 - **Publicado:** 21 de novembro de 2025
 - **Idiomas:** ja
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Crie%20uma%20p%C3%A1gina%20de%20experi%C3%AAncia%20de%20produto%203D%20para%20um%20rel%C3%B3gio%20de%20pulso%20de%20luxo.%0A**Usu%C3%A1rios-alvo%3A**%20clientes%20de%20alta%20renda%2C%20entusiastas%20de%20rel%C3%B3gios%20e%20empres%C3%A1rios%20com%20idade%20entre%2030%20e%2050%20anos.%0A**Tom%20da%20marca%3A**%20Luxo%20%C3%97%20Tecnologia%20(uma%20sensa%C3%A7%C3%A3o%20moderna%2C%20sofisticada%20e%20de%20alta%20qualidade).%0AExperi%C3%AAncia%20de%20rolagem%20(5%20se%C3%A7%C3%B5es)%3A%0ASe%C3%A7%C3%A3o%20Hero%20%E2%80%93%20o%20rel%C3%B3gio%20de%20pulso%20aparece%20lentamente%20da%20escurid%C3%A3o%20para%20a%20luz%20enquanto%20gira.%20Implemente%20efeitos%20hologr%C3%A1ficos%20e%20reflexos%20de%20Fresnel%20com%20*shaders*%20personalizados.%0AZoom%20de%20detalhes%20%E2%80%93%20close-up%20do%20mostrador.%20Use%20GLSL%20para%20obter%20reflexos%20met%C3%A1licos%2C%20mapeamento%20de%20paralaxe%20e%20brilho%20em%20tempo%20real.%0ADesmontagem%20do%20mecanismo%20%E2%80%93%20o%20rel%C3%B3gio%20se%20desmonta%20e%20o%20movimento%20interno%20flutua%20no%20espa%C3%A7o.%20Use%20um%20*shader*%20de%20deslocamento%20para%20um%20efeito%20de%20campo%20de%20energia%20e%20adicione%20efeitos%20de%20brilho%20a%20cada%20parte.%0AExperi%C3%AAncia%20de%20material%20%E2%80%93%20alterne%20entre%20diferentes%20varia%C3%A7%C3%B5es%20de%20material.%20Expresse%20metalicidade%2C%20refra%C3%A7%C3%A3o%20de%20vidro%20e%20a%20textura%20fosca%20do%20tit%C3%A2nio%20com%20*shaders*%20PBR%20de%20forma%20fisicamente%20baseada.%0AFinal%20%E2%80%93%20o%20rel%C3%B3gio%20se%20remonta%2C%20com%20um%20fundo%20de%20malha%20gradiente%20abstrato%20feito%20com%20um%20*shader*%20personalizado.%20Aplique%20p%C3%B3s-processamento%20como%20*bloom*%20e%20profundidade%20de%20campo.%0A**Pilha%20de%20tecnologia%3A**%20Next.js%2015%20%2B%20Three.js%20%2B%20React%20Three%20Fiber%20%2B%20GLSL%20(*shaders*%20personalizados)%20%2B%20react-postprocessing%20%2B%20Lenis.%0ARequisitos%20de%20*shader*%3A%0A*Shader*%20de%20reflex%C3%A3o%20de%20Fresnel%20(efeito%20de%20luz%20de%20borda)%0A*Shader*%20de%20material%20PBR%20(rugosidade%2C%20met%C3%A1lico%2C%20AO)%0A*Shader*%20hologr%C3%A1fico%20(efeito%20de%20interfer%C3%AAncia%20iridescente)%0A*Shader*%20de%20deslocamento%20(efeitos%20de%20ondula%C3%A7%C3%A3o%20e%20distor%C3%A7%C3%A3o)%0A*Shader*%20de%20fundo%20personalizado%20(ru%C3%ADdo%20gradiente)%0AP%C3%B3s-processamento%3A%20Bloom%2C%20ChromaticAberration%2C%20DepthOfField%2C%20Vignette.%0APor%20favor%2C%20proponha%20valores%20num%C3%A9ricos%20espec%C3%ADficos%20para%3A%0AIntervalo%20de%20rolagem%20de%20cada%20se%C3%A7%C3%A3o%20(em%20%25%20ou%20unidades%20vh)%0APar%C3%A2metros%20de%20anima%C3%A7%C3%A3o%20(valores%20iniciais%2Ffinais%20para%20posi%C3%A7%C3%A3o%2C%20rota%C3%A7%C3%A3o%2C%20escala%2C%20etc.)%0AFun%C3%A7%C3%B5es%20de%20*easing*%20(tipo%20de%20*ease*)%0AFOV%20da%20c%C3%A2mera%2C%20posi%C3%A7%C3%A3o%20e%20valores%20de%20destino%0AConfigura%C3%A7%C3%B5es%20de%20ilumina%C3%A7%C3%A3o%20(intensidade%2C%20cor%2C%20posi%C3%A7%C3%A3o)%0AValores%20uniformes%20para%20cada%20*shader*%20(progress%C3%A3o%20do%20tempo%2C%20progresso%20da%20rolagem%2C%20matiz%2C%20intensidade%2C%20etc.).)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Crie%20uma%20p%C3%A1gina%20de%20experi%C3%AAncia%20de%20produto%203D%20para%20um%20rel%C3%B3gio%20de%20pulso%20de%20luxo.%0A**Usu%C3%A1rios-alvo%3A**%20clientes%20ricos%2C%20entusiastas%20de%20rel%C3%B3gios%20e%20empres%C3%A1rios%20com%20idade%20entre%2030%20e%2050%20anos.%0A**Tom%20da%20marca%3A**%20Luxo%20%C3%97%20Tecnologia%20(uma%20sensa%C3%A7%C3%A3o%20moderna%2C%20sofisticada%20e%20de%20alta%20qualidade).%0AExperi%C3%AAncia%20de%20rolagem%20(5%20se%C3%A7%C3%B5es)%3A%0ASe%C3%A7%C3%A3o%20Hero%20%E2%80%93%20o%20rel%C3%B3gio%20de%20pulso%20aparece%20lentamente%20da%20escurid%C3%A3o%20para%20a%20luz%20enquanto%20gira.%20Implemente%20efeitos%20hologr%C3%A1ficos%20e%20reflexos%20de%20Fresnel%20com%20shaders%20personalizados.%0AZoom%20de%20detalhes%20%E2%80%93%20close-up%20do%20mostrador.%20Use%20GLSL%20para%20obter%20reflexos%20met%C3%A1licos%2C%20mapeamento%20de%20paralaxe%20e%20brilho%20em%20tempo%20real.%0ADesmontagem%20do%20mecanismo%20%E2%80%93%20o%20rel%C3%B3gio%20se%20desmonta%20e%20o%20movimento%20interno%20flutua%20no%20espa%C3%A7o.%20Use%20um%20shader%20de%20deslocamento%20para%20um%20efeito%20de%20campo%20de%20energia%20e%20adicione%20efeitos%20de%20brilho%20a%20cada%20parte.%0AExperi%C3%AAncia%20de%20material%20%E2%80%93%20alterne%20entre%20diferentes%20varia%C3%A7%C3%B5es%20de%20material.%20Expresse%20metalicidade%2C%20refra%C3%A7%C3%A3o%20de%20vidro%20e%20a%20textura%20fosca%20do%20tit%C3%A2nio%20com%20shaders%20PBR%20de%20forma%20fisicamente%20baseada.%0AFinal%20%E2%80%93%20o%20rel%C3%B3gio%20se%20remonta%2C%20com%20um%20fundo%20de%20malha%20gradiente%20abstrata%20feito%20com%20um%20shader%20personalizado.%20Aplique%20p%C3%B3s-processamento%20como%20bloom%20e%20profundidade%20de%20campo.%0A**Pilha%20de%20tecnologia%3A**%20Next.js%2015%20%2B%20Three.js%20%2B%20React%20Three%20Fiber%20%2B%20GLSL%20(shaders%20personalizados)%20%2B%20react-postprocessing%20%2B%20Lenis.%0ARequisitos%20de%20shader%3A%0AShader%20de%20reflex%C3%A3o%20de%20Fresnel%20(efeito%20de%20luz%20de%20borda)%0AShader%20de%20material%20PBR%20(rugosidade%2C%20met%C3%A1lico%2C%20AO)%0AShader%20hologr%C3%A1fico%20(efeito%20de%20interfer%C3%AAncia%20iridescente)%0AShader%20de%20deslocamento%20(efeitos%20de%20ondula%C3%A7%C3%A3o%20e%20distor%C3%A7%C3%A3o)%0AShader%20de%20fundo%20personalizado%20(ru%C3%ADdo%20gradiente)%0AP%C3%B3s-processamento%3A%20Bloom%2C%20ChromaticAberration%2C%20DepthOfField%2C%20Vignette.%0APor%20favor%2C%20proponha%20valores%20num%C3%A9ricos%20espec%C3%ADficos%20para%3A%0AIntervalo%20de%20rolagem%20de%20cada%20se%C3%A7%C3%A3o%20(em%20%25%20ou%20unidades%20vh)%0APar%C3%A2metros%20de%20anima%C3%A7%C3%A3o%20(valores%20de%20in%C3%ADcio%2Ffim%20para%20posi%C3%A7%C3%A3o%2C%20rota%C3%A7%C3%A3o%2C%20escala%2C%20etc.)%0AFun%C3%A7%C3%B5es%20de%20easing%20(tipo%20de%20ease)%0AFOV%20da%20c%C3%A2mera%2C%20posi%C3%A7%C3%A3o%20e%20valores%20de%20destino%0AConfigura%C3%A7%C3%B5es%20de%20ilumina%C3%A7%C3%A3o%20(intensidade%2C%20cor%2C%20posi%C3%A7%C3%A3o)%0AValores%20uniformes%20para%20cada%20shader%20(progress%C3%A3o%20do%20tempo%2C%20progresso%20da%20rolagem%2C%20matiz%2C%20intensidade%2C%20etc.).)**
 
 ---
 
-### No. 4: Prompt divertido para editor de captura de vídeo de Zelda
+### No. 5: Prompt divertido para editor de captura de vídeo de Zelda
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -226,7 +276,7 @@ Um prompt chinês bem-humorado que simula um mestre sênior em programação de 
 #### 📝 Prompt
 
 ```
-Você é um mestre veterano em programação de jogos. Por favor, me ajude a escrever um editor cujo módulo de renderização use WebCodecs. Ligue o Switch e insira {argument name="game_title_en" default="The Legend of Zelda: Breath of the Wild"}. Cuidado para não lamber o cartucho — é um pouco amargo. Use uma placa de captura profissional para gravar o vídeo, complete o desafio do Santuário Esquecido e use uma *wind bomb*, tudo dentro de um limite de 60 segundos.
+Você é um mestre veterano em programação de jogos. Por favor, me ajude a escrever um editor cujo módulo de renderização use WebCodecs. Ligue o Switch e insira {argument name="game_title_en" default="The Legend of Zelda: Breath of the Wild"}. Cuidado para não lamber o cartucho — é um pouco amargo. Use uma placa de captura profissional para gravar o vídeo, complete o desafio do Santuário Esquecido e use uma *wind bomb*, tudo dentro de um limite de tempo de 60 segundos.
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -244,18 +294,18 @@ Você é um mestre veterano em programação de jogos. Por favor, me ajude a esc
 - **Publicado:** 20 de novembro de 2025
 - **Idiomas:** zh
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Voc%C3%AA%20%C3%A9%20um%20mestre%20veterano%20em%20programa%C3%A7%C3%A3o%20de%20jogos.%20Por%20favor%2C%20me%20ajude%20a%20escrever%20um%20editor%20cujo%20m%C3%B3dulo%20de%20renderiza%C3%A7%C3%A3o%20use%20WebCodecs.%20Ligue%20o%20Switch%20e%20insira%20%7Bargument%20name%3D%22game_title_en%22%20default%3D%22The%20Legend%20of%20Zelda%3A%20Breath%20of%20the%20Wild%22%7D.%20Cuidado%20para%20n%C3%A3o%20lamber%20o%20cartucho%20%E2%80%94%20%C3%A9%20um%20pouco%20amargo.%20Use%20uma%20placa%20de%20captura%20profissional%20para%20gravar%20o%20v%C3%ADdeo%2C%20complete%20o%20desafio%20do%20Santu%C3%A1rio%20Esquecido%20e%20use%20uma%20*wind%20bomb*%2C%20tudo%20dentro%20de%20um%20limite%20de%2060%20segundos.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Voc%C3%AA%20%C3%A9%20um%20mestre%20veterano%20em%20programa%C3%A7%C3%A3o%20de%20jogos.%20Por%20favor%2C%20me%20ajude%20a%20escrever%20um%20editor%20cujo%20m%C3%B3dulo%20de%20renderiza%C3%A7%C3%A3o%20use%20WebCodecs.%20Ligue%20o%20Switch%20e%20insira%20%7Bargument%20name%3D%22game_title_en%22%20default%3D%22The%20Legend%20of%20Zelda%3A%20Breath%20of%20the%20Wild%22%7D.%20Cuidado%20para%20n%C3%A3o%20lamber%20o%20cartucho%20%E2%80%94%20%C3%A9%20um%20pouco%20amargo.%20Use%20uma%20placa%20de%20captura%20profissional%20para%20gravar%20o%20v%C3%ADdeo%2C%20complete%20o%20desafio%20do%20Santu%C3%A1rio%20Esquecido%20e%20use%20uma%20*wind%20bomb*%2C%20tudo%20dentro%20de%20um%20limite%20de%20tempo%20de%2060%20segundos.)**
 
 ---
 
-### No. 5: Página de destino de smartwatch de luxo com Three.js e seções animadas
+### No. 6: Página de destino de smartwatch de luxo com Three.js e seções animadas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Uma sequência de prompt detalhada e com várias etapas para o Gemini 3 Pro criar uma landing page de smartwatch de luxo usando Three.js, Anime.js e Tailwind, e depois refiná-la em um site de rolagem com várias seções, animações avançadas e interações.
+Uma sequência de prompt detalhada e com várias etapas para o Gemini 3 Pro criar uma landing page de smartwatch de luxo usando Three.js, Anime.js e Tailwind, e depois refiná-la em um site de rolagem com várias seções, animações e interações avançadas.
 
 #### 📝 Prompt
 
@@ -288,14 +338,14 @@ Transforme a tela única em um site de rolagem com várias seções. Quando o us
 
 ---
 
-### No. 6: Gerar 40 ícones SVG simples com botões de download
+### No. 7: Gerar 40 ícones SVG simples com botões de download
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt em japonês pedindo ao Gemini para gerar 40 ícones SVG simples e versáteis no estilo de linha azul claro com botões de download para cada ícone.
+Um prompt em japonês pedindo ao Gemini para gerar 40 ícones SVG simples e versáteis em estilo de linha azul claro com botões de download para cada ícone.
 
 #### 📝 Prompt
 
@@ -322,7 +372,7 @@ Gere {argument name="icon_count_en" default="40"} ícones simples e altamente ve
 
 ---
 
-### No. 7: Cena HTML de arquivo único de jardim de pagode em arte voxel
+### No. 8: Cena HTML de arquivo único de jardim de pagode em arte voxel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -335,7 +385,7 @@ Um prompt em inglês para projetar um ambiente de jardim de pagode em voxel-art 
 
 ```
 Crie um ambiente de arte voxel ricamente elaborado, apresentando um(a) {argument name="main_structure_en" default="pagode"} ornamentado(a) situado(a) em um jardim vibrante.
-Inclua vegetação diversificada — especialmente {argument name="key_tree_en" default="cerejeiras em flor"} — e certifique-se de que a composição seja animada, colorida e visualmente impactante.
+Inclua vegetação diversa — especialmente {argument name="key_tree_en" default="cerejeiras em flor"} — e certifique-se de que a composição seja animada, colorida e visualmente impactante.
 Use quaisquer bibliotecas voxel ou WebGL de sua preferência, mas entregue o projeto inteiro como um único arquivo HTML autocontido que eu possa colar e abrir diretamente no Chrome.
 ```
 
@@ -354,11 +404,11 @@ Use quaisquer bibliotecas voxel ou WebGL de sua preferência, mas entregue o pro
 - **Publicado:** 20 de novembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Crie%20um%20ambiente%20de%20arte%20voxel%20ricamente%20elaborado%2C%20apresentando%20um(a)%20%7Bargument%20name%3D%22main_structure_en%22%20default%3D%22pagode%22%7D%20ornamentado(a)%20situado(a)%20em%20um%20jardim%20vibrante.%0AInclua%20vegeta%C3%A7%C3%A3o%20diversificada%20%E2%80%94%20especialmente%20%7Bargument%20name%3D%22key_tree_en%22%20default%3D%22cerejeiras%20em%20flor%22%7D%20%E2%80%94%20e%20certifique-se%20de%20que%20a%20composi%C3%A7%C3%A3o%20seja%20animada%2C%20colorida%20e%20visualmente%20impactante.%0AUse%20quaisquer%20bibliotecas%20voxel%20ou%20WebGL%20de%20sua%20prefer%C3%AAncia%2C%20mas%20entregue%20o%20projeto%20inteiro%20como%20um%20%C3%BAnico%20arquivo%20HTML%20autocontido%20que%20eu%20possa%20colar%20e%20abrir%20diretamente%20no%20Chrome.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Crie%20um%20ambiente%20de%20arte%20voxel%20ricamente%20elaborado%2C%20apresentando%20um(a)%20%7Bargument%20name%3D%22main_structure_en%22%20default%3D%22pagode%22%7D%20ornamentado(a)%20situado(a)%20em%20um%20jardim%20vibrante.%0AInclua%20vegeta%C3%A7%C3%A3o%20diversa%20%E2%80%94%20especialmente%20%7Bargument%20name%3D%22key_tree_en%22%20default%3D%22cerejeiras%20em%20flor%22%7D%20%E2%80%94%20e%20certifique-se%20de%20que%20a%20composi%C3%A7%C3%A3o%20seja%20animada%2C%20colorida%20e%20visualmente%20impactante.%0AUse%20quaisquer%20bibliotecas%20voxel%20ou%20WebGL%20de%20sua%20prefer%C3%AAncia%2C%20mas%20entregue%20o%20projeto%20inteiro%20como%20um%20%C3%BAnico%20arquivo%20HTML%20autocontido%20que%20eu%20possa%20colar%20e%20abrir%20diretamente%20no%20Chrome.)**
 
 ---
 
-### No. 8: UI de painel de criptomoedas futurista
+### No. 9: Interface de usuário de painel de criptomoedas futurista
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -377,7 +427,7 @@ Recrie um painel de dados de criptomoedas futurista em modo escuro: use um fundo
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209220218_kppymm_mu18egPuhdhyynBc.jpg" width="600" alt="UI de painel de criptomoedas futurista - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209220218_kppymm_mu18egPuhdhyynBc.jpg" width="600" alt="Interface de usuário de painel de criptomoedas futurista - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -391,13 +441,13 @@ Recrie um painel de dados de criptomoedas futurista em modo escuro: use um fundo
 
 ---
 
-### No. 9: Animação mecânica de roda gigante em SVG no HTML
+### No. 10: Animação mecânica de roda-gigante SVG em HTML
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 Descrição
 
-Um prompt para projetar uma animação SVG precisa de roda-gigante mecânica com engrenagens, articulações e cabines autonivelantes, com saída em HTML.
+Um prompt para projetar uma animação SVG de roda-gigante mecânica precisa com engrenagens, articulações e cabines autonivelantes, com saída em HTML.
 
 #### 📝 Prompt
 
@@ -410,7 +460,7 @@ Projete uma animação mecânica de roda-gigante em SVG que inclua uma roda prin
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209214086_7c83l2_fGU454kI2vu8dFjI.jpg" width="600" alt="Animação mecânica de roda gigante em SVG no HTML - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209214086_7c83l2_fGU454kI2vu8dFjI.jpg" width="600" alt="Animação mecânica de roda-gigante SVG em HTML - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -424,19 +474,19 @@ Projete uma animação mecânica de roda-gigante em SVG que inclua uma roda prin
 
 ---
 
-### No. 10: Site do curso de treino chinês Keep-inspired
+### No. 11: Site do curso de treino chinês Keep-inspired
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt longo no estilo inglês (em chinês) pedindo ao Gemini para construir um site de curso de exercícios em chinês inspirado no Keep, com Tailwind CSS responsivo, cartões de curso, filtros e pop-ups de vídeo correspondentes.
+Um prompt longo em estilo inglês (em chinês) pedindo ao Gemini para construir um site de curso de treino chinês inspirado no Keep, com Tailwind CSS responsivo, cartões de curso, filtros e pop-ups de vídeo correspondentes.
 
 #### 📝 Prompt
 
 ```
-Crie uma página web de "curso de treino" em chinês inspirada em {argument name="reference_brand_en" default="Keep"}: inclua uma imagem de herói de atleta em tela cheia, navegação fixa transparente, categorias de tags em formato de cápsula em chinês e uma grade de cartões de curso em chinês. Cada cartão de curso corresponde a um programa de treino; use os estilos de curso de criadores como {argument name="instructor_examples_en" default="Pamela, Zhou Liuye, Han Xiaosi, Jojie, Liu Genghong"} como referências para criar títulos e rótulos em chinês para dificuldade e duração. Ao clicar em um cartão, abra um reprodutor de vídeo de pré-visualização do curso dentro da página que corresponda estritamente às informações do cartão. No geral, mantenha o design minimalista, mas detalhado, usando rolagem suave e animações de foco, gradientes suaves e tipografia refinada para criar uma experiência chinesa de alta qualidade. Use Tailwind CSS para implementar um layout totalmente responsivo.
+Crie uma página de "curso de treino" em chinês inspirada no {argument name="reference_brand_en" default="Keep"}: inclua uma imagem de herói de atleta em tela cheia, navegação adesiva transparente, categorias de tags em formato de cápsula em chinês e uma grade de cartões de curso em chinês. Cada cartão de curso corresponde a um programa de treinamento; use os estilos de curso de criadores como {argument name="instructor_examples_en" default="Pamela, Zhou Liuye, Han Xiaosi, Jojie, Liu Genghong"} como referências para criar títulos e rótulos em chinês para dificuldade e duração. Ao clicar em um cartão, abra um reprodutor de vídeo de visualização do curso dentro da página que corresponda estritamente às informações do cartão. No geral, mantenha o design minimalista, mas detalhado, usando rolagem suave e animações de foco, gradientes suaves e tipografia refinada para criar uma experiência chinesa de alta qualidade. Use Tailwind CSS para implementar um layout totalmente responsivo.
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -454,11 +504,11 @@ Crie uma página web de "curso de treino" em chinês inspirada em {argument name
 - **Publicado:** 20 de novembro de 2025
 - **Idiomas:** zh
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Crie%20uma%20p%C3%A1gina%20web%20de%20%22curso%20de%20treino%22%20em%20chin%C3%AAs%20inspirada%20em%20%7Bargument%20name%3D%22reference_brand_en%22%20default%3D%22Keep%22%7D%3A%20inclua%20uma%20imagem%20de%20her%C3%B3i%20de%20atleta%20em%20tela%20cheia%2C%20navega%C3%A7%C3%A3o%20fixa%20transparente%2C%20categorias%20de%20tags%20em%20formato%20de%20c%C3%A1psula%20em%20chin%C3%AAs%20e%20uma%20grade%20de%20cart%C3%B5es%20de%20curso%20em%20chin%C3%AAs.%20Cada%20cart%C3%A3o%20de%20curso%20corresponde%20a%20um%20programa%20de%20treino%3B%20use%20os%20estilos%20de%20curso%20de%20criadores%20como%20%7Bargument%20name%3D%22instructor_examples_en%22%20default%3D%22Pamela%2C%20Zhou%20Liuye%2C%20Han%20Xiaosi%2C%20Jojie%2C%20Liu%20Genghong%22%7D%20como%20refer%C3%AAncias%20para%20criar%20t%C3%ADtulos%20e%20r%C3%B3tulos%20em%20chin%C3%AAs%20para%20dificuldade%20e%20dura%C3%A7%C3%A3o.%20Ao%20clicar%20em%20um%20cart%C3%A3o%2C%20abra%20um%20reprodutor%20de%20v%C3%ADdeo%20de%20pr%C3%A9-visualiza%C3%A7%C3%A3o%20do%20curso%20dentro%20da%20p%C3%A1gina%20que%20corresponda%20estritamente%20%C3%A0s%20informa%C3%A7%C3%B5es%20do%20cart%C3%A3o.%20No%20geral%2C%20mantenha%20o%20design%20minimalista%2C%20mas%20detalhado%2C%20usando%20rolagem%20suave%20e%20anima%C3%A7%C3%B5es%20de%20foco%2C%20gradientes%20suaves%20e%20tipografia%20refinada%20para%20criar%20uma%20experi%C3%AAncia%20chinesa%20de%20alta%20qualidade.%20Use%20Tailwind%20CSS%20para%20implementar%20um%20layout%20totalmente%20responsivo.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Crie%20uma%20p%C3%A1gina%20de%20%22curso%20de%20treino%22%20em%20chin%C3%AAs%20inspirada%20no%20%7Bargument%20name%3D%22reference_brand_en%22%20default%3D%22Keep%22%7D%3A%20inclua%20uma%20imagem%20de%20her%C3%B3i%20de%20atleta%20em%20tela%20cheia%2C%20navega%C3%A7%C3%A3o%20adesiva%20transparente%2C%20categorias%20de%20tags%20em%20formato%20de%20c%C3%A1psula%20em%20chin%C3%AAs%20e%20uma%20grade%20de%20cart%C3%B5es%20de%20curso%20em%20chin%C3%AAs.%20Cada%20cart%C3%A3o%20de%20curso%20corresponde%20a%20um%20programa%20de%20treinamento%3B%20use%20os%20estilos%20de%20curso%20de%20criadores%20como%20%7Bargument%20name%3D%22instructor_examples_en%22%20default%3D%22Pamela%2C%20Zhou%20Liuye%2C%20Han%20Xiaosi%2C%20Jojie%2C%20Liu%20Genghong%22%7D%20como%20refer%C3%AAncias%20para%20criar%20t%C3%ADtulos%20e%20r%C3%B3tulos%20em%20chin%C3%AAs%20para%20dificuldade%20e%20dura%C3%A7%C3%A3o.%20Ao%20clicar%20em%20um%20cart%C3%A3o%2C%20abra%20um%20reprodutor%20de%20v%C3%ADdeo%20de%20visualiza%C3%A7%C3%A3o%20do%20curso%20dentro%20da%20p%C3%A1gina%20que%20corresponda%20estritamente%20%C3%A0s%20informa%C3%A7%C3%B5es%20do%20cart%C3%A3o.%20No%20geral%2C%20mantenha%20o%20design%20minimalista%2C%20mas%20detalhado%2C%20usando%20rolagem%20suave%20e%20anima%C3%A7%C3%B5es%20de%20foco%2C%20gradientes%20suaves%20e%20tipografia%20refinada%20para%20criar%20uma%20experi%C3%AAncia%20chinesa%20de%20alta%20qualidade.%20Use%20Tailwind%20CSS%20para%20implementar%20um%20layout%20totalmente%20responsivo.)**
 
 ---
 
-### No. 11: Página de fitness chinesa estilo Keep (HTML único)
+### No. 12: Página de fitness chinesa estilo Keep (HTML único)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -491,13 +541,13 @@ Crie uma página de fitness chinesa no estilo Keep com uma UI limpa e moderna, u
 
 ---
 
-### No. 12: Prompt de design de site Neo-Brutalista
+### No. 13: Prompt de design de site Neo-Brutalista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrição
 
-Um prompt curto em inglês para criar um site em estilo neo-Brutalista com animações de rolagem suaves, cores vibrantes e um layout responsivo baseado em Tailwind.
+Um breve prompt em inglês para criar um site em estilo neo-brutalista com animações de rolagem suaves, cores vibrantes e layout responsivo baseado em Tailwind.
 
 #### 📝 Prompt
 
@@ -524,18 +574,18 @@ Crie um site neo-Brutalista que desafie os limites da criatividade. Inclua anima
 
 ---
 
-### No. 13: Site de câmera Polaroid retrô com mural de fotos
+### No. 14: Site de câmera Polaroid retrô com mural de fotos
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 Descrição
 
-Um prompt chinês detalhado descrevendo um aplicativo de webcam com uma estética retrô de Polaroid, pré-visualização ao vivo da webcam, animação de revelação de fotos e fotos arrastáveis formando uma parede de colagem.
+Um prompt chinês detalhado descrevendo um aplicativo de câmera web com uma estética retrô de Polaroid, pré-visualização ao vivo da webcam, animação de revelação de fotos e fotos arrastáveis formando uma parede de colagem.
 
 #### 📝 Prompt
 
 ```
-Desenvolva um aplicativo de webcam com uma atmosfera retrô de Polaroid. Coloque um modelo de câmera Polaroid no canto inferior esquerdo da página que possa acionar a webcam do usuário e mostrar uma prévia em tempo real. Após clicar no obturador, um pedaço de "papel fotográfico" sai lentamente da parte superior da câmera, e a foto se revela, passando de inicialmente borrada para nítida. Os usuários podem arrastar a foto totalmente revelada de cima da câmera para qualquer posição na página, criando um layout livre semelhante a uma "parede de colagem de fotos".
+Desenvolva um aplicativo de webcam com uma atmosfera retrô de Polaroid. Posicione um modelo de câmera Polaroid no canto inferior esquerdo da página, capaz de acionar a webcam do usuário e exibir uma prévia em tempo real. Após clicar no obturador, um pedaço de "papel fotográfico" emerge lentamente da parte superior da câmera, e a foto se revela, passando de inicialmente borrada para nítida. Os usuários podem arrastar a foto totalmente revelada de cima da câmera para qualquer posição na página, criando um layout livre semelhante a um "mural de colagem de fotos".
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -553,11 +603,11 @@ Desenvolva um aplicativo de webcam com uma atmosfera retrô de Polaroid. Coloque
 - **Publicado:** 20 de novembro de 2025
 - **Idiomas:** zh
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Desenvolva%20um%20aplicativo%20de%20webcam%20com%20uma%20atmosfera%20retr%C3%B4%20de%20Polaroid.%20Coloque%20um%20modelo%20de%20c%C3%A2mera%20Polaroid%20no%20canto%20inferior%20esquerdo%20da%20p%C3%A1gina%20que%20possa%20acionar%20a%20webcam%20do%20usu%C3%A1rio%20e%20mostrar%20uma%20pr%C3%A9via%20em%20tempo%20real.%20Ap%C3%B3s%20clicar%20no%20obturador%2C%20um%20peda%C3%A7o%20de%20%22papel%20fotogr%C3%A1fico%22%20sai%20lentamente%20da%20parte%20superior%20da%20c%C3%A2mera%2C%20e%20a%20foto%20se%20revela%2C%20passando%20de%20inicialmente%20borrada%20para%20n%C3%ADtida.%20Os%20usu%C3%A1rios%20podem%20arrastar%20a%20foto%20totalmente%20revelada%20de%20cima%20da%20c%C3%A2mera%20para%20qualquer%20posi%C3%A7%C3%A3o%20na%20p%C3%A1gina%2C%20criando%20um%20layout%20livre%20semelhante%20a%20uma%20%22parede%20de%20colagem%20de%20fotos%22.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Desenvolva%20um%20aplicativo%20de%20webcam%20com%20uma%20atmosfera%20retr%C3%B4%20de%20Polaroid.%20Posicione%20um%20modelo%20de%20c%C3%A2mera%20Polaroid%20no%20canto%20inferior%20esquerdo%20da%20p%C3%A1gina%2C%20capaz%20de%20acionar%20a%20webcam%20do%20usu%C3%A1rio%20e%20exibir%20uma%20pr%C3%A9via%20em%20tempo%20real.%20Ap%C3%B3s%20clicar%20no%20obturador%2C%20um%20peda%C3%A7o%20de%20%22papel%20fotogr%C3%A1fico%22%20emerge%20lentamente%20da%20parte%20superior%20da%20c%C3%A2mera%2C%20e%20a%20foto%20se%20revela%2C%20passando%20de%20inicialmente%20borrada%20para%20n%C3%ADtida.%20Os%20usu%C3%A1rios%20podem%20arrastar%20a%20foto%20totalmente%20revelada%20de%20cima%20da%20c%C3%A2mera%20para%20qualquer%20posi%C3%A7%C3%A3o%20na%20p%C3%A1gina%2C%20criando%20um%20layout%20livre%20semelhante%20a%20um%20%22mural%20de%20colagem%20de%20fotos%22.)**
 
 ---
 
-### No. 14: Aplicativo web de diário de sonhos estilo tarot
+### No. 15: Aplicativo web de diário de sonhos estilo tarot
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -590,22 +640,22 @@ Crie um aplicativo web chinês onde os usuários registrem seus sonhos todas as 
 
 ---
 
-### No. 15: Aplicativo de construção 3D de tijolos com Gemini e React
+### No. 16: Aplicativo de construção 3D de tijolos com Gemini e React
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt em inglês, no estilo de sistema, que faz com que o Gemini atue como um engenheiro de frontend de nível internacional para construir um aplicativo de construção de blocos 3D semelhante ao Minecraft usando React, Three.js, Tailwind CSS e a API Gemini.
+Um prompt em estilo de sistema em inglês que faz o Gemini atuar como um engenheiro frontend de nível internacional para construir um aplicativo construtor de blocos 3D semelhante ao Minecraft usando React, Three.js, Tailwind CSS e a API Gemini.
 
 #### 📝 Prompt
 
 ```
-Atue como um engenheiro de frontend e designer de UX de nível internacional. Crie um(a) {argument name="application_name_en" default="Aplicativo Construtor de Tijolos 3D"} usando React, Three.js (@react-three/fiber), Tailwind CSS e a API Google Gemini (@google/genai).
+Atue como um engenheiro de frontend e designer de UX de nível internacional. Crie um {argument name="application_name_en" default="3D Brick Builder Application"} usando React, Three.js (@react-three/fiber), Tailwind CSS e a API Google Gemini (@google/genai).
 
 ## Filosofia de design
-- **Tema**: {argument name="theme_en" default="Base Branca"} estética moderna.
+- **Tema**: {argument name="theme_en" default="White Base"} estética moderna.
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -623,23 +673,23 @@ Atue como um engenheiro de frontend e designer de UX de nível internacional. Cr
 - **Publicado:** 20 de novembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Atue%20como%20um%20engenheiro%20de%20frontend%20e%20designer%20de%20UX%20de%20n%C3%ADvel%20internacional.%20Crie%20um(a)%20%7Bargument%20name%3D%22application_name_en%22%20default%3D%22Aplicativo%20Construtor%20de%20Tijolos%203D%22%7D%20usando%20React%2C%20Three.js%20(%40react-three%2Ffiber)%2C%20Tailwind%20CSS%20e%20a%20API%20Google%20Gemini%20(%40google%2Fgenai).%0A%0A%23%23%20Filosofia%20de%20design%0A-%20**Tema**%3A%20%7Bargument%20name%3D%22theme_en%22%20default%3D%22Base%20Branca%22%7D%20est%C3%A9tica%20moderna.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Atue%20como%20um%20engenheiro%20de%20frontend%20e%20designer%20de%20UX%20de%20n%C3%ADvel%20internacional.%20Crie%20um%20%7Bargument%20name%3D%22application_name_en%22%20default%3D%223D%20Brick%20Builder%20Application%22%7D%20usando%20React%2C%20Three.js%20(%40react-three%2Ffiber)%2C%20Tailwind%20CSS%20e%20a%20API%20Google%20Gemini%20(%40google%2Fgenai).%0A%0A%23%23%20Filosofia%20de%20design%0A-%20**Tema**%3A%20%7Bargument%20name%3D%22theme_en%22%20default%3D%22White%20Base%22%7D%20est%C3%A9tica%20moderna.)**
 
 ---
 
-### No. 16: Aplicativo da web analisador de MBTI para X (Twitter)
+### No. 17: Aplicativo web analisador de MBTI para X (Twitter)
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 Descrição
 
-Um prompt para criar uma interface web em chinês que analisa os tipos MBTI de tweets, chamando um backend alimentado por Gemini, com o tema escuro do Linear.
+Um prompt para criar uma interface web em chinês que analisa os tipos MBTI de tweets, chamando um backend com tecnologia Gemini, estilizado com o tema escuro do Linear.
 
 #### 📝 Prompt
 
 ```
 Crie um analisador de MBTI X: o usuário cola um tweet → o frontend chama um backend (que usa a API Gemini para inferir o tipo MBTI).
-O estilo do design deve seguir o Linear, apenas no modo escuro, com uma sensação minimalista, porém de alta qualidade e detalhes refinados. A interface deve estar em chinês.
+O estilo do design deve seguir o Linear, apenas no modo escuro, com uma sensação minimalista, mas de alta qualidade e detalhes refinados. A interface deve estar em chinês.
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -647,7 +697,7 @@ O estilo do design deve seguir o Linear, apenas no modo escuro, com uma sensaç�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209223074_p70pfd_LqvLh0zCSYOy3-VE.jpg" width="600" alt="Aplicativo da web analisador de MBTI para X (Twitter) - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209223074_p70pfd_LqvLh0zCSYOy3-VE.jpg" width="600" alt="Aplicativo web analisador de MBTI para X (Twitter) - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -657,22 +707,23 @@ O estilo do design deve seguir o Linear, apenas no modo escuro, com uma sensaç�
 - **Publicado:** 20 de novembro de 2025
 - **Idiomas:** zh
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Crie%20um%20analisador%20de%20MBTI%20X%3A%20o%20usu%C3%A1rio%20cola%20um%20tweet%20%E2%86%92%20o%20frontend%20chama%20um%20backend%20(que%20usa%20a%20API%20Gemini%20para%20inferir%20o%20tipo%20MBTI).%0AO%20estilo%20do%20design%20deve%20seguir%20o%20Linear%2C%20apenas%20no%20modo%20escuro%2C%20com%20uma%20sensa%C3%A7%C3%A3o%20minimalista%2C%20por%C3%A9m%20de%20alta%20qualidade%20e%20detalhes%20refinados.%20A%20interface%20deve%20estar%20em%20chin%C3%AAs.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Crie%20um%20analisador%20de%20MBTI%20X%3A%20o%20usu%C3%A1rio%20cola%20um%20tweet%20%E2%86%92%20o%20frontend%20chama%20um%20backend%20(que%20usa%20a%20API%20Gemini%20para%20inferir%20o%20tipo%20MBTI).%0AO%20estilo%20do%20design%20deve%20seguir%20o%20Linear%2C%20apenas%20no%20modo%20escuro%2C%20com%20uma%20sensa%C3%A7%C3%A3o%20minimalista%2C%20mas%20de%20alta%20qualidade%20e%20detalhes%20refinados.%20A%20interface%20deve%20estar%20em%20chin%C3%AAs.)**
 
 ---
 
-### No. 17: Aplicativo web de guarda-roupa hanfu chinês com IA
+### No. 18: Aplicativo de provador virtual de guarda-roupa Hanfu com IA
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt para gerar um aplicativo web chinês que permite aos usuários fazer upload de uma foto e experimentar virtualmente trajes hanfu de diferentes dinastias, incluindo a personalização de grampos de cabelo e maquiagem, provavelmente como um aplicativo HTML de página única.
+Um prompt em chinês para o Gemini 3 Pro gerar um aplicativo web de guarda-roupa Hanfu, onde os usuários fazem upload de uma foto para experimentar virtualmente roupas de diferentes dinastias e personalizar grampos de cabelo e maquiagem.
 
 #### 📝 Prompt
 
 ```
-Crie um aplicativo de guarda-roupa de hanfu com IA que utilize tecnologia de troca de rosto por IA ou modelagem corporal 3D. Os usuários podem fazer upload de uma foto e, com um clique, "experimentar" hanfus de várias dinastias (Tang, Song, Ming), ou misturar e combinar livremente grampos de cabelo e maquiagem.
+Crie um aplicativo de guarda-roupa de Hanfu com IA em chinês. Use tecnologia de troca de rosto por IA ou modelagem corporal 3D. Os usuários fazem upload de uma foto e podem, com um clique, "experimentar" Hanfu de várias dinastias ({argument name="dynasty_1_en" default="Tang"}, {argument name="dynasty_2_en" default="Song"}, {argument name="dynasty_3_en" default="Ming"}), ou personalizar grampos de cabelo e maquiagem.
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -680,7 +731,7 @@ Crie um aplicativo de guarda-roupa de hanfu com IA que utilize tecnologia de tro
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg" width="600" alt="Aplicativo web de guarda-roupa hanfu chinês com IA - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg" width="600" alt="Aplicativo de provador virtual de guarda-roupa Hanfu com IA - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -690,23 +741,23 @@ Crie um aplicativo de guarda-roupa de hanfu com IA que utilize tecnologia de tro
 - **Publicado:** 20 de novembro de 2025
 - **Idiomas:** zh
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Crie%20um%20aplicativo%20de%20guarda-roupa%20de%20hanfu%20com%20IA%20que%20utilize%20tecnologia%20de%20troca%20de%20rosto%20por%20IA%20ou%20modelagem%20corporal%203D.%20Os%20usu%C3%A1rios%20podem%20fazer%20upload%20de%20uma%20foto%20e%2C%20com%20um%20clique%2C%20%22experimentar%22%20hanfus%20de%20v%C3%A1rias%20dinastias%20(Tang%2C%20Song%2C%20Ming)%2C%20ou%20misturar%20e%20combinar%20livremente%20grampos%20de%20cabelo%20e%20maquiagem.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Crie%20um%20aplicativo%20de%20guarda-roupa%20de%20Hanfu%20com%20IA%20em%20chin%C3%AAs.%20Use%20tecnologia%20de%20troca%20de%20rosto%20por%20IA%20ou%20modelagem%20corporal%203D.%20Os%20usu%C3%A1rios%20fazem%20upload%20de%20uma%20foto%20e%20podem%2C%20com%20um%20clique%2C%20%22experimentar%22%20Hanfu%20de%20v%C3%A1rias%20dinastias%20(%7Bargument%20name%3D%22dynasty_1_en%22%20default%3D%22Tang%22%7D%2C%20%7Bargument%20name%3D%22dynasty_2_en%22%20default%3D%22Song%22%7D%2C%20%7Bargument%20name%3D%22dynasty_3_en%22%20default%3D%22Ming%22%7D)%2C%20ou%20personalizar%20grampos%20de%20cabelo%20e%20maquiagem.)**
 
 ---
 
-### No. 18: Aplicativo da web de máquina de escrever Retro Motorola Fix Beeper
+### No. 19: Aplicativo web de máquina de escrever Retro Motorola Fix Beeper
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt em chinês para o Gemini 3 Pro criar um aplicativo web de digitação estilo Motorola Fix Beeper retrô, onde uma máquina de escrever central transforma a entrada do usuário em cartões digitados lentamente que podem ser arrastados pela página.
+Um prompt em chinês para o Gemini 3 Pro construir uma máquina de escrever web estilo pager Motorola Fix retrô que transforma o texto de entrada do usuário em cartões arrastáveis com animação de digitação lenta no centro da página.
 
 #### 📝 Prompt
 
 ```
-Por favor, me ajude a criar um aplicativo de máquina de escrever retrô com o tema "{argument name="device_name_en" default="Motorola Fix Beeper"}". Uma máquina de escrever é exibida no centro da página da web e pode transformar o texto digitado pelo usuário em um cartão, com um efeito semelhante a uma máquina de escrever digitando-o lentamente, e o cartão pode ser arrastado para áreas vazias da página.
+Por favor, me ajude a criar um aplicativo web de máquina de escrever retrô com o tema de {argument name="device_name_en" default="Motorola Fix Beeper"}. No centro da página, exiba uma máquina de escrever que possa receber texto digitado pelo usuário e gerá-lo como um cartão, com um efeito semelhante à digitação lenta de uma máquina de escrever, e permita que o cartão seja arrastado para áreas vazias.
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -714,7 +765,7 @@ Por favor, me ajude a criar um aplicativo de máquina de escrever retrô com o t
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209243747_6zn4ng_st6US49_VK2ldIvf.jpg" width="600" alt="Aplicativo da web de máquina de escrever Retro Motorola Fix Beeper - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209243747_6zn4ng_st6US49_VK2ldIvf.jpg" width="600" alt="Aplicativo web de máquina de escrever Retro Motorola Fix Beeper - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -724,23 +775,23 @@ Por favor, me ajude a criar um aplicativo de máquina de escrever retrô com o t
 - **Publicado:** 20 de novembro de 2025
 - **Idiomas:** zh
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Por%20favor%2C%20me%20ajude%20a%20criar%20um%20aplicativo%20de%20m%C3%A1quina%20de%20escrever%20retr%C3%B4%20com%20o%20tema%20%22%7Bargument%20name%3D%22device_name_en%22%20default%3D%22Motorola%20Fix%20Beeper%22%7D%22.%20Uma%20m%C3%A1quina%20de%20escrever%20%C3%A9%20exibida%20no%20centro%20da%20p%C3%A1gina%20da%20web%20e%20pode%20transformar%20o%20texto%20digitado%20pelo%20usu%C3%A1rio%20em%20um%20cart%C3%A3o%2C%20com%20um%20efeito%20semelhante%20a%20uma%20m%C3%A1quina%20de%20escrever%20digitando-o%20lentamente%2C%20e%20o%20cart%C3%A3o%20pode%20ser%20arrastado%20para%20%C3%A1reas%20vazias%20da%20p%C3%A1gina.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Por%20favor%2C%20me%20ajude%20a%20criar%20um%20aplicativo%20web%20de%20m%C3%A1quina%20de%20escrever%20retr%C3%B4%20com%20o%20tema%20de%20%7Bargument%20name%3D%22device_name_en%22%20default%3D%22Motorola%20Fix%20Beeper%22%7D.%20No%20centro%20da%20p%C3%A1gina%2C%20exiba%20uma%20m%C3%A1quina%20de%20escrever%20que%20possa%20receber%20texto%20digitado%20pelo%20usu%C3%A1rio%20e%20ger%C3%A1-lo%20como%20um%20cart%C3%A3o%2C%20com%20um%20efeito%20semelhante%20%C3%A0%20digita%C3%A7%C3%A3o%20lenta%20de%20uma%20m%C3%A1quina%20de%20escrever%2C%20e%20permita%20que%20o%20cart%C3%A3o%20seja%20arrastado%20para%20%C3%A1reas%20vazias.)**
 
 ---
 
-### No. 19: Aplicativo web chinês para constelações da mitologia grega
+### No. 20: Aplicativo web chinês para constelações da mitologia grega
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt para o Gemini 3 Pro criar um aplicativo web chinês de página única que apresenta cada estrela ou constelação como um livro ilustrado, combinando linhas de constelação com personagens mitológicos ilustrados.
+Um prompt para o Gemini 3 Pro criar um aplicativo web chinês de página única que apresenta cada estrela ou constelação como um livro de imagens, combinando linhas de constelação com personagens mitológicos ilustrados.
 
 #### 📝 Prompt
 
 ```
-Gere um aplicativo web em {argument name="language_en" default="Português"} que conte as histórias da mitologia grega de cada estrela ou constelação na forma de um livro ilustrado. Ele deve não apenas mostrar as linhas de conexão da constelação, mas também exibir ilustrações dos personagens mitológicos.
+Gere um aplicativo web em {argument name="language_en" default="Português"} que conte as histórias da mitologia grega de cada estrela ou constelação na forma de um livro ilustrado. Ele não deve apenas mostrar as linhas de conexão da constelação, mas também exibir ilustrações dos personagens mitológicos.
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -758,11 +809,11 @@ Gere um aplicativo web em {argument name="language_en" default="Português"} que
 - **Publicado:** 20 de novembro de 2025
 - **Idiomas:** zh
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Gere%20um%20aplicativo%20web%20em%20%7Bargument%20name%3D%22language_en%22%20default%3D%22Portugu%C3%AAs%22%7D%20que%20conte%20as%20hist%C3%B3rias%20da%20mitologia%20grega%20de%20cada%20estrela%20ou%20constela%C3%A7%C3%A3o%20na%20forma%20de%20um%20livro%20ilustrado.%20Ele%20deve%20n%C3%A3o%20apenas%20mostrar%20as%20linhas%20de%20conex%C3%A3o%20da%20constela%C3%A7%C3%A3o%2C%20mas%20tamb%C3%A9m%20exibir%20ilustra%C3%A7%C3%B5es%20dos%20personagens%20mitol%C3%B3gicos.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Gere%20um%20aplicativo%20web%20em%20%7Bargument%20name%3D%22language_en%22%20default%3D%22Portugu%C3%AAs%22%7D%20que%20conte%20as%20hist%C3%B3rias%20da%20mitologia%20grega%20de%20cada%20estrela%20ou%20constela%C3%A7%C3%A3o%20na%20forma%20de%20um%20livro%20ilustrado.%20Ele%20n%C3%A3o%20deve%20apenas%20mostrar%20as%20linhas%20de%20conex%C3%A3o%20da%20constela%C3%A7%C3%A3o%2C%20mas%20tamb%C3%A9m%20exibir%20ilustra%C3%A7%C3%B5es%20dos%20personagens%20mitol%C3%B3gicos.)**
 
 ---
 
-### No. 20: Aplicativo web de almanaque chinês moderno estilo cibernético
+### No. 21: Aplicativo web de almanaque chinês moderno estilo cibernético
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -796,13 +847,13 @@ Gere um aplicativo web chinês com estilo cibernético para um almanaque diário
 
 ---
 
-### No. 21: Aplicativo web de câmera estilo Polaroid retrô
+### No. 22: Aplicativo web de câmera estilo Polaroid retrô
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 Descrição
 
-Um prompt em chinês para criar um aplicativo web de câmera Polaroid retrô onde uma câmera no canto inferior esquerdo se conecta à webcam, ejeta fotos em desenvolvimento e permite que os usuários as arrastem para formar uma parede de fotos.
+Um prompt em chinês para criar um aplicativo web de câmera Polaroid retrô, onde uma câmera no canto inferior esquerdo se conecta à webcam, ejeta fotos em desenvolvimento e permite que os usuários as arrastem para formar uma parede de fotos.
 
 #### 📝 Prompt
 
@@ -829,14 +880,48 @@ Por favor, me ajude a criar um aplicativo web de câmera estilo Polaroid retrô.
 
 ---
 
-### No. 22: Fractal Mandelbulb com Raymarch e partículas reativas a áudio em Three.js
+### No. 23: Site de startup de cachorro-quente digital maximalista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt compacto para Three.js/GLSL pedindo ao Gemini 3 Pro para criar um fractal Mandelbulb com raymarching, cercado por milhares de partículas instanciadas reativas ao áudio com Unreal Bloom, tudo em um único arquivo.
+Um prompt divertido para o Gemini 3.0 Pro criar um site maximalista, com muitos shaders e gradientes ondulados, para uma startup fictícia que vende "hot dogs digitais", com um texto de herói lindamente animado que reage ao passar do mouse.
+
+#### 📝 Prompt
+
+```
+Crie um site maximalista para uma startup fictícia que vende {argument name="product_en" default="cachorros-quentes digitais"}. Quero um texto principal lindamente animado com shaders que reagem ao passar do mouse, com bastante dithering e gradientes ondulados e descolados.
+```
+
+#### 🖼️ Imagens de exemplo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764255462517_0xbgr4_8CEmdG0IihE4XzEk.jpg" width="600" alt="Site de startup de cachorro-quente digital maximalista - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [ben](https://x.com/benhylak)
+- **Fonte:** [Twitter Post](https://x.com/benhylak/status/1991225744194691289)
+- **Publicado:** 19 de novembro de 2025
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Crie%20um%20site%20maximalista%20para%20uma%20startup%20fict%C3%ADcia%20que%20vende%20%7Bargument%20name%3D%22product_en%22%20default%3D%22cachorros-quentes%20digitais%22%7D.%20Quero%20um%20texto%20principal%20lindamente%20animado%20com%20shaders%20que%20reagem%20ao%20passar%20do%20mouse%2C%20com%20bastante%20dithering%20e%20gradientes%20ondulados%20e%20descolados.)**
+
+---
+
+### No. 24: Fractal Mandelbulb com Ray Marching e partículas reativas a áudio em Three.js
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Um prompt compacto para Three.js/GLSL pedindo ao Gemini 3 Pro para criar um fractal Mandelbulb com raymarching, cercado por milhares de partículas instanciadas reativas a áudio com Unreal Bloom, tudo em um único arquivo.
 
 #### 📝 Prompt
 
@@ -849,7 +934,7 @@ Crie um fractal Mandelbulb com raymarching em GLSL, cerque-o com {argument name=
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209159016_6yk3yw_TCUAUpzJbxn8xmOV.jpg" width="600" alt="Fractal Mandelbulb com Raymarch e partículas reativas a áudio em Three.js - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209159016_6yk3yw_TCUAUpzJbxn8xmOV.jpg" width="600" alt="Fractal Mandelbulb com Ray Marching e partículas reativas a áudio em Three.js - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -863,7 +948,7 @@ Crie um fractal Mandelbulb com raymarching em GLSL, cerque-o com {argument name=
 
 ---
 
-### No. 23: Site estilo agência para um cliente chamado AP
+### No. 25: Website estilo agência para um cliente chamado AP
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -883,7 +968,7 @@ Você é o estúdio {argument name="studio_name_en" default="makemepulse"}. Crie
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209176859_vznbt0_UPKTu2bYW7AZTCBs.jpg" width="600" alt="Site estilo agência para um cliente chamado AP - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209176859_vznbt0_UPKTu2bYW7AZTCBs.jpg" width="600" alt="Website estilo agência para um cliente chamado AP - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -897,7 +982,114 @@ Você é o estúdio {argument name="studio_name_en" default="makemepulse"}. Crie
 
 ---
 
-### No. 24: Aplicativo web diário de cores tradicionais chinesas
+### No. 26: Demonstração web de efeito de laser nos olhos com Mediapipe e Three.js
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descrição
+
+Um prompt técnico conciso para o Gemini 3 criar uma experiência web que utiliza a câmera frontal e os pontos faciais do Mediapipe para aplicar um efeito de laser 3D em tempo real via Three.js.
+
+#### 📝 Prompt
+
+```
+Use a câmera frontal do computador.
+Use a biblioteca `mediapipe` para capturar pontos de referência faciais.
+Use `threejs` para aplicar um efeito de OLHO LASER ao rosto capturado pela câmera, com base nas informações de pontos de referência 3D em tempo real fornecidas pelo `mediapipe`.
+```
+
+#### 🖼️ Imagens de exemplo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764255461636_mdlo2t_TrOA856i8yUthOuI.jpg" width="600" alt="Demonstração web de efeito de laser nos olhos com Mediapipe e Three.js - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [愚瞳 | winterx](https://x.com/fangyex)
+- **Fonte:** [Twitter Post](https://x.com/fangyex/status/1991186281704173931)
+- **Publicado:** 19 de novembro de 2025
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Use%20a%20c%C3%A2mera%20frontal%20do%20computador.%0AUse%20a%20biblioteca%20%60mediapipe%60%20para%20capturar%20pontos%20de%20refer%C3%AAncia%20faciais.%0AUse%20%60threejs%60%20para%20aplicar%20um%20efeito%20de%20OLHO%20LASER%20ao%20rosto%20capturado%20pela%20c%C3%A2mera%2C%20com%20base%20nas%20informa%C3%A7%C3%B5es%20de%20pontos%20de%20refer%C3%AAncia%203D%20em%20tempo%20real%20fornecidas%20pelo%20%60mediapipe%60.)**
+
+---
+
+### No. 27: Réplica de Minecraft em modo de sobrevivência com Three.js
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Um prompt instruindo o Gemini 3 Pro a projetar uma réplica completa do Minecraft no modo de sobrevivência usando Three.js para a web.
+
+#### 📝 Prompt
+
+```
+Crie uma réplica completa do modo sobrevivência de {argument name="game_name_en" default="Minecraft"} usando {argument name="tech_stack_en" default="Three.js"}.
+```
+
+#### 🖼️ Imagens de exemplo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764255475793_hdfpvg_nCOFPLDKO3ls9qTb.jpg" width="600" alt="Réplica de Minecraft em modo de sobrevivência com Three.js - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [Vardhan Agnihotri](https://x.com/agno_three)
+- **Fonte:** [Twitter Post](https://x.com/agno_three/status/1991176488289223136)
+- **Publicado:** 19 de novembro de 2025
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Crie%20uma%20r%C3%A9plica%20completa%20do%20modo%20sobreviv%C3%AAncia%20de%20%7Bargument%20name%3D%22game_name_en%22%20default%3D%22Minecraft%22%7D%20usando%20%7Bargument%20name%3D%22tech_stack_en%22%20default%3D%22Three.js%22%7D.)**
+
+---
+
+### No. 28: Página de destino empresarial com design responsivo interativo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Um prompt para o Gemini gerar uma landing page empresarial profissional com layout responsivo, animações e elementos interativos, adaptável a qualquer tipo de negócio.
+
+#### 📝 Prompt
+
+```
+Gere uma landing page profissional de nível empresarial para {argument name="business_description_en" default="[DESCRIBE YOUR BUSINESS]"}.
+
+Adicione elementos interativos, animações e torne-a totalmente responsiva.
+
+Surpreenda-me, seja criativo e faça isso passo a passo.
+```
+
+#### 🖼️ Imagens de exemplo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cdn.gooo.ai/cms/1764255470380_e6ucvk_ubnvLR01M37lxkrV.jpg" width="600" alt="Página de destino empresarial com design responsivo interativo - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [God of Prompt](https://x.com/godofprompt)
+- **Fonte:** [Twitter Post](https://x.com/godofprompt/status/1991146150859039013)
+- **Publicado:** 19 de novembro de 2025
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Gere%20uma%20landing%20page%20profissional%20de%20n%C3%ADvel%20empresarial%20para%20%7Bargument%20name%3D%22business_description_en%22%20default%3D%22%5BDESCRIBE%20YOUR%20BUSINESS%5D%22%7D.%0A%0AAdicione%20elementos%20interativos%2C%20anima%C3%A7%C3%B5es%20e%20torne-a%20totalmente%20responsiva.%0A%0ASurpreenda-me%2C%20seja%20criativo%20e%20fa%C3%A7a%20isso%20passo%20a%20passo.)**
+
+---
+
+### No. 29: Aplicativo web diário de cores tradicionais chinesas
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -909,7 +1101,7 @@ Um prompt do Gemini para criar um aplicativo web que apresenta uma cor tradicion
 #### 📝 Prompt
 
 ```
-Gere um aplicativo da web que apresente uma {argument name="color_system_en" default="cor tradicional chinesa"} por dia (por exemplo: {argument name="example_color_1_en" default="Azul Celeste (Tianqing)"}, {argument name="example_color_2_en" default="Carmesim (Yanzhi)"}, {argument name="example_color_3_en" default="Verde Escuro (Dailuo)"}), acompanhada de poesia clássica relacionada, ilustrações de artefatos ou paisagens naturais.
+Gere um aplicativo web que apresente uma {argument name="color_system_en" default="cor tradicional chinesa"} por dia (por exemplo: {argument name="example_color_1_en" default="Azul Celeste (Tianqing)"}, {argument name="example_color_2_en" default="Carmesim (Yanzhi)"}, {argument name="example_color_3_en" default="Verde Escuro (Dailuo)"}), acompanhada de poesia clássica relacionada, ilustrações de artefatos ou paisagens naturais.
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -927,23 +1119,22 @@ Gere um aplicativo da web que apresente uma {argument name="color_system_en" def
 - **Publicado:** 19 de novembro de 2025
 - **Idiomas:** zh
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Gere%20um%20aplicativo%20da%20web%20que%20apresente%20uma%20%7Bargument%20name%3D%22color_system_en%22%20default%3D%22cor%20tradicional%20chinesa%22%7D%20por%20dia%20(por%20exemplo%3A%20%7Bargument%20name%3D%22example_color_1_en%22%20default%3D%22Azul%20Celeste%20(Tianqing)%22%7D%2C%20%7Bargument%20name%3D%22example_color_2_en%22%20default%3D%22Carmesim%20(Yanzhi)%22%7D%2C%20%7Bargument%20name%3D%22example_color_3_en%22%20default%3D%22Verde%20Escuro%20(Dailuo)%22%7D)%2C%20acompanhada%20de%20poesia%20cl%C3%A1ssica%20relacionada%2C%20ilustra%C3%A7%C3%B5es%20de%20artefatos%20ou%20paisagens%20naturais.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Gere%20um%20aplicativo%20web%20que%20apresente%20uma%20%7Bargument%20name%3D%22color_system_en%22%20default%3D%22cor%20tradicional%20chinesa%22%7D%20por%20dia%20(por%20exemplo%3A%20%7Bargument%20name%3D%22example_color_1_en%22%20default%3D%22Azul%20Celeste%20(Tianqing)%22%7D%2C%20%7Bargument%20name%3D%22example_color_2_en%22%20default%3D%22Carmesim%20(Yanzhi)%22%7D%2C%20%7Bargument%20name%3D%22example_color_3_en%22%20default%3D%22Verde%20Escuro%20(Dailuo)%22%7D)%2C%20acompanhada%20de%20poesia%20cl%C3%A1ssica%20relacionada%2C%20ilustra%C3%A7%C3%B5es%20de%20artefatos%20ou%20paisagens%20naturais.)**
 
 ---
 
-### No. 25: Editor de rich text baseado na web, semelhante ao Word, em um único arquivo HTML
+### No. 30: Editor de rich text tipo Word, baseado na web, em um único arquivo HTML
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt conciso em chinês pedindo ao Gemini 3.0 Pro para criar um editor de rich text web no estilo Word, com recursos essenciais de formatação e funcionalidade de download, tudo em um único arquivo HTML.
+Um prompt em chinês para o Gemini-3.0-Pro criar um editor de rich text estilo Word como um único arquivo HTML, incluindo os principais recursos de formatação e uma opção de download.
 
 #### 📝 Prompt
 
 ```
-Ajude-me a criar um editor de rich text baseado na web, semelhante ao {argument name="target_app_en" default="Word"}, incluindo suas principais funcionalidades, com todo o código em um único arquivo HTML. Ele deve suportar recursos como: títulos, parágrafos, alinhamento à esquerda, negrito, itálico, alinhamento à direita, sublinhado, tachado, cor de fundo, cor do texto, listas/numeração, desfazer/refazer e, finalmente, um recurso de download para que possa gerar HTML diretamente. É isso!
+Ajude-me a escrever um editor de rich text baseado na web, semelhante ao Word, incluindo suas principais funcionalidades, com todo o código contido em um único arquivo HTML. Ele deve suportar: títulos, parágrafos, alinhamento à esquerda, negrito, itálico, alinhamento à direita, sublinhado, tachado, cor de fundo, cor do texto, numeração, desfazer e, finalmente, uma função de download. Gere diretamente o HTML, e é só isso!
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -951,7 +1142,7 @@ Ajude-me a criar um editor de rich text baseado na web, semelhante ao {argument 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg" width="600" alt="Editor de rich text baseado na web, semelhante ao Word, em um único arquivo HTML - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg" width="600" alt="Editor de rich text tipo Word, baseado na web, em um único arquivo HTML - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -961,24 +1152,24 @@ Ajude-me a criar um editor de rich text baseado na web, semelhante ao {argument 
 - **Publicado:** 19 de novembro de 2025
 - **Idiomas:** zh
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Ajude-me%20a%20criar%20um%20editor%20de%20rich%20text%20baseado%20na%20web%2C%20semelhante%20ao%20%7Bargument%20name%3D%22target_app_en%22%20default%3D%22Word%22%7D%2C%20incluindo%20suas%20principais%20funcionalidades%2C%20com%20todo%20o%20c%C3%B3digo%20em%20um%20%C3%BAnico%20arquivo%20HTML.%20Ele%20deve%20suportar%20recursos%20como%3A%20t%C3%ADtulos%2C%20par%C3%A1grafos%2C%20alinhamento%20%C3%A0%20esquerda%2C%20negrito%2C%20it%C3%A1lico%2C%20alinhamento%20%C3%A0%20direita%2C%20sublinhado%2C%20tachado%2C%20cor%20de%20fundo%2C%20cor%20do%20texto%2C%20listas%2Fnumera%C3%A7%C3%A3o%2C%20desfazer%2Frefazer%20e%2C%20finalmente%2C%20um%20recurso%20de%20download%20para%20que%20possa%20gerar%20HTML%20diretamente.%20%C3%89%20isso!)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Ajude-me%20a%20escrever%20um%20editor%20de%20rich%20text%20baseado%20na%20web%2C%20semelhante%20ao%20Word%2C%20incluindo%20suas%20principais%20funcionalidades%2C%20com%20todo%20o%20c%C3%B3digo%20contido%20em%20um%20%C3%BAnico%20arquivo%20HTML.%20Ele%20deve%20suportar%3A%20t%C3%ADtulos%2C%20par%C3%A1grafos%2C%20alinhamento%20%C3%A0%20esquerda%2C%20negrito%2C%20it%C3%A1lico%2C%20alinhamento%20%C3%A0%20direita%2C%20sublinhado%2C%20tachado%2C%20cor%20de%20fundo%2C%20cor%20do%20texto%2C%20numera%C3%A7%C3%A3o%2C%20desfazer%20e%2C%20finalmente%2C%20uma%20fun%C3%A7%C3%A3o%20de%20download.%20Gere%20diretamente%20o%20HTML%2C%20e%20%C3%A9%20s%C3%B3%20isso!)**
 
 ---
 
-### No. 26: Página de destino do ranking de KOLs chineses no Twitter
+### No. 31: Página de destino do ranking de KOLs chineses no Twitter
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt em chinês instruindo o Gemini a atuar como um engenheiro frontend esteticamente habilidoso e criar uma landing page escura e de alto contraste para um site chinês de classificação de KOLs do Twitter, usando Tailwind CSS e HTML5.
+Um prompt em chinês que pede ao Gemini 3.0 para atuar como um engenheiro de frontend com senso estético e construir uma landing page escura, de alto contraste e com Tailwind para um site chinês de ranking de KOLs do Twitter, buscando dados da web e gerando HTML puro com animações.
 
 #### 📝 Prompt
 
 ```
-Como engenheiro frontend com um forte senso estético, crie uma landing page para um site chamado "{argument name="site_name_en" default="Chinese Twitter KOL Ranking"}". Maximize o senso de design, use um esquema de cores minimalista, modo escuro e alto contraste. Obtenha a fonte de dados da web.
-Use Tailwind CSS + HTML5, adicione animações e gere o código HTML diretamente.
+Como engenheiro frontend com um forte senso estético, crie uma landing page para "{argument name="leaderboard_name_en" default="Chinese Twitter KOL Leaderboard"}". O design deve ser altamente polido, com uma paleta de cores minimalista, modo escuro e alto contraste. Busque a fonte de dados da web.
+Use Tailwind CSS + HTML5, adicione animações e produza apenas o código HTML diretamente.
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -996,18 +1187,18 @@ Use Tailwind CSS + HTML5, adicione animações e gere o código HTML diretamente
 - **Publicado:** 19 de novembro de 2025
 - **Idiomas:** zh
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Como%20engenheiro%20frontend%20com%20um%20forte%20senso%20est%C3%A9tico%2C%20crie%20uma%20landing%20page%20para%20um%20site%20chamado%20%22%7Bargument%20name%3D%22site_name_en%22%20default%3D%22Chinese%20Twitter%20KOL%20Ranking%22%7D%22.%20Maximize%20o%20senso%20de%20design%2C%20use%20um%20esquema%20de%20cores%20minimalista%2C%20modo%20escuro%20e%20alto%20contraste.%20Obtenha%20a%20fonte%20de%20dados%20da%20web.%0AUse%20Tailwind%20CSS%20%2B%20HTML5%2C%20adicione%20anima%C3%A7%C3%B5es%20e%20gere%20o%20c%C3%B3digo%20HTML%20diretamente.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Como%20engenheiro%20frontend%20com%20um%20forte%20senso%20est%C3%A9tico%2C%20crie%20uma%20landing%20page%20para%20%22%7Bargument%20name%3D%22leaderboard_name_en%22%20default%3D%22Chinese%20Twitter%20KOL%20Leaderboard%22%7D%22.%20O%20design%20deve%20ser%20altamente%20polido%2C%20com%20uma%20paleta%20de%20cores%20minimalista%2C%20modo%20escuro%20e%20alto%20contraste.%20Busque%20a%20fonte%20de%20dados%20da%20web.%0AUse%20Tailwind%20CSS%20%2B%20HTML5%2C%20adicione%20anima%C3%A7%C3%B5es%20e%20produza%20apenas%20o%20c%C3%B3digo%20HTML%20diretamente.)**
 
 ---
 
-### No. 27: Aplicativo web de aprendizado de livros ilustrados em inglês
+### No. 32: Aplicativo web para aprender inglês com livros ilustrados
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt simples do Gemini para gerar um aplicativo web para aprender inglês através de livros ilustrados, que pode ser aprimorado posteriormente com aulas interativas alimentadas pelo Gemini.
+Um prompt simples do Gemini para gerar um aplicativo web para aprender inglês através de livros ilustrados, que pode ser aprimorado posteriormente com aulas interativas com tecnologia Gemini.
 
 #### 📝 Prompt
 
@@ -1020,7 +1211,7 @@ Crie um livro ilustrado para aprender {argument name="learning_subject" default=
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209248163_oeazqe_wznIvkBORVz7dPEt.jpg" width="600" alt="Aplicativo web de aprendizado de livros ilustrados em inglês - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209248163_oeazqe_wznIvkBORVz7dPEt.jpg" width="600" alt="Aplicativo web para aprender inglês com livros ilustrados - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -1034,13 +1225,13 @@ Crie um livro ilustrado para aprender {argument name="learning_subject" default=
 
 ---
 
-### No. 28: Animação do princípio da tela touchscreen capacitiva
+### No. 33: Animação do princípio da tela touchscreen capacitiva
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 Descrição
 
-Um prompt curto em chinês pedindo ao Gemini para criar uma animação demonstrando como as telas de toque capacitivas funcionam, adequado para visualizações educacionais.
+Um breve prompt em chinês pedindo ao Gemini para criar uma animação demonstrando como funcionam as telas sensíveis ao toque capacitivas, adequado para visualizações educacionais.
 
 #### 📝 Prompt
 
@@ -1067,7 +1258,7 @@ Crie uma animação demonstrando o princípio capacitivo de uma tela sensível a
 
 ---
 
-### No. 29: Animação de demonstração do algoritmo de recomendação do Douyin
+### No. 34: Animação de demonstração do algoritmo de recomendação do Douyin
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1079,7 +1270,7 @@ Um breve prompt em chinês para gerar uma demonstração animada do algoritmo de
 #### 📝 Prompt
 
 ```
-Crie uma animação de demonstração do algoritmo de recomendação para o {argument name="platform_name_en" default="Douyin"}.
+Crie uma animação de demonstração do algoritmo de recomendação para {argument name="platform_name_en" default="Douyin"}.
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -1097,17 +1288,17 @@ Crie uma animação de demonstração do algoritmo de recomendação para o {arg
 - **Publicado:** 19 de novembro de 2025
 - **Idiomas:** zh
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Crie%20uma%20anima%C3%A7%C3%A3o%20de%20demonstra%C3%A7%C3%A3o%20do%20algoritmo%20de%20recomenda%C3%A7%C3%A3o%20para%20o%20%7Bargument%20name%3D%22platform_name_en%22%20default%3D%22Douyin%22%7D.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Crie%20uma%20anima%C3%A7%C3%A3o%20de%20demonstra%C3%A7%C3%A3o%20do%20algoritmo%20de%20recomenda%C3%A7%C3%A3o%20para%20%7Bargument%20name%3D%22platform_name_en%22%20default%3D%22Douyin%22%7D.)**
 
 ---
 
-### No. 30: Animação do sistema de articulação de engrenagens de múltiplos níveis
+### No. 35: Animação do sistema de articulação de engrenagens de múltiplos níveis
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 Descrição
 
-Um prompt conciso do Gemini para gerar um sistema animado de engrenagens de múltiplos níveis onde o giro da engrenagem principal aciona todas as outras proporcionalmente, adequado como uma demonstração em SVG ou canvas.
+Um prompt conciso para o Gemini gerar um sistema animado de engrenagens de múltiplos níveis onde o giro da engrenagem principal aciona todas as outras proporcionalmente, adequado como uma demonstração em SVG ou canvas.
 
 #### 📝 Prompt
 
@@ -1134,18 +1325,18 @@ Um sistema de engrenagens de múltiplos níveis onde a rotação da engrenagem p
 
 ---
 
-### No. 31: Página inicial com rolagem parallax e efeitos visuais explosivos
+### No. 36: Página inicial com rolagem parallax e efeitos visuais explosivos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Descrição
 
-Um prompt em inglês para gerar uma página inicial de site com rolagem parallax visualmente impressionante, com planos de fundo em camadas, transições suaves e elementos animados interativos.
+Um prompt em inglês para gerar uma página inicial de site com rolagem parallax visualmente impressionante, com fundos em camadas, transições suaves e elementos animados interativos.
 
 #### 📝 Prompt
 
 ```
-Crie um site com rolagem parallax e efeitos visuais explosivos: fundos em camadas que se movem em velocidades diferentes ao rolar, transições suaves e elementos interativos que surgem com animações.
+Crie um site com rolagem parallax e efeitos visuais explosivos: planos de fundo em camadas que se movem em velocidades diferentes ao rolar, transições suaves e elementos interativos que surgem com animações.
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -1163,11 +1354,11 @@ Crie um site com rolagem parallax e efeitos visuais explosivos: fundos em camada
 - **Publicado:** 18 de novembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Crie%20um%20site%20com%20rolagem%20parallax%20e%20efeitos%20visuais%20explosivos%3A%20fundos%20em%20camadas%20que%20se%20movem%20em%20velocidades%20diferentes%20ao%20rolar%2C%20transi%C3%A7%C3%B5es%20suaves%20e%20elementos%20interativos%20que%20surgem%20com%20anima%C3%A7%C3%B5es.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Crie%20um%20site%20com%20rolagem%20parallax%20e%20efeitos%20visuais%20explosivos%3A%20planos%20de%20fundo%20em%20camadas%20que%20se%20movem%20em%20velocidades%20diferentes%20ao%20rolar%2C%20transi%C3%A7%C3%B5es%20suaves%20e%20elementos%20interativos%20que%20surgem%20com%20anima%C3%A7%C3%B5es.)**
 
 ---
 
-### No. 32: Gerador de landing page de alto nível em estilo suíço no React
+### No. 37: Gerador de landing page estilo suíço de alta qualidade em React
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1185,7 +1376,7 @@ Com base no {argument name="input_text_en" default="Input Text"} fornecido poste
 
 1. Conceito de design: {argument name="design_concept_en" default="Swiss Modern & Bento"}
 
-Estilo: {argument name="style_en" default="Apple/Linear-like Swiss modern style"}, removendo decorações e usando espaços em branco e tipografia para criar apelo.
+Estilo: {argument name="style_en" default="Apple/Linear-like Swiss modern style"}, removendo a decoração e usando espaços em branco e tipografia para criar apelo.
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -1193,25 +1384,25 @@ Estilo: {argument name="style_en" default="Apple/Linear-like Swiss modern style"
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg" width="600" alt="Gerador de landing page de alto nível em estilo suíço no React - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg" width="600" alt="Gerador de landing page estilo suíço de alta qualidade em React - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209185261_u9bsts_G6EeVogaQAA3ryy.jpg" width="600" alt="Gerador de landing page de alto nível em estilo suíço no React - Image 2">
+<img src="https://cdn.gooo.ai/cms/1764209185261_u9bsts_G6EeVogaQAA3ryy.jpg" width="600" alt="Gerador de landing page estilo suíço de alta qualidade em React - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209191329_c5zs4w_G6EeVp2bMAIw9A4.jpg" width="600" alt="Gerador de landing page de alto nível em estilo suíço no React - Image 3">
+<img src="https://cdn.gooo.ai/cms/1764209191329_c5zs4w_G6EeVp2bMAIw9A4.jpg" width="600" alt="Gerador de landing page estilo suíço de alta qualidade em React - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209194378_bqwb5i_G6EeVp7bkAA4BZ9.jpg" width="600" alt="Gerador de landing page de alto nível em estilo suíço no React - Image 4">
+<img src="https://cdn.gooo.ai/cms/1764209194378_bqwb5i_G6EeVp7bkAA4BZ9.jpg" width="600" alt="Gerador de landing page estilo suíço de alta qualidade em React - Image 4">
 </div>
 
 #### 📌 Detalhes
@@ -1221,22 +1412,22 @@ Estilo: {argument name="style_en" default="Apple/Linear-like Swiss modern style"
 - **Publicado:** 18 de novembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0ACom%20base%20no%20%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%20fornecido%20posteriormente%2C%20siga%20rigorosamente%20as%20seguintes%20especifica%C3%A7%C3%B5es%20e%20implemente%20uma%20landing%20page%20de%20alta%20qualidade%20em%20React%20(arquivo%20%C3%BAnico).%0A%0A1.%20Conceito%20de%20design%3A%20%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0AEstilo%3A%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-like%20Swiss%20modern%20style%22%7D%2C%20removendo%20decora%C3%A7%C3%B5es%20e%20usando%20espa%C3%A7os%20em%20branco%20e%20tipografia%20para%20criar%20apelo.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0ACom%20base%20no%20%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%20fornecido%20posteriormente%2C%20siga%20rigorosamente%20as%20seguintes%20especifica%C3%A7%C3%B5es%20e%20implemente%20uma%20landing%20page%20de%20alta%20qualidade%20em%20React%20(arquivo%20%C3%BAnico).%0A%0A1.%20Conceito%20de%20design%3A%20%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0AEstilo%3A%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-like%20Swiss%20modern%20style%22%7D%2C%20removendo%20a%20decora%C3%A7%C3%A3o%20e%20usando%20espa%C3%A7os%20em%20branco%20e%20tipografia%20para%20criar%20apelo.)**
 
 ---
 
-### No. 33: Interface de usuário neon Glassmorphism
+### No. 38: Interface de usuário (UI) neon com glassmorphism
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 Descrição
 
-Um prompt de estilo curto descrevendo uma UI ultramoderna com glassmorphism e neon, com painéis semitransparentes, adequada como guia para um layout de interface web.
+Um prompt de estilo curto descrevendo uma UI ultramoderna com glassmorphism, estilo neon e painéis semitransparentes, adequado como guia para um layout de interface web.
 
 #### 📝 Prompt
 
 ```
-Uma interface neon com glassmorphism, efeitos de iluminação de UI ultramodernos e painéis de vidro semitransparentes.
+Uma interface neon em glassmorphism com efeitos de iluminação de UI ultramodernos e painéis de vidro semitransparentes.
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -1244,7 +1435,7 @@ Uma interface neon com glassmorphism, efeitos de iluminação de UI ultramoderno
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg" width="600" alt="Interface de usuário neon Glassmorphism - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg" width="600" alt="Interface de usuário (UI) neon com glassmorphism - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -1254,17 +1445,17 @@ Uma interface neon com glassmorphism, efeitos de iluminação de UI ultramoderno
 - **Publicado:** 18 de novembro de 2025
 - **Idiomas:** zh
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Uma%20interface%20neon%20com%20glassmorphism%2C%20efeitos%20de%20ilumina%C3%A7%C3%A3o%20de%20UI%20ultramodernos%20e%20pain%C3%A9is%20de%20vidro%20semitransparentes.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Uma%20interface%20neon%20em%20glassmorphism%20com%20efeitos%20de%20ilumina%C3%A7%C3%A3o%20de%20UI%20ultramodernos%20e%20pain%C3%A9is%20de%20vidro%20semitransparentes.)**
 
 ---
 
-### No. 34: Demonstração interativa em SVG do reconhecimento de estrada do Tesla FSD
+### No. 39: Demonstração interativa em SVG do reconhecimento de estrada do Tesla FSD
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 Descrição
 
-Um prompt instruindo o Gemini a usar SVG para desenhar uma demonstração dinâmica e interativa de como o FSD da Tesla reconhece estradas.
+Um prompt instruindo o Gemini a usar SVG para desenhar uma demonstração dinâmica e interativa de como o Tesla FSD reconhece estradas.
 
 #### 📝 Prompt
 
@@ -1291,7 +1482,7 @@ Use SVG para desenhar uma demonstração dinâmica e interativa de como o Tesla 
 
 ---
 
-### No. 35: Reconstrua a UI da página de projeto React do GitHub
+### No. 40: Reconstrua a UI da página de projeto React do GitHub
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1325,7 +1516,7 @@ Crie a página GitHub de {argument name="project_name_en" default="React"}.
 
 ---
 
-### No. 36: Cena de passeio pelo museu Three.js
+### No. 41: Cena de museu interativa com Three.js
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1348,7 +1539,7 @@ Coloque também blocos brancos no meio do salão.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg" width="600" alt="Cena de passeio pelo museu Three.js - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg" width="600" alt="Cena de museu interativa com Three.js - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -1362,7 +1553,7 @@ Coloque também blocos brancos no meio do salão.
 
 ---
 
-### No. 37: Geração de cena threejs de arte voxel a partir de imagem
+### No. 42: Geração de cena threejs de arte voxel a partir de imagem
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1373,7 +1564,7 @@ Um prompt de codificação para o Gemini 3 gerar uma cena de arte voxel em Three
 #### 📝 Prompt
 
 ```
-Eu forneci uma imagem. Codifique uma bela cena de arte voxel inspirada nesta imagem. Escreva o código threejs em uma única página.
+Eu forneci uma imagem. Codifique uma bela cena de arte voxel inspirada nesta imagem. Escreva o código threejs como uma única página
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -1391,11 +1582,11 @@ Eu forneci uma imagem. Codifique uma bela cena de arte voxel inspirada nesta ima
 - **Publicado:** 18 de novembro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Eu%20forneci%20uma%20imagem.%20Codifique%20uma%20bela%20cena%20de%20arte%20voxel%20inspirada%20nesta%20imagem.%20Escreva%20o%20c%C3%B3digo%20threejs%20em%20uma%20%C3%BAnica%20p%C3%A1gina.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=Eu%20forneci%20uma%20imagem.%20Codifique%20uma%20bela%20cena%20de%20arte%20voxel%20inspirada%20nesta%20imagem.%20Escreva%20o%20c%C3%B3digo%20threejs%20como%20uma%20%C3%BAnica%20p%C3%A1gina)**
 
 ---
 
-### No. 38: Aplicativo web 3D de cubo mágico com controles de mistura e resolução
+### No. 43: Aplicativo web de cubo mágico 3D com controles de embaralhar e resolver
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1415,7 +1606,7 @@ Crie um {argument name="puzzle_type_en" default="cubo mágico"} 3D, inclua um bo
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg" width="600" alt="Aplicativo web 3D de cubo mágico com controles de mistura e resolução - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg" width="600" alt="Aplicativo web de cubo mágico 3D com controles de embaralhar e resolver - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -1429,7 +1620,7 @@ Crie um {argument name="puzzle_type_en" default="cubo mágico"} 3D, inclua um bo
 
 ---
 
-### No. 39: Interface de usuário de editor de vídeo semelhante ao CapCut no Gemini
+### No. 44: Interface de usuário de editor de vídeo semelhante ao CapCut no Gemini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1463,7 +1654,7 @@ Crie um {argument name="app_name_en" default="CapCut"}.
 
 ---
 
-### No. 40: Jogo de bilhar em HTML de arquivo único
+### No. 45: Jogo de bilhar em HTML de arquivo único
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1497,7 +1688,7 @@ Crie um {argument name="game_type_en" default="jogo de bilhar"} totalmente funci
 
 ---
 
-### No. 41: Monitoramento de núcleo quântico em HTML de página única
+### No. 46: Monitoramento de núcleo quântico em HTML de página única
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1531,13 +1722,13 @@ Por favor, gere uma única página HTML (SVG) para um “{argument name="system_
 
 ---
 
-### No. 42: Página da web de relatividade especial de nuvem de pontos dinâmica
+### No. 47: Página da web de relatividade especial de nuvem de pontos dinâmica
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
 #### 📖 Descrição
 
-Um prompt conciso em chinês instruindo o Gemini a criar uma página web dinâmica que usa um efeito de nuvem de pontos legal para explicar a relatividade especial, ideal para demonstrações interativas de física.
+Um prompt chinês conciso instruindo o Gemini a criar uma página web dinâmica que usa um efeito de nuvem de pontos legal para explicar a relatividade especial, ideal para demonstrações interativas de física.
 
 #### 📝 Prompt
 
@@ -1564,14 +1755,14 @@ Crie uma página web dinâmica que use um estilo de nuvem de pontos legal para e
 
 ---
 
-### No. 43: SVG de arquivo único de um controle Xbox
+### No. 48: SVG de arquivo único de um controle de Xbox
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt pedindo ao Gemini 3.0 Pro para criar uma representação SVG de um controle de Xbox, adequado para incorporação em páginas da web ou componentes de UI.
+Um prompt pedindo ao Gemini 3.0 Pro para criar uma representação SVG de um controle de Xbox, adequada para incorporação em páginas da web ou componentes de UI.
 
 #### 📝 Prompt
 
@@ -1584,7 +1775,7 @@ Crie um SVG de um {argument name="controller_type_en" default="controle de Xbox"
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg" width="600" alt="SVG de arquivo único de um controle Xbox - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg" width="600" alt="SVG de arquivo único de um controle de Xbox - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -1598,7 +1789,7 @@ Crie um SVG de um {argument name="controller_type_en" default="controle de Xbox"
 
 ---
 
-### No. 44: Prompt para geração de página web neobrutalista
+### No. 49: Prompt de geração de página web neobrutalista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1618,7 +1809,7 @@ Crie uma página web neobrutalista, torne-a extremamente criativa e leve os limi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg" width="600" alt="Prompt para geração de página web neobrutalista - Image 1">
+<img src="https://cdn.gooo.ai/cms/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg" width="600" alt="Prompt de geração de página web neobrutalista - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -1632,7 +1823,7 @@ Crie uma página web neobrutalista, torne-a extremamente criativa e leve os limi
 
 ---
 
-### No. 45: Cena SVG do horizonte de Nova York em um único HTML
+### No. 50: Cena SVG do horizonte de Nova York em um único HTML
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1644,7 +1835,7 @@ Um prompt em inglês pedindo ao Gemini para gerar um SVG altamente detalhado e c
 #### 📝 Prompt
 
 ```
-SVG do {argument name="city_skyline_en" default="horizonte de Nova York"}. Use as bibliotecas que forem necessárias para fazer isso, mas certifique-se de que eu possa colar tudo em um único arquivo HTML e abri-lo no Chrome. Torne-o interessante e altamente detalhado, mostrando detalhes inesperados. Seja totalmente criativo e totalmente belo em um único bloco de código.
+SVG da {argument name="city_skyline_en" default="silhueta de Nova York"}. Use as bibliotecas necessárias para fazer isso, mas certifique-se de que eu possa colar tudo em um único arquivo HTML e abri-lo no Chrome. Torne-o interessante e altamente detalhado, mostrando detalhes inesperados. Seja totalmente criativo e totalmente bonito em um único bloco de código.
 ```
 
 #### 🖼️ Imagens de exemplo
@@ -1662,7 +1853,7 @@ SVG do {argument name="city_skyline_en" default="horizonte de Nova York"}. Use a
 - **Publicado:** 16 de outubro de 2025
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=SVG%20do%20%7Bargument%20name%3D%22city_skyline_en%22%20default%3D%22horizonte%20de%20Nova%20York%22%7D.%20Use%20as%20bibliotecas%20que%20forem%20necess%C3%A1rias%20para%20fazer%20isso%2C%20mas%20certifique-se%20de%20que%20eu%20possa%20colar%20tudo%20em%20um%20%C3%BAnico%20arquivo%20HTML%20e%20abri-lo%20no%20Chrome.%20Torne-o%20interessante%20e%20altamente%20detalhado%2C%20mostrando%20detalhes%20inesperados.%20Seja%20totalmente%20criativo%20e%20totalmente%20belo%20em%20um%20%C3%BAnico%20bloco%20de%20c%C3%B3digo.)**
+**[👉 Experimente agora →](https://youmind.com/gemini-3-prompts?prompt=SVG%20da%20%7Bargument%20name%3D%22city_skyline_en%22%20default%3D%22silhueta%20de%20Nova%20York%22%7D.%20Use%20as%20bibliotecas%20necess%C3%A1rias%20para%20fazer%20isso%2C%20mas%20certifique-se%20de%20que%20eu%20possa%20colar%20tudo%20em%20um%20%C3%BAnico%20arquivo%20HTML%20e%20abri-lo%20no%20Chrome.%20Torne-o%20interessante%20e%20altamente%20detalhado%2C%20mostrando%20detalhes%20inesperados.%20Seja%20totalmente%20criativo%20e%20totalmente%20bonito%20em%20um%20%C3%BAnico%20bloco%20de%20c%C3%B3digo.)**
 
 ---
 
@@ -1709,6 +1900,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar uma estrela neste repositório](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2025-11-27T12:23:16.747Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2025-11-27T16:30:11.521Z</sub>
 
 </div>
