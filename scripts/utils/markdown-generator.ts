@@ -115,8 +115,6 @@ export function generateMarkdown(data: SortedPrompts, locale: string = 'en'): st
 function generateHeader(locale: string): string {
   return `# 🚀 ${t('title', locale)}
 
-> 💡 **Note**: ${t('nanoBananaPromo', locale)}
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -124,6 +122,8 @@ function generateHeader(locale: string): string {
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 ${t('subtitle', locale)}
+
+> 💡 **Note**: ${t('nanoBananaPromo', locale)}
 
 > ⚠️ ${t('copyright', locale)}
 
