@@ -80,6 +80,8 @@ export interface Translation {
   basic: string;
   fullyResponsive: string;
   aiOneClickGen: string;
+  // Nano Banana promo
+  nanoBananaPromo: string;
 }
 
 const en: Translation = {
@@ -159,6 +161,7 @@ const en: Translation = {
   basic: 'Basic',
   fullyResponsive: 'Fully responsive',
   aiOneClickGen: 'AI one-click generation',
+  nanoBananaPromo: 'If you\'re interested in Nano Banana Pro image prompts, feel free to check out our other repository with 500+ curated prompts: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts',
 };
 
 const zh: Translation = {
@@ -238,6 +241,7 @@ const zh: Translation = {
   basic: '基础',
   fullyResponsive: '完全响应式',
   aiOneClickGen: 'AI 一键生图',
+  nanoBananaPromo: '如果您对 Nano Banana Pro 图像提示词感兴趣，欢迎查看我们的另一个仓库，包含 500+ 精选提示词：https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts',
 };
 
 const zhTW: Translation = {
@@ -318,6 +322,7 @@ const zhTW: Translation = {
   basic: '基礎',
   fullyResponsive: '完全響應式',
   aiOneClickGen: 'AI 一鍵生圖',
+  nanoBananaPromo: '如果您對 Nano Banana Pro 圖像提示詞感興趣，歡迎查看我們的另一個倉庫，包含 500+ 精選提示詞：https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts',
 };
 
 const ja: Translation = {
@@ -398,6 +403,7 @@ const ja: Translation = {
   basic: '基本',
   fullyResponsive: '完全レスポンシブ',
   aiOneClickGen: 'AI ワンクリック生成',
+  nanoBananaPromo: 'Nano Banana Pro の画像プロンプトに興味がある場合は、500以上の厳選されたプロンプトを含む別のリポジトリをご覧ください：https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts',
 };
 
 const ko: Translation = {
@@ -478,6 +484,7 @@ const ko: Translation = {
   basic: '기본',
   fullyResponsive: '완전 반응형',
   aiOneClickGen: 'AI 원클릭 생성',
+  nanoBananaPromo: 'Nano Banana Pro 이미지 프롬프트에 관심이 있으시다면, 500개 이상의 엄선된 프롬프트가 포함된 다른 저장소를 확인해보세요: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts',
 };
 
 const de: Translation = {
@@ -517,6 +524,7 @@ const de: Translation = {
   morePromptsDesc: 'weitere Prompts hier nicht angezeigt',
   viewAll: '👉 Alle Prompts in unserer Web-Galerie ansehen',
   featured: 'Ausgewählt',
+  nanoBananaPromo: 'Wenn Sie an Nano Banana Pro Bild-Prompts interessiert sind, schauen Sie sich gerne unser anderes Repository mit über 500 kuratierten Prompts an: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts',
 };
 
 const fr: Translation = {
@@ -556,6 +564,7 @@ const fr: Translation = {
   morePromptsDesc: 'prompts supplémentaires non affichés ici',
   viewAll: '👉 Voir tous les prompts dans notre galerie Web',
   featured: 'En vedette',
+  nanoBananaPromo: 'Si vous êtes intéressé par les prompts d\'images Nano Banana Pro, n\'hésitez pas à consulter notre autre dépôt avec plus de 500 prompts sélectionnés : https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts',
 };
 
 const es: Translation = {
@@ -595,6 +604,7 @@ const es: Translation = {
   morePromptsDesc: 'prompts más no mostrados aquí',
   viewAll: '👉 Ver todos los prompts en nuestra galería web',
   featured: 'Destacado',
+  nanoBananaPromo: 'Si estás interesado en los prompts de imágenes de Nano Banana Pro, no dudes en consultar nuestro otro repositorio con más de 500 prompts seleccionados: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts',
 };
 
 const it: Translation = {
@@ -634,6 +644,7 @@ const it: Translation = {
   morePromptsDesc: 'altri prompt non mostrati qui',
   viewAll: '👉 Vedi tutti i prompt nella nostra galleria web',
   featured: 'In evidenza',
+  nanoBananaPromo: 'Se sei interessato ai prompt di immagini Nano Banana Pro, sentiti libero di controllare il nostro altro repository con oltre 500 prompt selezionati: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts',
 };
 
 const pt: Translation = {
@@ -673,6 +684,7 @@ const pt: Translation = {
   morePromptsDesc: 'mais prompts não mostrados aqui',
   viewAll: '👉 Ver todos os prompts na nossa galeria web',
   featured: 'Destaque',
+  nanoBananaPromo: 'Se você está interessado em prompts de imagens do Nano Banana Pro, sinta-se à vontade para conferir nosso outro repositório com mais de 500 prompts selecionados: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts',
 };
 
 const tr: Translation = {
@@ -712,6 +724,7 @@ const tr: Translation = {
   morePromptsDesc: 'burada gösterilmeyen daha fazla istem',
   viewAll: '👉 Tüm istemleri web galerimizde görüntüleyin',
   featured: 'Öne Çıkan',
+  nanoBananaPromo: 'Nano Banana Pro görsel istemleriyle ilgileniyorsanız, 500\'den fazla seçilmiş istem içeren diğer depomuzu kontrol etmekten çekinmeyin: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts',
 };
 
 const vi: Translation = {
@@ -751,6 +764,7 @@ const vi: Translation = {
   morePromptsDesc: 'câu lệnh khác không hiển thị ở đây',
   viewAll: '👉 Xem tất cả câu lệnh trong thư viện web của chúng tôi',
   featured: 'Nổi bật',
+  nanoBananaPromo: 'Nếu bạn quan tâm đến các câu lệnh hình ảnh Nano Banana Pro, vui lòng xem kho lưu trữ khác của chúng tôi với hơn 500 câu lệnh được tuyển chọn: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts',
 };
 
 const th: Translation = {
@@ -790,6 +804,7 @@ const th: Translation = {
   morePromptsDesc: 'คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่',
   viewAll: '👉 ดูคำสั่งทั้งหมดในแกลเลอรีเว็บของเรา',
   featured: 'แนะนำ',
+  nanoBananaPromo: 'หากคุณสนใจคำสั่งรูปภาพ Nano Banana Pro โปรดดูที่เก็บข้อมูลอื่นของเราที่มีคำสั่งที่คัดเลือกมากกว่า 500 รายการ: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts',
 };
 
 const hi: Translation = {
@@ -829,6 +844,7 @@ const hi: Translation = {
   morePromptsDesc: 'और प्रॉम्पट्स यहां नहीं दिखाए गए हैं',
   viewAll: '👉 हमारी वेब गैलरी में सभी प्रॉम्पट्स देखें',
   featured: 'विशेष',
+  nanoBananaPromo: 'यदि आप Nano Banana Pro छवि प्रॉम्पट्स में रुचि रखते हैं, तो कृपया 500+ क्यूरेटेड प्रॉम्पट्स के साथ हमारे अन्य रिपॉजिटरी को देखें: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts',
 };
 
 const I18N: Record<string, Translation> = {
