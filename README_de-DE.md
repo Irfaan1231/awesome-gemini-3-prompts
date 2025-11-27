@@ -80,7 +80,7 @@ Wenn Sie Raycast verwenden, können Sie die Argumente dynamisch ersetzen, um sch
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **45** |
 | ⭐ Ausgewählt | **0** |
-| 🔄 Zuletzt aktualisiert | **Donnerstag, 27. November 2025 um 12:21:18 UTC** |
+| 🔄 Zuletzt aktualisiert | **Donnerstag, 27. November 2025 um 12:23:16 UTC** |
 
 </div>
 
@@ -151,7 +151,7 @@ Ich möchte die Landing Page für ein neues {argument name="product_type_en" def
 
 - **Autor:** [elvis](https://x.com/omarsar0)
 - **Quelle:** [Twitter Post](https://x.com/omarsar0/status/1993101718041903565)
-- **Veröffentlicht:** 25. November 2025
+- **Veröffentlicht:** 24. November 2025
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/gemini-3-prompts?prompt=Ich%20m%C3%B6chte%20die%20Landing%20Page%20f%C3%BCr%20ein%20neues%20%7Bargument%20name%3D%22product_type_en%22%20default%3D%22AI%20game%22%7D%20gestalten.%20Sie%20soll%20futuristisch%20aussehen%20und%20so%20viele%20Animationen%20wie%20m%C3%B6glich%20verwenden.)**
@@ -856,7 +856,7 @@ Erstellen Sie ein Raymarching-Mandelbulb-Fraktal in GLSL, umgeben Sie es mit {ar
 
 - **Autor:** [SRKDAN](https://x.com/SRKDAN)
 - **Quelle:** [Twitter Post](https://x.com/SRKDAN/status/1991210377179234355)
-- **Veröffentlicht:** 20. November 2025
+- **Veröffentlicht:** 19. November 2025
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/gemini-3-prompts?prompt=Erstellen%20Sie%20ein%20Raymarching-Mandelbulb-Fraktal%20in%20GLSL%2C%20umgeben%20Sie%20es%20mit%20%7Bargument%20name%3D%22particle_count_en%22%20default%3D%2212%2C000%22%7D%20instanziierten%20Partikeln%2C%20machen%20Sie%20es%20auf%20mein%20Mikrofon%20audioreaktiv%20und%20f%C3%BCgen%20Sie%20Unreal%20Bloom%20hinzu.)**
@@ -890,7 +890,7 @@ Sie sind das Studio {argument name="studio_name_en" default="makemepulse"}. Erst
 
 - **Autor:** [arda](https://x.com/ardadoteth)
 - **Quelle:** [Twitter Post](https://x.com/ardadoteth/status/1991203658269090295)
-- **Veröffentlicht:** 20. November 2025
+- **Veröffentlicht:** 19. November 2025
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/gemini-3-prompts?prompt=Sie%20sind%20das%20Studio%20%7Bargument%20name%3D%22studio_name_en%22%20default%3D%22makemepulse%22%7D.%20Erstellen%20Sie%20mir%20eine%20Website%20f%C3%BCr%20%7Bargument%20name%3D%22client_name_en%22%20default%3D%22AP%22%7D.%20Denken%20Sie%20sorgf%C3%A4ltig%20nach%20und%20machen%20Sie%20keine%20Fehler.)**
@@ -1160,7 +1160,7 @@ Erstellen Sie eine Parallax-Scrolling-Website mit explosiven visuellen Effekten:
 
 - **Autor:** [木子不写代码](https://x.com/ai_muzi)
 - **Quelle:** [Twitter Post](https://x.com/ai_muzi/status/1990905917735317857)
-- **Veröffentlicht:** 19. November 2025
+- **Veröffentlicht:** 18. November 2025
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/gemini-3-prompts?prompt=Erstellen%20Sie%20eine%20Parallax-Scrolling-Website%20mit%20explosiven%20visuellen%20Effekten%3A%20geschichtete%20Hintergr%C3%BCnde%2C%20die%20sich%20beim%20Scrollen%20mit%20unterschiedlichen%20Geschwindigkeiten%20bewegen%2C%20flie%C3%9Fende%20%C3%9Cberg%C3%A4nge%20und%20interaktive%20Elemente%2C%20die%20mit%20Animationen%20aufpoppen.)**
@@ -1218,7 +1218,7 @@ Stil: {argument name="style_en" default="Apple/Linear-ähnlicher Schweizer Moder
 
 - **Autor:** [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen)
 - **Quelle:** [Twitter Post](https://x.com/masahirochaen/status/1990905875104739689)
-- **Veröffentlicht:** 19. November 2025
+- **Veröffentlicht:** 18. November 2025
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0ABasierend%20auf%20dem%20sp%C3%A4ter%20bereitgestellten%20%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%20sind%20die%20folgenden%20Spezifikationen%20strikt%20einzuhalten%20und%20eine%20hochwertige%20Landing%20Page%20in%20React%20(einzelne%20Datei)%20zu%20implementieren.%0A%0A1.%20Designkonzept%3A%20%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0AStil%3A%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-%C3%A4hnlicher%20Schweizer%20Moderner%20Stil%22%7D%2C%20der%20Dekorationen%20entfernt%20und%20Leerraum%20sowie%20Typografie%20nutzt%2C%20um%20Attraktivit%C3%A4t%20zu%20erzeugen.)**
@@ -1251,7 +1251,7 @@ Eine Glassmorphismus-Neon-Oberfläche mit hochmodernen UI-Beleuchtungseffekten u
 
 - **Autor:** [余温](https://x.com/gkxspace)
 - **Quelle:** [Twitter Post](https://x.com/gkxspace/status/1990890398005219692)
-- **Veröffentlicht:** 19. November 2025
+- **Veröffentlicht:** 18. November 2025
 - **Sprachen:** zh
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/gemini-3-prompts?prompt=Eine%20Glassmorphismus-Neon-Oberfl%C3%A4che%20mit%20hochmodernen%20UI-Beleuchtungseffekten%20und%20halbtransparenten%20Glaspaneelen.)**
@@ -1284,7 +1284,7 @@ Verwenden Sie SVG, um eine dynamische, interaktive Demonstration zu erstellen, w
 
 - **Autor:** [余温](https://x.com/gkxspace)
 - **Quelle:** [Twitter Post](https://x.com/gkxspace/status/1990845658706612581)
-- **Veröffentlicht:** 19. November 2025
+- **Veröffentlicht:** 18. November 2025
 - **Sprachen:** zh
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/gemini-3-prompts?prompt=Verwenden%20Sie%20SVG%2C%20um%20eine%20dynamische%2C%20interaktive%20Demonstration%20zu%20erstellen%2C%20wie%20Tesla%20FSD%20Stra%C3%9Fen%20erkennt.)**
@@ -1318,7 +1318,7 @@ Erstellen Sie die GitHub-Seite von {argument name="project_name_en" default="Rea
 
 - **Autor:** [Samro ✨](https://x.com/jacobsamro)
 - **Quelle:** [Twitter Post](https://x.com/jacobsamro/status/1990844468996813279)
-- **Veröffentlicht:** 19. November 2025
+- **Veröffentlicht:** 18. November 2025
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/gemini-3-prompts?prompt=Erstellen%20Sie%20die%20GitHub-Seite%20von%20%7Bargument%20name%3D%22project_name_en%22%20default%3D%22React%22%7D.)**
@@ -1355,7 +1355,7 @@ Platzieren Sie außerdem weiße Blöcke in der Mitte der Halle.
 
 - **Autor:** [Sabo Sugi ✦](https://x.com/sabosugi)
 - **Quelle:** [Twitter Post](https://x.com/sabosugi/status/1990840115984294112)
-- **Veröffentlicht:** 19. November 2025
+- **Veröffentlicht:** 18. November 2025
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/gemini-3-prompts?prompt=Erstellen%20Sie%20eine%20Szene%20in%20three.js.%0AEs%20wird%20ein%20Museum%20mit%20Gem%C3%A4lden%20an%20den%20W%C3%A4nden%20sein%2C%20und%20Sie%20k%C3%B6nnen%20wie%20in%20einem%20Spiel%20durch%20die%20Museumshalle%20gehen.%0AMachen%20Sie%20die%20W%C3%A4nde%20und%20den%20Boden%20wei%C3%9F.%0AAn%20der%20Decke%20wird%20Glas%20sein%2C%20hinter%20dem%20der%20Himmel%20sichtbar%20ist.%0APlatzieren%20Sie%20au%C3%9Ferdem%20wei%C3%9Fe%20Bl%C3%B6cke%20in%20der%20Mitte%20der%20Halle.)**
@@ -1388,7 +1388,7 @@ Ich habe ein Bild zur Verfügung gestellt. Erstellen Sie eine wunderschöne Voxe
 
 - **Autor:** [Ian Goodfellow](https://x.com/goodfellow_ian)
 - **Quelle:** [Twitter Post](https://x.com/goodfellow_ian/status/1990839056331337797)
-- **Veröffentlicht:** 19. November 2025
+- **Veröffentlicht:** 18. November 2025
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/gemini-3-prompts?prompt=Ich%20habe%20ein%20Bild%20zur%20Verf%C3%BCgung%20gestellt.%20Erstellen%20Sie%20eine%20wundersch%C3%B6ne%20Voxel-Art-Szene%2C%20die%20von%20diesem%20Bild%20inspiriert%20ist.%20Schreiben%20Sie%20den%20three.js-Code%20als%20Single-Page-Anwendung.)**
@@ -1422,7 +1422,7 @@ Erstelle einen 3D-{argument name="puzzle_type_en" default="Rubik's Cube"}, füge
 
 - **Autor:** [Alan Shiflett](https://x.com/AlanShiflett)
 - **Quelle:** [Twitter Post](https://x.com/AlanShiflett/status/1990834197414785280)
-- **Veröffentlicht:** 19. November 2025
+- **Veröffentlicht:** 18. November 2025
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/gemini-3-prompts?prompt=Erstelle%20einen%203D-%7Bargument%20name%3D%22puzzle_type_en%22%20default%3D%22Rubik's%20Cube%22%7D%2C%20f%C3%BCge%20einen%20Button%20zum%20Mischen%20hinzu%2C%20der%20den%20W%C3%BCrfel%20durcheinanderbringt%2C%20und%20einen%20Button%2C%20der%20das%20Puzzle%20l%C3%B6st.%20Erlaube%20dem%20Benutzer%20au%C3%9Ferdem%2C%20es%20manuell%20zu%20manipulieren%20und%20selbst%20zu%20l%C3%B6sen.)**
@@ -1456,7 +1456,7 @@ Entwerfen Sie ein {argument name="app_name_en" default="CapCut"}.
 
 - **Autor:** [padphone](https://x.com/lepadphone)
 - **Quelle:** [Twitter Post](https://x.com/lepadphone/status/1990834118511505486)
-- **Veröffentlicht:** 19. November 2025
+- **Veröffentlicht:** 18. November 2025
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/gemini-3-prompts?prompt=Entwerfen%20Sie%20ein%20%7Bargument%20name%3D%22app_name_en%22%20default%3D%22CapCut%22%7D.)**
@@ -1490,7 +1490,7 @@ Bitte erstellen Sie ein voll funktionsfähiges {argument name="game_type_en" def
 
 - **Autor:** [余温](https://x.com/gkxspace)
 - **Quelle:** [Twitter Post](https://x.com/gkxspace/status/1990822470308221043)
-- **Veröffentlicht:** 19. November 2025
+- **Veröffentlicht:** 18. November 2025
 - **Sprachen:** zh
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/gemini-3-prompts?prompt=Bitte%20erstellen%20Sie%20ein%20voll%20funktionsf%C3%A4higes%20%7Bargument%20name%3D%22game_type_en%22%20default%3D%22Billardspiel%22%7D%20in%20einer%20einzigen%20HTML-Datei.)**
@@ -1524,7 +1524,7 @@ Bitte generieren Sie eine einseitige HTML-Datei (SVG) für ein „{argument name
 
 - **Autor:** [余温](https://x.com/gkxspace)
 - **Quelle:** [Twitter Post](https://x.com/gkxspace/status/1990818141610324361)
-- **Veröffentlicht:** 19. November 2025
+- **Veröffentlicht:** 18. November 2025
 - **Sprachen:** zh
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/gemini-3-prompts?prompt=Bitte%20generieren%20Sie%20eine%20einseitige%20HTML-Datei%20(SVG)%20f%C3%BCr%20ein%20%E2%80%9E%7Bargument%20name%3D%22system_name_en%22%20default%3D%22Quantum%20Core%20Monitoring%20System%22%7D%E2%80%9C.)**
@@ -1557,7 +1557,7 @@ Schreiben Sie eine dynamische Webseite, die mit einem coolen Punktwolken-Stil di
 
 - **Autor:** [-Zho-](https://x.com/ZHO_ZHO_ZHO)
 - **Quelle:** [Twitter Post](https://x.com/ZHO_ZHO_ZHO/status/1990812808112419198)
-- **Veröffentlicht:** 19. November 2025
+- **Veröffentlicht:** 18. November 2025
 - **Sprachen:** zh
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/gemini-3-prompts?prompt=Schreiben%20Sie%20eine%20dynamische%20Webseite%2C%20die%20mit%20einem%20coolen%20Punktwolken-Stil%20die%20spezielle%20Relativit%C3%A4tstheorie%20erkl%C3%A4rt.)**
@@ -1709,6 +1709,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Einen Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit einem Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-11-27T12:21:18.535Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-11-27T12:23:16.033Z</sub>
 
 </div>

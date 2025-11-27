@@ -80,7 +80,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **45** |
 | ⭐ Öne Çıkan | **0** |
-| 🔄 Son Güncelleme | **27 Kasım 2025 Perşembe 12:21:21 UTC** |
+| 🔄 Son Güncelleme | **27 Kasım 2025 Perşembe 12:23:17 UTC** |
 
 </div>
 
@@ -151,7 +151,7 @@ Yeni bir {argument name="product_type_en" default="yapay zeka oyunu"} için aç�
 
 - **Yazar:** [elvis](https://x.com/omarsar0)
 - **Kaynak:** [Twitter Post](https://x.com/omarsar0/status/1993101718041903565)
-- **Yayınlandı:** 25 Kasım 2025
+- **Yayınlandı:** 24 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=Yeni%20bir%20%7Bargument%20name%3D%22product_type_en%22%20default%3D%22yapay%20zeka%20oyunu%22%7D%20i%C3%A7in%20a%C3%A7%C4%B1l%C4%B1%C5%9F%20sayfas%C4%B1%20tasarlamak%20istiyorum.%20F%C3%BCt%C3%BCristik%20g%C3%B6r%C3%BCnmesini%20ve%20m%C3%BCmk%C3%BCn%20oldu%C4%9Funca%20%C3%A7ok%20animasyon%20kullanmas%C4%B1n%C4%B1%20istiyoruz.)**
@@ -856,7 +856,7 @@ GLSL'de bir raymarching Mandelbulb fraktalı oluşturun, etrafını {argument na
 
 - **Yazar:** [SRKDAN](https://x.com/SRKDAN)
 - **Kaynak:** [Twitter Post](https://x.com/SRKDAN/status/1991210377179234355)
-- **Yayınlandı:** 20 Kasım 2025
+- **Yayınlandı:** 19 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=GLSL'de%20bir%20raymarching%20Mandelbulb%20fraktal%C4%B1%20olu%C5%9Fturun%2C%20etraf%C4%B1n%C4%B1%20%7Bargument%20name%3D%22particle_count_en%22%20default%3D%2212%2C000%22%7D%20%C3%B6rneklendirilmi%C5%9F%20par%C3%A7ac%C4%B1kla%20%C3%A7evreleyin%2C%20mikrofonuma%20sesle%20tepki%20vermesini%20sa%C4%9Flay%C4%B1n%20ve%20Unreal%20Bloom%20ekleyin.)**
@@ -890,7 +890,7 @@ Sen {argument name="studio_name_en" default="makemepulse"} stüdyosusun. Bana {a
 
 - **Yazar:** [arda](https://x.com/ardadoteth)
 - **Kaynak:** [Twitter Post](https://x.com/ardadoteth/status/1991203658269090295)
-- **Yayınlandı:** 20 Kasım 2025
+- **Yayınlandı:** 19 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=Sen%20%7Bargument%20name%3D%22studio_name_en%22%20default%3D%22makemepulse%22%7D%20st%C3%BCdyosusun.%20Bana%20%7Bargument%20name%3D%22client_name_en%22%20default%3D%22AP%22%7D%20i%C3%A7in%20bir%20web%20sitesi%20yap.%20Dikkatlice%20d%C3%BC%C5%9F%C3%BCn%20ve%20hata%20yapma.)**
@@ -1160,7 +1160,7 @@ Patlayıcı görsel efektlere sahip bir paralaks kaydırma web sitesi oluşturun
 
 - **Yazar:** [木子不写代码](https://x.com/ai_muzi)
 - **Kaynak:** [Twitter Post](https://x.com/ai_muzi/status/1990905917735317857)
-- **Yayınlandı:** 19 Kasım 2025
+- **Yayınlandı:** 18 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=Patlay%C4%B1c%C4%B1%20g%C3%B6rsel%20efektlere%20sahip%20bir%20paralaks%20kayd%C4%B1rma%20web%20sitesi%20olu%C5%9Fturun%3A%20kayd%C4%B1rma%20s%C4%B1ras%C4%B1nda%20farkl%C4%B1%20h%C4%B1zlarda%20hareket%20eden%20katmanl%C4%B1%20arka%20planlar%2C%20ak%C4%B1c%C4%B1%20ge%C3%A7i%C5%9Fler%20ve%20animasyonlarla%20beliren%20etkile%C5%9Fimli%20%C3%B6%C4%9Feler.)**
@@ -1218,7 +1218,7 @@ Stil: {argument name="style_en" default="Apple/Linear-like Swiss modern style"},
 
 - **Yazar:** [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen)
 - **Kaynak:** [Twitter Post](https://x.com/masahirochaen/status/1990905875104739689)
-- **Yayınlandı:** 19 Kasım 2025
+- **Yayınlandı:** 18 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0ADaha%20sonra%20sa%C4%9Flanacak%20olan%20%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%20temel%20al%C4%B1narak%2C%20a%C5%9Fa%C4%9F%C4%B1daki%20%C3%B6zelliklere%20kesinlikle%20uyarak%20React'te%20(tek%20dosya)%20y%C3%BCksek%20kaliteli%20bir%20a%C3%A7%C4%B1l%C4%B1%C5%9F%20sayfas%C4%B1%20uygulay%C4%B1n.%0A%0A1.%20Tasar%C4%B1m%20konsepti%3A%20%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0AStil%3A%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-like%20Swiss%20modern%20style%22%7D%2C%20dekorasyonu%20kald%C4%B1rarak%20ve%20%C3%A7ekicilik%20yaratmak%20i%C3%A7in%20bo%C5%9Fluk%20ve%20tipografi%20kullanarak.)**
@@ -1251,7 +1251,7 @@ Ultra modern kullanıcı arayüzü aydınlatma efektleri ve yarı saydam cam pan
 
 - **Yazar:** [余温](https://x.com/gkxspace)
 - **Kaynak:** [Twitter Post](https://x.com/gkxspace/status/1990890398005219692)
-- **Yayınlandı:** 19 Kasım 2025
+- **Yayınlandı:** 18 Kasım 2025
 - **Diller:** zh
 
 **[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=Ultra%20modern%20kullan%C4%B1c%C4%B1%20aray%C3%BCz%C3%BC%20ayd%C4%B1nlatma%20efektleri%20ve%20yar%C4%B1%20saydam%20cam%20panellerle%20cam%20morfluk%20neon%20aray%C3%BCz.)**
@@ -1284,7 +1284,7 @@ Tesla FSD'nin yolları nasıl tanıdığını gösteren dinamik, etkileşimli bi
 
 - **Yazar:** [余温](https://x.com/gkxspace)
 - **Kaynak:** [Twitter Post](https://x.com/gkxspace/status/1990845658706612581)
-- **Yayınlandı:** 19 Kasım 2025
+- **Yayınlandı:** 18 Kasım 2025
 - **Diller:** zh
 
 **[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=Tesla%20FSD'nin%20yollar%C4%B1%20nas%C4%B1l%20tan%C4%B1d%C4%B1%C4%9F%C4%B1n%C4%B1%20g%C3%B6steren%20dinamik%2C%20etkile%C5%9Fimli%20bir%20demoyu%20%C3%A7izmek%20i%C3%A7in%20SVG%20kullan%C4%B1n.)**
@@ -1318,7 +1318,7 @@ Gemini 3 Pro'dan React'in GitHub sayfasını oluşturmasını, yani React deposu
 
 - **Yazar:** [Samro ✨](https://x.com/jacobsamro)
 - **Kaynak:** [Twitter Post](https://x.com/jacobsamro/status/1990844468996813279)
-- **Yayınlandı:** 19 Kasım 2025
+- **Yayınlandı:** 18 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22project_name_en%22%20default%3D%22React%22%7D%20i%C3%A7in%20GitHub%20sayfas%C4%B1n%C4%B1%20olu%C5%9Fturun.)**
@@ -1355,7 +1355,7 @@ Ayrıca salonun ortasına beyaz bloklar yerleştirin.
 
 - **Yazar:** [Sabo Sugi ✦](https://x.com/sabosugi)
 - **Kaynak:** [Twitter Post](https://x.com/sabosugi/status/1990840115984294112)
-- **Yayınlandı:** 19 Kasım 2025
+- **Yayınlandı:** 18 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=three.js'te%20bir%20sahne%20olu%C5%9Fturun.%0ADuvarlar%C4%B1nda%20tablolar%20olan%20bir%20m%C3%BCze%20olacak%20ve%20m%C3%BCze%20salonunda%20bir%20oyun%20gibi%20dola%C5%9Fabileceksiniz.%0ADuvarlar%C4%B1%20ve%20zemini%20beyaz%20yap%C4%B1n.%0ATavanda%20arkas%C4%B1ndan%20g%C3%B6ky%C3%BCz%C3%BCn%C3%BCn%20g%C3%B6r%C3%BCnd%C3%BC%C4%9F%C3%BC%20cam%20olacak.%0AAyr%C4%B1ca%20salonun%20ortas%C4%B1na%20beyaz%20bloklar%20yerle%C5%9Ftirin.)**
@@ -1388,7 +1388,7 @@ Bir görsel sağladım. Bu görselden esinlenerek güzel bir voksel sanat sahnes
 
 - **Yazar:** [Ian Goodfellow](https://x.com/goodfellow_ian)
 - **Kaynak:** [Twitter Post](https://x.com/goodfellow_ian/status/1990839056331337797)
-- **Yayınlandı:** 19 Kasım 2025
+- **Yayınlandı:** 18 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=Bir%20g%C3%B6rsel%20sa%C4%9Flad%C4%B1m.%20Bu%20g%C3%B6rselden%20esinlenerek%20g%C3%BCzel%20bir%20voksel%20sanat%20sahnesi%20kodlay%C4%B1n.%20three.js%20kodunu%20tek%20sayfa%20olarak%20yaz%C4%B1n.)**
@@ -1422,7 +1422,7 @@ Kullanıcı tarafından karıştırılabilen, otomatik olarak çözülebilen ve 
 
 - **Yazar:** [Alan Shiflett](https://x.com/AlanShiflett)
 - **Kaynak:** [Twitter Post](https://x.com/AlanShiflett/status/1990834197414785280)
-- **Yayınlandı:** 19 Kasım 2025
+- **Yayınlandı:** 18 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=3%20boyutlu%20bir%20%7Bargument%20name%3D%22puzzle_type_en%22%20default%3D%22Rubik%20k%C3%BCp%C3%BC%22%7D%20olu%C5%9Fturun%2C%20k%C3%BCp%C3%BC%20kar%C4%B1%C5%9Ft%C4%B1ran%20bir%20kar%C4%B1%C5%9Ft%C4%B1rma%20d%C3%BC%C4%9Fmesi%20ve%20bulmacay%C4%B1%20%C3%A7%C3%B6zen%20bir%20d%C3%BC%C4%9Fme%20ekleyin.%20Ayr%C4%B1ca%20kullan%C4%B1c%C4%B1n%C4%B1n%20manuel%20olarak%20manip%C3%BCle%20etmesine%20ve%20kendi%20ba%C5%9F%C4%B1na%20%C3%A7%C3%B6zmesine%20izin%20verin.)**
@@ -1456,7 +1456,7 @@ Bir {argument name="app_name_en" default="CapCut"} tasarlayın.
 
 - **Yazar:** [padphone](https://x.com/lepadphone)
 - **Kaynak:** [Twitter Post](https://x.com/lepadphone/status/1990834118511505486)
-- **Yayınlandı:** 19 Kasım 2025
+- **Yayınlandı:** 18 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=Bir%20%7Bargument%20name%3D%22app_name_en%22%20default%3D%22CapCut%22%7D%20tasarlay%C4%B1n.)**
@@ -1490,7 +1490,7 @@ Lütfen tek bir HTML dosyasında tam işlevli bir {argument name="game_type_en" 
 
 - **Yazar:** [余温](https://x.com/gkxspace)
 - **Kaynak:** [Twitter Post](https://x.com/gkxspace/status/1990822470308221043)
-- **Yayınlandı:** 19 Kasım 2025
+- **Yayınlandı:** 18 Kasım 2025
 - **Diller:** zh
 
 **[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=L%C3%BCtfen%20tek%20bir%20HTML%20dosyas%C4%B1nda%20tam%20i%C5%9Flevli%20bir%20%7Bargument%20name%3D%22game_type_en%22%20default%3D%22bilardo%20oyunu%22%7D%20olu%C5%9Fturun.)**
@@ -1524,7 +1524,7 @@ Lütfen "{argument name="system_name_en" default="Quantum Core Monitoring System
 
 - **Yazar:** [余温](https://x.com/gkxspace)
 - **Kaynak:** [Twitter Post](https://x.com/gkxspace/status/1990818141610324361)
-- **Yayınlandı:** 19 Kasım 2025
+- **Yayınlandı:** 18 Kasım 2025
 - **Diller:** zh
 
 **[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=L%C3%BCtfen%20%22%7Bargument%20name%3D%22system_name_en%22%20default%3D%22Quantum%20Core%20Monitoring%20System%22%7D%22%20i%C3%A7in%20tek%20sayfal%C4%B1k%20bir%20HTML%20(SVG)%20olu%C5%9Fturun.)**
@@ -1557,7 +1557,7 @@ Gemini'ye özel göreliliği açıklamak için havalı bir nokta bulutu efekti k
 
 - **Yazar:** [-Zho-](https://x.com/ZHO_ZHO_ZHO)
 - **Kaynak:** [Twitter Post](https://x.com/ZHO_ZHO_ZHO/status/1990812808112419198)
-- **Yayınlandı:** 19 Kasım 2025
+- **Yayınlandı:** 18 Kasım 2025
 - **Diller:** zh
 
 **[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=%C3%96zel%20g%C3%B6relili%C4%9Fi%20a%C3%A7%C4%B1klamak%20i%C3%A7in%20haval%C4%B1%20bir%20nokta%20bulutu%20stili%20kullanan%20dinamik%20bir%20web%20sayfas%C4%B1%20yaz%C4%B1n.)**
@@ -1709,6 +1709,6 @@ Ayrıntılı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasın
 **[📝 Bir istem gönder](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız ver](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-11-27T12:21:21.209Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-11-27T12:23:17.170Z</sub>
 
 </div>

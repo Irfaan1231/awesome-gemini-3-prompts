@@ -80,7 +80,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **45** |
 | ⭐ 精選 | **0** |
-| 🔄 最後更新 | **2025年11月27日 星期四 中午12:21:13 [UTC]** |
+| 🔄 最後更新 | **2025年11月27日 星期四 中午12:23:13 [UTC]** |
 
 </div>
 
@@ -151,7 +151,7 @@ by {argument name="author" default="Steve Jobs"}
 
 - **作者:** [elvis](https://x.com/omarsar0)
 - **來源:** [Twitter Post](https://x.com/omarsar0/status/1993101718041903565)
-- **發布時間:** 2025年11月25日
+- **發布時間:** 2025年11月24日
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%E6%88%91%E6%83%B3%E7%82%BA%E4%B8%80%E6%AC%BE%E6%96%B0%E7%9A%84%20%7Bargument%20name%3D%22product_type_en%22%20default%3D%22AI%20%E9%81%8A%E6%88%B2%22%7D%20%E8%A8%AD%E8%A8%88%E4%B8%80%E5%80%8B%E5%88%B0%E9%81%94%E9%A0%81%E9%9D%A2%E3%80%82%E6%88%91%E5%80%91%E5%B8%8C%E6%9C%9B%E5%AE%83%E7%9C%8B%E8%B5%B7%E4%BE%86%E5%85%85%E6%BB%BF%E6%9C%AA%E4%BE%86%E6%84%9F%EF%BC%8C%E4%B8%A6%E7%9B%A1%E5%8F%AF%E8%83%BD%E5%A4%9A%E5%9C%B0%E4%BD%BF%E7%94%A8%E5%8B%95%E7%95%AB%E3%80%82)**
@@ -856,7 +856,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 - **作者:** [SRKDAN](https://x.com/SRKDAN)
 - **來源:** [Twitter Post](https://x.com/SRKDAN/status/1991210377179234355)
-- **發布時間:** 2025年11月20日
+- **發布時間:** 2025年11月19日
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%E5%9C%A8%20GLSL%20%E4%B8%AD%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%80%8B%20raymarching%20Mandelbulb%20%E7%A2%8E%E5%BD%A2%EF%BC%8C%E4%B8%A6%E7%94%A8%20%7Bargument%20name%3D%22particle_count_en%22%20default%3D%2212%2C000%22%7D%20%E5%80%8B%E5%AF%A6%E4%BE%8B%E5%8C%96%E7%B2%92%E5%AD%90%E5%B0%87%E5%85%B6%E7%92%B0%E7%B9%9E%EF%BC%8C%E4%BD%BF%E5%85%B6%E5%B0%8D%E6%88%91%E7%9A%84%E9%BA%A5%E5%85%8B%E9%A2%A8%E7%94%A2%E7%94%9F%E9%9F%B3%E8%A8%8A%E5%8F%8D%E6%87%89%EF%BC%8C%E4%B8%A6%E5%8A%A0%E5%85%A5%20Unreal%20Bloom%E3%80%82)**
@@ -890,7 +890,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 - **作者:** [arda](https://x.com/ardadoteth)
 - **來源:** [Twitter Post](https://x.com/ardadoteth/status/1991203658269090295)
-- **發布時間:** 2025年11月20日
+- **發布時間:** 2025年11月19日
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%E6%82%A8%E6%98%AF%E5%B7%A5%E4%BD%9C%E5%AE%A4%20%7Bargument%20name%3D%22studio_name_en%22%20default%3D%22makemepulse%22%7D%E3%80%82%E8%AB%8B%E7%82%BA%20%7Bargument%20name%3D%22client_name_en%22%20default%3D%22AP%22%7D%20%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%80%8B%E7%B6%B2%E7%AB%99%E3%80%82%E8%AB%8B%E4%BB%94%E7%B4%B0%E6%80%9D%E8%80%83%EF%BC%8C%E4%B8%8D%E8%A6%81%E7%8A%AF%E4%BB%BB%E4%BD%95%E9%8C%AF%E8%AA%A4%E3%80%82)**
@@ -1161,7 +1161,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 - **作者:** [木子不写代码](https://x.com/ai_muzi)
 - **來源:** [Twitter Post](https://x.com/ai_muzi/status/1990905917735317857)
-- **發布時間:** 2025年11月19日
+- **發布時間:** 2025年11月18日
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%E6%89%93%E9%80%A0%E4%B8%80%E5%80%8B%E5%85%B7%E5%82%99%E7%88%86%E7%82%B8%E6%80%A7%E8%A6%96%E8%A6%BA%E6%95%88%E6%9E%9C%E7%9A%84%E8%A6%96%E5%B7%AE%E6%BB%BE%E5%8B%95%E7%B6%B2%E7%AB%99%EF%BC%9A%E5%88%86%E5%B1%A4%E8%83%8C%E6%99%AF%E5%9C%A8%E6%BB%BE%E5%8B%95%E6%99%82%E4%BB%A5%E4%B8%8D%E5%90%8C%E9%80%9F%E5%BA%A6%E7%A7%BB%E5%8B%95%E3%80%81%E6%B5%81%E6%9A%A2%E7%9A%84%E8%BD%89%E5%A0%B4%E6%95%88%E6%9E%9C%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%B8%B6%E6%9C%89%E5%8B%95%E7%95%AB%E5%BD%88%E5%87%BA%E7%9A%84%E4%BA%92%E5%8B%95%E5%85%83%E7%B4%A0%E3%80%82)**
@@ -1219,7 +1219,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 - **作者:** [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen)
 - **來源:** [Twitter Post](https://x.com/masahirochaen/status/1990905875104739689)
-- **發布時間:** 2025年11月19日
+- **發布時間:** 2025年11月18日
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0A%E6%A0%B9%E6%93%9A%E7%A8%8D%E5%BE%8C%E6%8F%90%E4%BE%9B%E7%9A%84%E3%80%8C%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%E3%80%8D%EF%BC%8C%E8%AB%8B%E5%9A%B4%E6%A0%BC%E9%81%B5%E5%BE%AA%E4%BB%A5%E4%B8%8B%E8%A6%8F%E7%AF%84%EF%BC%8C%E4%B8%A6%E4%BB%A5%20React%EF%BC%88%E5%96%AE%E4%B8%80%E6%AA%94%E6%A1%88%EF%BC%89%E5%AF%A6%E4%BD%9C%E4%B8%80%E5%80%8B%E9%AB%98%E5%93%81%E8%B3%AA%E7%9A%84%E7%99%BB%E9%99%B8%E9%A0%81%E9%9D%A2%E3%80%82%0A%0A1.%20%E8%A8%AD%E8%A8%88%E7%90%86%E5%BF%B5%EF%BC%9A%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0A%E9%A2%A8%E6%A0%BC%EF%BC%9A%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-like%20Swiss%20modern%20style%22%7D%EF%BC%8C%E5%8E%BB%E9%99%A4%E8%A3%9D%E9%A3%BE%EF%BC%8C%E9%81%8B%E7%94%A8%E7%95%99%E7%99%BD%E5%92%8C%E6%8E%92%E7%89%88%E4%BE%86%E7%87%9F%E9%80%A0%E5%90%B8%E5%BC%95%E5%8A%9B%E3%80%82)**
@@ -1252,7 +1252,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 - **作者:** [余温](https://x.com/gkxspace)
 - **來源:** [Twitter Post](https://x.com/gkxspace/status/1990890398005219692)
-- **發布時間:** 2025年11月19日
+- **發布時間:** 2025年11月18日
 - **多語言:** zh
 
 **[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%E5%85%B7%E6%9C%89%E8%B6%85%E7%8F%BE%E4%BB%A3%20UI%20%E7%85%A7%E6%98%8E%E6%95%88%E6%9E%9C%E5%92%8C%E5%8D%8A%E9%80%8F%E6%98%8E%E7%8E%BB%E7%92%83%E9%9D%A2%E6%9D%BF%E7%9A%84%E7%8E%BB%E7%92%83%E6%93%AC%E6%85%8B%E9%9C%93%E8%99%B9%E4%BB%8B%E9%9D%A2%E3%80%82)**
@@ -1285,7 +1285,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 - **作者:** [余温](https://x.com/gkxspace)
 - **來源:** [Twitter Post](https://x.com/gkxspace/status/1990845658706612581)
-- **發布時間:** 2025年11月19日
+- **發布時間:** 2025年11月18日
 - **多語言:** zh
 
 **[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%E4%BD%BF%E7%94%A8%20SVG%20%E7%B9%AA%E8%A3%BD%20Tesla%20FSD%20%E5%A6%82%E4%BD%95%E8%AD%98%E5%88%A5%E9%81%93%E8%B7%AF%E7%9A%84%E5%8B%95%E6%85%8B%E4%BA%92%E5%8B%95%E5%BC%8F%E6%BC%94%E7%A4%BA%E3%80%82)**
@@ -1319,7 +1319,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 - **作者:** [Samro ✨](https://x.com/jacobsamro)
 - **來源:** [Twitter Post](https://x.com/jacobsamro/status/1990844468996813279)
-- **發布時間:** 2025年11月19日
+- **發布時間:** 2025年11月18日
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%E5%BB%BA%E7%AB%8B%20%7Bargument%20name%3D%22project_name_en%22%20default%3D%22React%22%7D%20%E7%9A%84%20GitHub%20%E9%A0%81%E9%9D%A2%E3%80%82)**
@@ -1356,7 +1356,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 - **作者:** [Sabo Sugi ✦](https://x.com/sabosugi)
 - **來源:** [Twitter Post](https://x.com/sabosugi/status/1990840115984294112)
-- **發布時間:** 2025年11月19日
+- **發布時間:** 2025年11月18日
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%E5%9C%A8%20three.js%20%E4%B8%AD%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%80%8B%E5%A0%B4%E6%99%AF%E3%80%82%0A%E9%80%99%E5%B0%87%E6%98%AF%E4%B8%80%E5%80%8B%E5%8D%9A%E7%89%A9%E9%A4%A8%EF%BC%8C%E7%89%86%E4%B8%8A%E6%8E%9B%E8%91%97%E7%95%AB%E4%BD%9C%EF%BC%8C%E6%82%A8%E5%8F%AF%E4%BB%A5%E5%83%8F%E7%8E%A9%E9%81%8A%E6%88%B2%E4%B8%80%E6%A8%A3%E5%9C%A8%E5%8D%9A%E7%89%A9%E9%A4%A8%E5%A4%A7%E5%BB%B3%E4%B8%AD%E8%B5%B0%E5%8B%95%E3%80%82%0A%E5%B0%87%E7%89%86%E5%A3%81%E5%92%8C%E5%9C%B0%E6%9D%BF%E8%A8%AD%E5%AE%9A%E7%82%BA%E7%99%BD%E8%89%B2%E3%80%82%0A%E5%A4%A9%E8%8A%B1%E6%9D%BF%E4%B8%8A%E6%9C%83%E6%9C%89%E7%8E%BB%E7%92%83%EF%BC%8C%E9%80%8F%E9%81%8E%E7%8E%BB%E7%92%83%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E5%A4%A9%E7%A9%BA%E3%80%82%0A%E6%AD%A4%E5%A4%96%EF%BC%8C%E5%9C%A8%E5%A4%A7%E5%BB%B3%E4%B8%AD%E5%A4%AE%E6%94%BE%E7%BD%AE%E7%99%BD%E8%89%B2%E6%96%B9%E5%A1%8A%E3%80%82)**
@@ -1389,7 +1389,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 - **作者:** [Ian Goodfellow](https://x.com/goodfellow_ian)
 - **來源:** [Twitter Post](https://x.com/goodfellow_ian/status/1990839056331337797)
-- **發布時間:** 2025年11月19日
+- **發布時間:** 2025年11月18日
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%E6%88%91%E6%8F%90%E4%BE%9B%E4%BA%86%E4%B8%80%E5%BC%B5%E5%9C%96%E7%89%87%E3%80%82%E8%AB%8B%E4%BB%A5%E9%80%99%E5%BC%B5%E5%9C%96%E7%89%87%E7%82%BA%E9%9D%88%E6%84%9F%EF%BC%8C%E7%B7%A8%E5%AF%AB%E4%B8%80%E5%80%8B%E7%B2%BE%E7%BE%8E%E7%9A%84%E9%AB%94%E7%B4%A0%E8%97%9D%E8%A1%93%E5%A0%B4%E6%99%AF%E3%80%82%E8%AB%8B%E4%BB%A5%E5%96%AE%E9%A0%81%E5%BD%A2%E5%BC%8F%E7%B7%A8%E5%AF%AB%20three.js%20%E7%A8%8B%E5%BC%8F%E7%A2%BC%E3%80%82)**
@@ -1423,7 +1423,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 - **作者:** [Alan Shiflett](https://x.com/AlanShiflett)
 - **來源:** [Twitter Post](https://x.com/AlanShiflett/status/1990834197414785280)
-- **發布時間:** 2025年11月19日
+- **發布時間:** 2025年11月18日
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%80%8B%203D%20%7Bargument%20name%3D%22puzzle_type_en%22%20default%3D%22%E9%AD%94%E8%A1%93%E6%96%B9%E5%A1%8A%22%7D%EF%BC%8C%E5%8C%85%E5%90%AB%E4%B8%80%E5%80%8B%E6%89%93%E4%BA%82%E6%96%B9%E5%A1%8A%E7%9A%84%E6%8C%89%E9%88%95%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%B8%80%E5%80%8B%E8%A7%A3%E9%96%8B%E8%AC%8E%E9%A1%8C%E7%9A%84%E6%8C%89%E9%88%95%E3%80%82%E5%90%8C%E6%99%82%E4%B9%9F%E8%AE%93%E4%BD%BF%E7%94%A8%E8%80%85%E5%8F%AF%E4%BB%A5%E6%89%8B%E5%8B%95%E6%93%8D%E4%BD%9C%E4%B8%A6%E8%87%AA%E8%A1%8C%E8%A7%A3%E9%96%8B%E3%80%82)**
@@ -1457,7 +1457,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 - **作者:** [padphone](https://x.com/lepadphone)
 - **來源:** [Twitter Post](https://x.com/lepadphone/status/1990834118511505486)
-- **發布時間:** 2025年11月19日
+- **發布時間:** 2025年11月18日
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%E8%A8%AD%E8%A8%88%E4%B8%80%E5%80%8B%20%7Bargument%20name%3D%22app_name_en%22%20default%3D%22CapCut%22%7D%E3%80%82)**
@@ -1491,7 +1491,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 - **作者:** [余温](https://x.com/gkxspace)
 - **來源:** [Twitter Post](https://x.com/gkxspace/status/1990822470308221043)
-- **發布時間:** 2025年11月19日
+- **發布時間:** 2025年11月18日
 - **多語言:** zh
 
 **[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%E8%AB%8B%E5%9C%A8%E5%96%AE%E4%B8%80%20HTML%20%E6%AA%94%E6%A1%88%E4%B8%AD%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%80%8B%E5%8A%9F%E8%83%BD%E9%BD%8A%E5%85%A8%E7%9A%84%20%7Bargument%20name%3D%22game_type_en%22%20default%3D%22billiards%20game%22%7D%E3%80%82)**
@@ -1525,7 +1525,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 - **作者:** [余温](https://x.com/gkxspace)
 - **來源:** [Twitter Post](https://x.com/gkxspace/status/1990818141610324361)
-- **發布時間:** 2025年11月19日
+- **發布時間:** 2025年11月18日
 - **多語言:** zh
 
 **[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%E8%AB%8B%E7%82%BA%E3%80%8C%7Bargument%20name%3D%22system_name_en%22%20default%3D%22Quantum%20Core%20Monitoring%20System%22%7D%E3%80%8D%E7%94%9F%E6%88%90%E4%B8%80%E5%80%8B%E5%96%AE%E9%A0%81%20HTML%20(SVG)%E3%80%82)**
@@ -1558,7 +1558,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 - **作者:** [-Zho-](https://x.com/ZHO_ZHO_ZHO)
 - **來源:** [Twitter Post](https://x.com/ZHO_ZHO_ZHO/status/1990812808112419198)
-- **發布時間:** 2025年11月19日
+- **發布時間:** 2025年11月18日
 - **多語言:** zh
 
 **[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%E7%B7%A8%E5%AF%AB%E4%B8%80%E5%80%8B%E5%8B%95%E6%85%8B%E7%B6%B2%E9%A0%81%EF%BC%8C%E4%BD%BF%E7%94%A8%E7%82%AB%E9%85%B7%E7%9A%84%E9%BB%9E%E9%9B%B2%E9%A2%A8%E6%A0%BC%E4%BE%86%E8%A7%A3%E9%87%8B%E7%8B%B9%E7%BE%A9%E7%9B%B8%E5%B0%8D%E8%AB%96%E3%80%82)**
@@ -1710,6 +1710,6 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-11-27T12:21:13.346Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-11-27T12:23:13.990Z</sub>
 
 </div>

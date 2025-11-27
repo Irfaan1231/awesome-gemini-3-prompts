@@ -80,7 +80,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **45** |
 | ⭐ 精选 | **0** |
-| 🔄 最后更新 | **2025年11月27日星期四 UTC 12:21:12** |
+| 🔄 最后更新 | **2025年11月27日星期四 UTC 12:23:13** |
 
 </div>
 
@@ -151,7 +151,7 @@ by {argument name="author" default="Steve Jobs"}
 
 - **作者:** [elvis](https://x.com/omarsar0)
 - **来源:** [Twitter Post](https://x.com/omarsar0/status/1993101718041903565)
-- **发布时间:** 2025年11月25日
+- **发布时间:** 2025年11月24日
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/gemini-3-prompts?prompt=%E6%88%91%E6%83%B3%E4%B8%BA%E4%B8%80%E6%AC%BE%E6%96%B0%E7%9A%84%20%7Bargument%20name%3D%22product_type_en%22%20default%3D%22AI%20%E6%B8%B8%E6%88%8F%22%7D%20%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%E7%9D%80%E9%99%86%E9%A1%B5%E3%80%82%E6%88%91%E4%BB%AC%E5%B8%8C%E6%9C%9B%E5%AE%83%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%85%85%E6%BB%A1%E6%9C%AA%E6%9D%A5%E6%84%9F%EF%BC%8C%E5%B9%B6%E5%B0%BD%E5%8F%AF%E8%83%BD%E5%A4%9A%E5%9C%B0%E4%BD%BF%E7%94%A8%E5%8A%A8%E7%94%BB%E3%80%82)**
@@ -854,7 +854,7 @@ Create a neo-Brutalist website that pushes the boundaries of creativity. Include
 
 - **作者:** [SRKDAN](https://x.com/SRKDAN)
 - **来源:** [Twitter Post](https://x.com/SRKDAN/status/1991210377179234355)
-- **发布时间:** 2025年11月20日
+- **发布时间:** 2025年11月19日
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/gemini-3-prompts?prompt=%E4%BD%BF%E7%94%A8%20GLSL%20%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%85%89%E7%BA%BF%E6%AD%A5%E8%BF%9B%E7%9A%84%20Mandelbulb%20%E5%88%86%E5%BD%A2%EF%BC%8C%E7%94%A8%2012%2C000%20%E4%B8%AA%E5%AE%9E%E4%BE%8B%E5%8C%96%E7%B2%92%E5%AD%90%E5%B0%86%E5%85%B6%E5%8C%85%E5%9B%B4%EF%BC%8C%E4%BD%BF%E5%85%B6%E5%AF%B9%E6%88%91%E7%9A%84%E9%BA%A6%E5%85%8B%E9%A3%8E%E9%9F%B3%E9%A2%91%E5%81%9A%E5%87%BA%E5%8F%8D%E5%BA%94%EF%BC%8C%E5%B9%B6%E6%B7%BB%E5%8A%A0%20Unreal%20Bloom%20%E6%95%88%E6%9E%9C%E3%80%82)**
@@ -888,7 +888,7 @@ Create a neo-Brutalist website that pushes the boundaries of creativity. Include
 
 - **作者:** [arda](https://x.com/ardadoteth)
 - **来源:** [Twitter Post](https://x.com/ardadoteth/status/1991203658269090295)
-- **发布时间:** 2025年11月20日
+- **发布时间:** 2025年11月19日
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/gemini-3-prompts?prompt=%E6%82%A8%E6%98%AF%20%7Bargument%20name%3D%22studio_name_en%22%20default%3D%22makemepulse%22%7D%20%E5%B7%A5%E4%BD%9C%E5%AE%A4%E3%80%82%E8%AF%B7%E4%B8%BA%20%7Bargument%20name%3D%22client_name_en%22%20default%3D%22AP%22%7D%20%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%BD%91%E7%AB%99%E3%80%82%E8%AF%B7%E4%BB%94%E7%BB%86%E6%80%9D%E8%80%83%EF%BC%8C%E4%B8%8D%E8%A6%81%E7%8A%AF%E4%BB%BB%E4%BD%95%E9%94%99%E8%AF%AF%E3%80%82)**
@@ -1159,7 +1159,7 @@ Create an animation demonstrating the capacitive principle of a touch screen.
 
 - **作者:** [木子不写代码](https://x.com/ai_muzi)
 - **来源:** [Twitter Post](https://x.com/ai_muzi/status/1990905917735317857)
-- **发布时间:** 2025年11月19日
+- **发布时间:** 2025年11月18日
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/gemini-3-prompts?prompt=%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%85%B7%E6%9C%89%E7%88%86%E7%82%B8%E6%80%A7%E8%A7%86%E8%A7%89%E6%95%88%E6%9E%9C%E7%9A%84%E8%A7%86%E5%B7%AE%E6%BB%9A%E5%8A%A8%E7%BD%91%E7%AB%99%EF%BC%9A%E6%BB%9A%E5%8A%A8%E6%97%B6%E4%BB%A5%E4%B8%8D%E5%90%8C%E9%80%9F%E5%BA%A6%E7%A7%BB%E5%8A%A8%E7%9A%84%E5%88%86%E5%B1%82%E8%83%8C%E6%99%AF%E3%80%81%E6%B5%81%E7%95%85%E7%9A%84%E8%BF%87%E6%B8%A1%E4%BB%A5%E5%8F%8A%E5%B8%A6%E5%8A%A8%E7%94%BB%E5%BC%B9%E5%87%BA%E7%9A%84%E4%BA%A4%E4%BA%92%E5%BC%8F%E5%85%83%E7%B4%A0%E3%80%82)**
@@ -1217,7 +1217,7 @@ Create an animation demonstrating the capacitive principle of a touch screen.
 
 - **作者:** [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen)
 - **来源:** [Twitter Post](https://x.com/masahirochaen/status/1990905875104739689)
-- **发布时间:** 2025年11月19日
+- **发布时间:** 2025年11月18日
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0A%E6%A0%B9%E6%8D%AE%E7%A8%8D%E5%90%8E%E6%8F%90%E4%BE%9B%E7%9A%84%20%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%EF%BC%8C%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%BE%AA%E4%BB%A5%E4%B8%8B%E8%A7%84%E8%8C%83%EF%BC%8C%E7%94%A8%20React%EF%BC%88%E5%8D%95%E6%96%87%E4%BB%B6%EF%BC%89%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E7%9D%80%E9%99%86%E9%A1%B5%E3%80%82%0A%0A1.%20%E8%AE%BE%E8%AE%A1%E7%90%86%E5%BF%B5%EF%BC%9A%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0A%E9%A3%8E%E6%A0%BC%EF%BC%9A%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-like%20Swiss%20modern%20style%22%7D%EF%BC%8C%E5%8E%BB%E9%99%A4%E8%A3%85%E9%A5%B0%EF%BC%8C%E5%88%A9%E7%94%A8%E7%95%99%E7%99%BD%E5%92%8C%E6%8E%92%E7%89%88%E6%9D%A5%E8%90%A5%E9%80%A0%E5%90%B8%E5%BC%95%E5%8A%9B%E3%80%82)**
@@ -1250,7 +1250,7 @@ Create an animation demonstrating the capacitive principle of a touch screen.
 
 - **作者:** [余温](https://x.com/gkxspace)
 - **来源:** [Twitter Post](https://x.com/gkxspace/status/1990890398005219692)
-- **发布时间:** 2025年11月19日
+- **发布时间:** 2025年11月18日
 - **多语言:** zh
 
 **[👉 立即尝试 →](https://youmind.com/gemini-3-prompts?prompt=%E4%B8%80%E4%B8%AA%E7%8E%BB%E7%92%83%E6%8B%9F%E6%80%81%E9%9C%93%E8%99%B9%E7%95%8C%E9%9D%A2%EF%BC%8C%E5%85%B7%E6%9C%89%E8%B6%85%E7%8E%B0%E4%BB%A3%E7%9A%84%20UI%20%E7%81%AF%E5%85%89%E6%95%88%E6%9E%9C%E5%92%8C%E5%8D%8A%E9%80%8F%E6%98%8E%E7%8E%BB%E7%92%83%E9%9D%A2%E6%9D%BF%E3%80%82)**
@@ -1283,7 +1283,7 @@ Create an animation demonstrating the capacitive principle of a touch screen.
 
 - **作者:** [余温](https://x.com/gkxspace)
 - **来源:** [Twitter Post](https://x.com/gkxspace/status/1990845658706612581)
-- **发布时间:** 2025年11月19日
+- **发布时间:** 2025年11月18日
 - **多语言:** zh
 
 **[👉 立即尝试 →](https://youmind.com/gemini-3-prompts?prompt=%E4%BD%BF%E7%94%A8%20SVG%20%E7%BB%98%E5%88%B6%E4%B8%80%E4%B8%AA%E5%8A%A8%E6%80%81%E3%80%81%E4%BA%A4%E4%BA%92%E5%BC%8F%E7%9A%84%E6%BC%94%E7%A4%BA%EF%BC%8C%E5%B1%95%E7%A4%BA%20Tesla%20FSD%20%E5%A6%82%E4%BD%95%E8%AF%86%E5%88%AB%E9%81%93%E8%B7%AF%E3%80%82)**
@@ -1316,7 +1316,7 @@ Create an animation demonstrating the capacitive principle of a touch screen.
 
 - **作者:** [Samro ✨](https://x.com/jacobsamro)
 - **来源:** [Twitter Post](https://x.com/jacobsamro/status/1990844468996813279)
-- **发布时间:** 2025年11月19日
+- **发布时间:** 2025年11月18日
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/gemini-3-prompts?prompt=%E6%9E%84%E5%BB%BA%20%7Bproject_name_en%2C%20default%3D%22React%22%7D%20%E7%9A%84%20GitHub%20%E9%A1%B5%E9%9D%A2%E3%80%82)**
@@ -1353,7 +1353,7 @@ Create an animation demonstrating the capacitive principle of a touch screen.
 
 - **作者:** [Sabo Sugi ✦](https://x.com/sabosugi)
 - **来源:** [Twitter Post](https://x.com/sabosugi/status/1990840115984294112)
-- **发布时间:** 2025年11月19日
+- **发布时间:** 2025年11月18日
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/gemini-3-prompts?prompt=%E5%9C%A8%20three.js%20%E4%B8%AD%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%9C%BA%E6%99%AF%E3%80%82%0A%E5%AE%83%E5%B0%86%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8D%9A%E7%89%A9%E9%A6%86%EF%BC%8C%E5%A2%99%E4%B8%8A%E6%8C%82%E7%9D%80%E7%94%BB%E4%BD%9C%EF%BC%8C%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%83%8F%E7%8E%A9%E6%B8%B8%E6%88%8F%E4%B8%80%E6%A0%B7%E5%9C%A8%E5%8D%9A%E7%89%A9%E9%A6%86%E5%A4%A7%E5%8E%85%E9%87%8C%E8%B5%B0%E5%8A%A8%E3%80%82%0A%E5%B0%86%E5%A2%99%E5%A3%81%E5%92%8C%E5%9C%B0%E6%9D%BF%E8%AE%BE%E4%B8%BA%E7%99%BD%E8%89%B2%E3%80%82%0A%E5%A4%A9%E8%8A%B1%E6%9D%BF%E4%B8%8A%E4%BC%9A%E6%9C%89%E7%8E%BB%E7%92%83%EF%BC%8C%E9%80%8F%E8%BF%87%E7%8E%BB%E7%92%83%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E5%A4%A9%E7%A9%BA%E3%80%82%0A%E5%9C%A8%E5%A4%A7%E5%8E%85%E4%B8%AD%E5%A4%AE%E6%94%BE%E7%BD%AE%E7%99%BD%E8%89%B2%E6%96%B9%E5%9D%97%E3%80%82)**
@@ -1386,7 +1386,7 @@ Create an animation demonstrating the capacitive principle of a touch screen.
 
 - **作者:** [Ian Goodfellow](https://x.com/goodfellow_ian)
 - **来源:** [Twitter Post](https://x.com/goodfellow_ian/status/1990839056331337797)
-- **发布时间:** 2025年11月19日
+- **发布时间:** 2025年11月18日
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/gemini-3-prompts?prompt=%E6%88%91%E6%8F%90%E4%BE%9B%E4%BA%86%E4%B8%80%E5%BC%A0%E5%9B%BE%E7%89%87%E3%80%82%E8%AF%B7%E6%A0%B9%E6%8D%AE%E8%BF%99%E5%BC%A0%E5%9B%BE%E7%89%87%EF%BC%8C%E7%94%A8%20Three.js%20%E4%BB%A3%E7%A0%81%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%B2%BE%E7%BE%8E%E7%9A%84%E4%BD%93%E7%B4%A0%E8%89%BA%E6%9C%AF%E5%9C%BA%E6%99%AF%EF%BC%8C%E6%89%80%E6%9C%89%E4%BB%A3%E7%A0%81%E9%83%BD%E5%9C%A8%E4%B8%80%E4%B8%AA%E9%A1%B5%E9%9D%A2%E4%B8%AD%E3%80%82)**
@@ -1420,7 +1420,7 @@ Create an animation demonstrating the capacitive principle of a touch screen.
 
 - **作者:** [Alan Shiflett](https://x.com/AlanShiflett)
 - **来源:** [Twitter Post](https://x.com/AlanShiflett/status/1990834197414785280)
-- **发布时间:** 2025年11月19日
+- **发布时间:** 2025年11月18日
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/gemini-3-prompts?prompt=%E6%9E%84%E5%BB%BA%E4%B8%80%E4%B8%AA%203D%20%7Bargument%20name%3D%22puzzle_type_en%22%20default%3D%22%E9%AD%94%E6%96%B9%22%7D%EF%BC%8C%E5%8C%85%E5%90%AB%E4%B8%80%E4%B8%AA%E7%94%A8%E4%BA%8E%E6%89%93%E4%B9%B1%E9%AD%94%E6%96%B9%E7%9A%84%E2%80%9C%E6%B7%B7%E5%90%88%E2%80%9D%E6%8C%89%E9%92%AE%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%B8%80%E4%B8%AA%E7%94%A8%E4%BA%8E%E8%A7%A3%E5%BC%80%E8%B0%9C%E9%A2%98%E7%9A%84%E2%80%9C%E8%A7%A3%E5%86%B3%E2%80%9D%E6%8C%89%E9%92%AE%E3%80%82%E5%90%8C%E6%97%B6%E5%85%81%E8%AE%B8%E7%94%A8%E6%88%B7%E6%89%8B%E5%8A%A8%E6%93%8D%E4%BD%9C%E5%B9%B6%E8%87%AA%E8%A1%8C%E8%A7%A3%E5%BC%80%E8%B0%9C%E9%A2%98%E3%80%82)**
@@ -1454,7 +1454,7 @@ Create an animation demonstrating the capacitive principle of a touch screen.
 
 - **作者:** [padphone](https://x.com/lepadphone)
 - **来源:** [Twitter Post](https://x.com/lepadphone/status/1990834118511505486)
-- **发布时间:** 2025年11月19日
+- **发布时间:** 2025年11月18日
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/gemini-3-prompts?prompt=%E8%AE%BE%E8%AE%A1%E4%B8%80%E4%B8%AA%20%7Bargument%20name%3D%22app_name_en%22%20default%3D%22CapCut%22%7D%E3%80%82)**
@@ -1488,7 +1488,7 @@ Create an animation demonstrating the capacitive principle of a touch screen.
 
 - **作者:** [余温](https://x.com/gkxspace)
 - **来源:** [Twitter Post](https://x.com/gkxspace/status/1990822470308221043)
-- **发布时间:** 2025年11月19日
+- **发布时间:** 2025年11月18日
 - **多语言:** zh
 
 **[👉 立即尝试 →](https://youmind.com/gemini-3-prompts?prompt=%E8%AF%B7%E5%9C%A8%E4%B8%80%E4%B8%AA%20HTML%20%E6%96%87%E4%BB%B6%E4%B8%AD%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%8A%9F%E8%83%BD%E9%BD%90%E5%85%A8%E7%9A%84%20%7Bargument%20name%3D%22game_type_en%22%20default%3D%22%E5%8F%B0%E7%90%83%E6%B8%B8%E6%88%8F%22%7D%E3%80%82)**
@@ -1522,7 +1522,7 @@ Create an animation demonstrating the capacitive principle of a touch screen.
 
 - **作者:** [余温](https://x.com/gkxspace)
 - **来源:** [Twitter Post](https://x.com/gkxspace/status/1990818141610324361)
-- **发布时间:** 2025年11月19日
+- **发布时间:** 2025年11月18日
 - **多语言:** zh
 
 **[👉 立即尝试 →](https://youmind.com/gemini-3-prompts?prompt=%E8%AF%B7%E4%B8%BA%E2%80%9C%7Bargument%20name%3D%22system_name_en%22%20default%3D%22Quantum%20Core%20Monitoring%20System%22%7D%E2%80%9D%E7%94%9F%E6%88%90%E4%B8%80%E4%B8%AA%E5%8D%95%E9%A1%B5%20HTML%20(SVG)%E3%80%82)**
@@ -1555,7 +1555,7 @@ Create an animation demonstrating the capacitive principle of a touch screen.
 
 - **作者:** [-Zho-](https://x.com/ZHO_ZHO_ZHO)
 - **来源:** [Twitter Post](https://x.com/ZHO_ZHO_ZHO/status/1990812808112419198)
-- **发布时间:** 2025年11月19日
+- **发布时间:** 2025年11月18日
 - **多语言:** zh
 
 **[👉 立即尝试 →](https://youmind.com/gemini-3-prompts?prompt=%E7%BC%96%E5%86%99%E4%B8%80%E4%B8%AA%E5%8A%A8%E6%80%81%E7%BD%91%E9%A1%B5%EF%BC%8C%E7%94%A8%E7%82%AB%E9%85%B7%E7%9A%84%E7%82%B9%E4%BA%91%E9%A3%8E%E6%A0%BC%E8%A7%A3%E9%87%8A%E7%8B%AD%E4%B9%89%E7%9B%B8%E5%AF%B9%E8%AE%BA%E3%80%82)**
@@ -1707,6 +1707,6 @@ Create an animation demonstrating the capacitive principle of a touch screen.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2025-11-27T12:21:12.197Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2025-11-27T12:23:13.755Z</sub>
 
 </div>

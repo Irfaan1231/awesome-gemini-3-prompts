@@ -80,7 +80,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **45** |
 | ⭐ Featured | **0** |
-| 🔄 Last Updated | **Thursday, November 27, 2025 at 12:21:11 PM UTC** |
+| 🔄 Last Updated | **Thursday, November 27, 2025 at 12:23:13 PM UTC** |
 
 </div>
 
@@ -151,7 +151,7 @@ I want to design the landing page for a new {argument name="product_type_en" def
 
 - **Author:** [elvis](https://x.com/omarsar0)
 - **Source:** [Twitter Post](https://x.com/omarsar0/status/1993101718041903565)
-- **Published:** November 25, 2025
+- **Published:** November 24, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=I%20want%20to%20design%20the%20landing%20page%20for%20a%20new%20%7Bargument%20name%3D%22product_type_en%22%20default%3D%22AI%20game%22%7D.%20We%20want%20it%20to%20look%20futuristic%20and%20use%20as%20many%20animations%20as%20possible.)**
@@ -857,7 +857,7 @@ Create a raymarching Mandelbulb fractal in GLSL, surround it with {argument name
 
 - **Author:** [SRKDAN](https://x.com/SRKDAN)
 - **Source:** [Twitter Post](https://x.com/SRKDAN/status/1991210377179234355)
-- **Published:** November 20, 2025
+- **Published:** November 19, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Create%20a%20raymarching%20Mandelbulb%20fractal%20in%20GLSL%2C%20surround%20it%20with%20%7Bargument%20name%3D%22particle_count_en%22%20default%3D%2212%2C000%22%7D%20instanced%20particles%2C%20make%20it%20audio-reactive%20to%20my%20microphone%2C%20and%20add%20Unreal%20Bloom.)**
@@ -891,7 +891,7 @@ You are the studio {argument name="studio_name_en" default="makemepulse"}. Build
 
 - **Author:** [arda](https://x.com/ardadoteth)
 - **Source:** [Twitter Post](https://x.com/ardadoteth/status/1991203658269090295)
-- **Published:** November 20, 2025
+- **Published:** November 19, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=You%20are%20the%20studio%20%7Bargument%20name%3D%22studio_name_en%22%20default%3D%22makemepulse%22%7D.%20Build%20me%20a%20website%20for%20%7Bargument%20name%3D%22client_name_en%22%20default%3D%22AP%22%7D.%20Think%20carefully%20and%20make%20no%20mistakes.)**
@@ -1161,7 +1161,7 @@ Create a parallax scrolling website with explosive visual effects: layered backg
 
 - **Author:** [木子不写代码](https://x.com/ai_muzi)
 - **Source:** [Twitter Post](https://x.com/ai_muzi/status/1990905917735317857)
-- **Published:** November 19, 2025
+- **Published:** November 18, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Create%20a%20parallax%20scrolling%20website%20with%20explosive%20visual%20effects%3A%20layered%20backgrounds%20that%20move%20at%20different%20speeds%20when%20scrolling%2C%20smooth%20transitions%2C%20and%20interactive%20elements%20that%20pop%20up%20with%20animations.)**
@@ -1219,7 +1219,7 @@ Style: {argument name="style_en" default="Apple/Linear-like Swiss modern style"}
 
 - **Author:** [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen)
 - **Source:** [Twitter Post](https://x.com/masahirochaen/status/1990905875104739689)
-- **Published:** November 19, 2025
+- **Published:** November 18, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0ABased%20on%20the%20later-provided%20%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%2C%20strictly%20follow%20the%20following%20specifications%20and%20implement%20a%20top-quality%20landing%20page%20in%20React%20(single%20file).%0A%0A1.%20Design%20concept%3A%20%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0AStyle%3A%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-like%20Swiss%20modern%20style%22%7D%2C%20removing%20decoration%20and%20using%20whitespace%20and%20typography%20to%20create%20appeal.)**
@@ -1252,7 +1252,7 @@ A glassmorphism neon interface with ultra-modern UI lighting effects and semi-tr
 
 - **Author:** [余温](https://x.com/gkxspace)
 - **Source:** [Twitter Post](https://x.com/gkxspace/status/1990890398005219692)
-- **Published:** November 19, 2025
+- **Published:** November 18, 2025
 - **Languages:** zh
 
 **[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=A%20glassmorphism%20neon%20interface%20with%20ultra-modern%20UI%20lighting%20effects%20and%20semi-transparent%20glass%20panels.)**
@@ -1285,7 +1285,7 @@ Use SVG to draw a dynamic, interactive demonstration of how Tesla FSD recognizes
 
 - **Author:** [余温](https://x.com/gkxspace)
 - **Source:** [Twitter Post](https://x.com/gkxspace/status/1990845658706612581)
-- **Published:** November 19, 2025
+- **Published:** November 18, 2025
 - **Languages:** zh
 
 **[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Use%20SVG%20to%20draw%20a%20dynamic%2C%20interactive%20demonstration%20of%20how%20Tesla%20FSD%20recognizes%20roads.)**
@@ -1319,7 +1319,7 @@ Build the GitHub page of {argument name="project_name_en" default="React"}.
 
 - **Author:** [Samro ✨](https://x.com/jacobsamro)
 - **Source:** [Twitter Post](https://x.com/jacobsamro/status/1990844468996813279)
-- **Published:** November 19, 2025
+- **Published:** November 18, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Build%20the%20GitHub%20page%20of%20%7Bargument%20name%3D%22project_name_en%22%20default%3D%22React%22%7D.)**
@@ -1356,7 +1356,7 @@ Also place white blocks in the middle of the hall.
 
 - **Author:** [Sabo Sugi ✦](https://x.com/sabosugi)
 - **Source:** [Twitter Post](https://x.com/sabosugi/status/1990840115984294112)
-- **Published:** November 19, 2025
+- **Published:** November 18, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Create%20a%20scene%20in%20three.js.%0AIt%20will%20be%20a%20museum%20with%20paintings%20on%20the%20walls%2C%20and%20you%20can%20walk%20around%20the%20museum%20hall%20like%20in%20a%20game.%0AMake%20the%20walls%20and%20floor%20white.%0AThere%20will%20be%20glass%20on%20the%20ceiling%20with%20the%20sky%20visible%20behind%20it.%0AAlso%20place%20white%20blocks%20in%20the%20middle%20of%20the%20hall.)**
@@ -1389,7 +1389,7 @@ I have provided an image. Code a beautiful voxel art scene inspired by this imag
 
 - **Author:** [Ian Goodfellow](https://x.com/goodfellow_ian)
 - **Source:** [Twitter Post](https://x.com/goodfellow_ian/status/1990839056331337797)
-- **Published:** November 19, 2025
+- **Published:** November 18, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=I%20have%20provided%20an%20image.%20Code%20a%20beautiful%20voxel%20art%20scene%20inspired%20by%20this%20image.%20Write%20threejs%20code%20as%20a%20single-page)**
@@ -1423,7 +1423,7 @@ Build a 3D {argument name="puzzle_type_en" default="Rubik's cube"}, include a bu
 
 - **Author:** [Alan Shiflett](https://x.com/AlanShiflett)
 - **Source:** [Twitter Post](https://x.com/AlanShiflett/status/1990834197414785280)
-- **Published:** November 19, 2025
+- **Published:** November 18, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Build%20a%203D%20%7Bargument%20name%3D%22puzzle_type_en%22%20default%3D%22Rubik's%20cube%22%7D%2C%20include%20a%20button%20to%20mix%20it%20that%20shuffles%20the%20cube%2C%20and%20a%20button%20that%20solves%20the%20puzzle.%20Also%20allow%20the%20user%20to%20manually%20manipulate%20and%20solve%20it%20themselves.)**
@@ -1457,7 +1457,7 @@ Design a {argument name="app_name_en" default="CapCut"}.
 
 - **Author:** [padphone](https://x.com/lepadphone)
 - **Source:** [Twitter Post](https://x.com/lepadphone/status/1990834118511505486)
-- **Published:** November 19, 2025
+- **Published:** November 18, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Design%20a%20%7Bargument%20name%3D%22app_name_en%22%20default%3D%22CapCut%22%7D.)**
@@ -1491,7 +1491,7 @@ Please create a fully functional {argument name="game_type_en" default="billiard
 
 - **Author:** [余温](https://x.com/gkxspace)
 - **Source:** [Twitter Post](https://x.com/gkxspace/status/1990822470308221043)
-- **Published:** November 19, 2025
+- **Published:** November 18, 2025
 - **Languages:** zh
 
 **[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Please%20create%20a%20fully%20functional%20%7Bargument%20name%3D%22game_type_en%22%20default%3D%22billiards%20game%22%7D%20in%20a%20single%20HTML%20file.)**
@@ -1525,7 +1525,7 @@ Please generate a single-page HTML (SVG) for a “{argument name="system_name_en
 
 - **Author:** [余温](https://x.com/gkxspace)
 - **Source:** [Twitter Post](https://x.com/gkxspace/status/1990818141610324361)
-- **Published:** November 19, 2025
+- **Published:** November 18, 2025
 - **Languages:** zh
 
 **[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Please%20generate%20a%20single-page%20HTML%20(SVG)%20for%20a%20%E2%80%9C%7Bargument%20name%3D%22system_name_en%22%20default%3D%22Quantum%20Core%20Monitoring%20System%22%7D%E2%80%9D.)**
@@ -1558,7 +1558,7 @@ Write a dynamic webpage that uses a cool point-cloud style to explain special re
 
 - **Author:** [-Zho-](https://x.com/ZHO_ZHO_ZHO)
 - **Source:** [Twitter Post](https://x.com/ZHO_ZHO_ZHO/status/1990812808112419198)
-- **Published:** November 19, 2025
+- **Published:** November 18, 2025
 - **Languages:** zh
 
 **[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Write%20a%20dynamic%20webpage%20that%20uses%20a%20cool%20point-cloud%20style%20to%20explain%20special%20relativity.)**
@@ -1710,6 +1710,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T12:21:11.666Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T12:23:13.474Z</sub>
 
 </div>

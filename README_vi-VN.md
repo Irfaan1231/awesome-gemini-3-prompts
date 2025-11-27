@@ -80,7 +80,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **45** |
 | ⭐ Nổi bật | **0** |
-| 🔄 Cập nhật lần cuối | **lúc 12:21:15 UTC Thứ Năm, 27 tháng 11, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 12:23:15 UTC Thứ Năm, 27 tháng 11, 2025** |
 
 </div>
 
@@ -151,7 +151,7 @@ Tôi muốn thiết kế trang đích (landing page) cho một {argument name="p
 
 - **Tác giả:** [elvis](https://x.com/omarsar0)
 - **Nguồn:** [Twitter Post](https://x.com/omarsar0/status/1993101718041903565)
-- **Đã xuất bản:** 25 tháng 11, 2025
+- **Đã xuất bản:** 24 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=T%C3%B4i%20mu%E1%BB%91n%20thi%E1%BA%BFt%20k%E1%BA%BF%20trang%20%C4%91%C3%ADch%20(landing%20page)%20cho%20m%E1%BB%99t%20%7Bargument%20name%3D%22product_type_en%22%20default%3D%22tr%C3%B2%20ch%C6%A1i%20AI%22%7D%20m%E1%BB%9Bi.%20Ch%C3%BAng%20t%C3%B4i%20mu%E1%BB%91n%20n%C3%B3%20tr%C3%B4ng%20th%E1%BA%ADt%20t%C6%B0%C6%A1ng%20lai%20v%C3%A0%20s%E1%BB%AD%20d%E1%BB%A5ng%20c%C3%A0ng%20nhi%E1%BB%81u%20ho%E1%BA%A1t%20%E1%BA%A3nh%20c%C3%A0ng%20t%E1%BB%91t.)**
@@ -856,7 +856,7 @@ Tạo một fractal Mandelbulb raymarching trong GLSL, bao quanh nó bằng {arg
 
 - **Tác giả:** [SRKDAN](https://x.com/SRKDAN)
 - **Nguồn:** [Twitter Post](https://x.com/SRKDAN/status/1991210377179234355)
-- **Đã xuất bản:** 20 tháng 11, 2025
+- **Đã xuất bản:** 19 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20fractal%20Mandelbulb%20raymarching%20trong%20GLSL%2C%20bao%20quanh%20n%C3%B3%20b%E1%BA%B1ng%20%7Bargument%20name%3D%22particle_count_en%22%20default%3D%2212%2C000%22%7D%20h%E1%BA%A1t%20instanced%2C%20l%C3%A0m%20cho%20n%C3%B3%20ph%E1%BA%A3n%20%E1%BB%A9ng%20v%E1%BB%9Bi%20%C3%A2m%20thanh%20t%E1%BB%AB%20micr%C3%B4%20c%E1%BB%A7a%20t%C3%B4i%20v%C3%A0%20th%C3%AAm%20Unreal%20Bloom.)**
@@ -890,7 +890,7 @@ Bạn là studio {argument name="studio_name_en" default="makemepulse"}. Hãy x�
 
 - **Tác giả:** [arda](https://x.com/ardadoteth)
 - **Nguồn:** [Twitter Post](https://x.com/ardadoteth/status/1991203658269090295)
-- **Đã xuất bản:** 20 tháng 11, 2025
+- **Đã xuất bản:** 19 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=B%E1%BA%A1n%20l%C3%A0%20studio%20%7Bargument%20name%3D%22studio_name_en%22%20default%3D%22makemepulse%22%7D.%20H%C3%A3y%20x%C3%A2y%20d%E1%BB%B1ng%20cho%20t%C3%B4i%20m%E1%BB%99t%20trang%20web%20cho%20%7Bargument%20name%3D%22client_name_en%22%20default%3D%22AP%22%7D.%20H%C3%A3y%20suy%20ngh%C4%A9%20c%E1%BA%A9n%20th%E1%BA%ADn%20v%C3%A0%20kh%C3%B4ng%20m%E1%BA%AFc%20l%E1%BB%97i.)**
@@ -1160,7 +1160,7 @@ Tạo một trang web cuộn thị sai (parallax scrolling) với hiệu ứng h
 
 - **Tác giả:** [木子不写代码](https://x.com/ai_muzi)
 - **Nguồn:** [Twitter Post](https://x.com/ai_muzi/status/1990905917735317857)
-- **Đã xuất bản:** 19 tháng 11, 2025
+- **Đã xuất bản:** 18 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20trang%20web%20cu%E1%BB%99n%20th%E1%BB%8B%20sai%20(parallax%20scrolling)%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20h%C3%ACnh%20%E1%BA%A3nh%20b%C3%B9ng%20n%E1%BB%95%3A%20c%C3%A1c%20l%E1%BB%9Bp%20n%E1%BB%81n%20di%20chuy%E1%BB%83n%20v%E1%BB%9Bi%20t%E1%BB%91c%20%C4%91%E1%BB%99%20kh%C3%A1c%20nhau%20khi%20cu%E1%BB%99n%2C%20chuy%E1%BB%83n%20%C4%91%E1%BB%95i%20m%C6%B0%E1%BB%A3t%20m%C3%A0%20v%C3%A0%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20t%C6%B0%C6%A1ng%20t%C3%A1c%20b%E1%BA%ADt%20l%C3%AAn%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20%C4%91%E1%BB%99ng.)**
@@ -1218,7 +1218,7 @@ Phong cách: {argument name="style_en" default="Apple/Linear-like Swiss modern s
 
 - **Tác giả:** [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen)
 - **Nguồn:** [Twitter Post](https://x.com/masahirochaen/status/1990905875104739689)
-- **Đã xuất bản:** 19 tháng 11, 2025
+- **Đã xuất bản:** 18 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0AD%E1%BB%B1a%20tr%C3%AAn%20%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%20%C4%91%C6%B0%E1%BB%A3c%20cung%20c%E1%BA%A5p%20sau%2C%20h%C3%A3y%20tu%C3%A2n%20th%E1%BB%A7%20nghi%C3%AAm%20ng%E1%BA%B7t%20c%C3%A1c%20th%C3%B4ng%20s%E1%BB%91%20k%E1%BB%B9%20thu%E1%BA%ADt%20sau%20v%C3%A0%20tri%E1%BB%83n%20khai%20m%E1%BB%99t%20trang%20%C4%91%C3%ADch%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20h%C3%A0ng%20%C4%91%E1%BA%A7u%20b%E1%BA%B1ng%20React%20(m%E1%BB%99t%20t%E1%BB%87p).%0A%0A1.%20Kh%C3%A1i%20ni%E1%BB%87m%20thi%E1%BA%BFt%20k%E1%BA%BF%3A%20%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0APhong%20c%C3%A1ch%3A%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-like%20Swiss%20modern%20style%22%7D%2C%20lo%E1%BA%A1i%20b%E1%BB%8F%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20trang%20tr%C3%AD%20v%C3%A0%20s%E1%BB%AD%20d%E1%BB%A5ng%20kho%E1%BA%A3ng%20tr%E1%BA%AFng%20c%C3%B9ng%20ki%E1%BB%83u%20ch%E1%BB%AF%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20s%E1%BB%B1%20h%E1%BA%A5p%20d%E1%BA%ABn.)**
@@ -1251,7 +1251,7 @@ Giao diện neon glassmorphism với hiệu ứng ánh sáng UI siêu hiện đ�
 
 - **Tác giả:** [余温](https://x.com/gkxspace)
 - **Nguồn:** [Twitter Post](https://x.com/gkxspace/status/1990890398005219692)
-- **Đã xuất bản:** 19 tháng 11, 2025
+- **Đã xuất bản:** 18 tháng 11, 2025
 - **Ngôn ngữ:** zh
 
 **[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=Giao%20di%E1%BB%87n%20neon%20glassmorphism%20v%E1%BB%9Bi%20hi%E1%BB%87u%20%E1%BB%A9ng%20%C3%A1nh%20s%C3%A1ng%20UI%20si%C3%AAu%20hi%E1%BB%87n%20%C4%91%E1%BA%A1i%20v%C3%A0%20c%C3%A1c%20t%E1%BA%A5m%20k%C3%ADnh%20b%C3%A1n%20trong%20su%E1%BB%91t.)**
@@ -1284,7 +1284,7 @@ Sử dụng SVG để vẽ một bản demo động, tương tác về cách Tes
 
 - **Tác giả:** [余温](https://x.com/gkxspace)
 - **Nguồn:** [Twitter Post](https://x.com/gkxspace/status/1990845658706612581)
-- **Đã xuất bản:** 19 tháng 11, 2025
+- **Đã xuất bản:** 18 tháng 11, 2025
 - **Ngôn ngữ:** zh
 
 **[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=S%E1%BB%AD%20d%E1%BB%A5ng%20SVG%20%C4%91%E1%BB%83%20v%E1%BA%BD%20m%E1%BB%99t%20b%E1%BA%A3n%20demo%20%C4%91%E1%BB%99ng%2C%20t%C6%B0%C6%A1ng%20t%C3%A1c%20v%E1%BB%81%20c%C3%A1ch%20Tesla%20FSD%20nh%E1%BA%ADn%20di%E1%BB%87n%20%C4%91%C6%B0%E1%BB%9Dng.)**
@@ -1318,7 +1318,7 @@ Xây dựng trang GitHub của {argument name="project_name_en" default="React"}
 
 - **Tác giả:** [Samro ✨](https://x.com/jacobsamro)
 - **Nguồn:** [Twitter Post](https://x.com/jacobsamro/status/1990844468996813279)
-- **Đã xuất bản:** 19 tháng 11, 2025
+- **Đã xuất bản:** 18 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=X%C3%A2y%20d%E1%BB%B1ng%20trang%20GitHub%20c%E1%BB%A7a%20%7Bargument%20name%3D%22project_name_en%22%20default%3D%22React%22%7D.)**
@@ -1355,7 +1355,7 @@ Cũng đặt các khối màu trắng ở giữa sảnh.
 
 - **Tác giả:** [Sabo Sugi ✦](https://x.com/sabosugi)
 - **Nguồn:** [Twitter Post](https://x.com/sabosugi/status/1990840115984294112)
-- **Đã xuất bản:** 19 tháng 11, 2025
+- **Đã xuất bản:** 18 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20khung%20c%E1%BA%A3nh%20trong%20three.js.%0A%C4%90%C3%B3%20s%E1%BA%BD%20l%C3%A0%20m%E1%BB%99t%20b%E1%BA%A3o%20t%C3%A0ng%20v%E1%BB%9Bi%20nh%E1%BB%AFng%20b%E1%BB%A9c%20tranh%20tr%C3%AAn%20t%C6%B0%E1%BB%9Dng%2C%20v%C3%A0%20b%E1%BA%A1n%20c%C3%B3%20th%E1%BB%83%20%C4%91i%20b%E1%BB%99%20quanh%20s%E1%BA%A3nh%20b%E1%BA%A3o%20t%C3%A0ng%20nh%C6%B0%20trong%20m%E1%BB%99t%20tr%C3%B2%20ch%C6%A1i.%0AL%C3%A0m%20cho%20t%C6%B0%E1%BB%9Dng%20v%C3%A0%20s%C3%A0n%20nh%C3%A0%20m%C3%A0u%20tr%E1%BA%AFng.%0AS%E1%BA%BD%20c%C3%B3%20k%C3%ADnh%20tr%C3%AAn%20tr%E1%BA%A7n%20nh%C3%A0%20v%E1%BB%9Bi%20b%E1%BA%A7u%20tr%E1%BB%9Di%20hi%E1%BB%87n%20r%C3%B5%20ph%C3%ADa%20sau.%0AC%C5%A9ng%20%C4%91%E1%BA%B7t%20c%C3%A1c%20kh%E1%BB%91i%20m%C3%A0u%20tr%E1%BA%AFng%20%E1%BB%9F%20gi%E1%BB%AFa%20s%E1%BA%A3nh.)**
@@ -1388,7 +1388,7 @@ Tôi đã cung cấp một hình ảnh. Hãy viết mã để tạo một cảnh
 
 - **Tác giả:** [Ian Goodfellow](https://x.com/goodfellow_ian)
 - **Nguồn:** [Twitter Post](https://x.com/goodfellow_ian/status/1990839056331337797)
-- **Đã xuất bản:** 19 tháng 11, 2025
+- **Đã xuất bản:** 18 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=T%C3%B4i%20%C4%91%C3%A3%20cung%20c%E1%BA%A5p%20m%E1%BB%99t%20h%C3%ACnh%20%E1%BA%A3nh.%20H%C3%A3y%20vi%E1%BA%BFt%20m%C3%A3%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20m%E1%BB%99t%20c%E1%BA%A3nh%20voxel%20art%20%C4%91%E1%BA%B9p%20m%E1%BA%AFt%20l%E1%BA%A5y%20c%E1%BA%A3m%20h%E1%BB%A9ng%20t%E1%BB%AB%20h%C3%ACnh%20%E1%BA%A3nh%20n%C3%A0y.%20Vi%E1%BA%BFt%20m%C3%A3%20three.js%20d%C6%B0%E1%BB%9Bi%20d%E1%BA%A1ng%20m%E1%BB%99t%20trang%20duy%20nh%E1%BA%A5t.)**
@@ -1422,7 +1422,7 @@ Tạo một khối {argument name="puzzle_type_en" default="Rubik"} 3D, bao gồ
 
 - **Tác giả:** [Alan Shiflett](https://x.com/AlanShiflett)
 - **Nguồn:** [Twitter Post](https://x.com/AlanShiflett/status/1990834197414785280)
-- **Đã xuất bản:** 19 tháng 11, 2025
+- **Đã xuất bản:** 18 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20kh%E1%BB%91i%20%7Bargument%20name%3D%22puzzle_type_en%22%20default%3D%22Rubik%22%7D%203D%2C%20bao%20g%E1%BB%93m%20m%E1%BB%99t%20n%C3%BAt%20%C4%91%E1%BB%83%20x%C3%A1o%20tr%E1%BB%99n%20kh%E1%BB%91i%20v%C3%A0%20m%E1%BB%99t%20n%C3%BAt%20%C4%91%E1%BB%83%20gi%E1%BA%A3i%20kh%E1%BB%91i.%20%C4%90%E1%BB%93ng%20th%E1%BB%9Di%20cho%20ph%C3%A9p%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng%20t%E1%BB%B1%20thao%20t%C3%A1c%20v%C3%A0%20gi%E1%BA%A3i%20kh%E1%BB%91i.)**
@@ -1456,7 +1456,7 @@ Thiết kế một {argument name="app_name_en" default="CapCut"}.
 
 - **Tác giả:** [padphone](https://x.com/lepadphone)
 - **Nguồn:** [Twitter Post](https://x.com/lepadphone/status/1990834118511505486)
-- **Đã xuất bản:** 19 tháng 11, 2025
+- **Đã xuất bản:** 18 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=Thi%E1%BA%BFt%20k%E1%BA%BF%20m%E1%BB%99t%20%7Bargument%20name%3D%22app_name_en%22%20default%3D%22CapCut%22%7D.)**
@@ -1490,7 +1490,7 @@ Hãy tạo một {argument name="game_type_en" default="trò chơi bi-a"} đầy
 
 - **Tác giả:** [余温](https://x.com/gkxspace)
 - **Nguồn:** [Twitter Post](https://x.com/gkxspace/status/1990822470308221043)
-- **Đã xuất bản:** 19 tháng 11, 2025
+- **Đã xuất bản:** 18 tháng 11, 2025
 - **Ngôn ngữ:** zh
 
 **[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=H%C3%A3y%20t%E1%BA%A1o%20m%E1%BB%99t%20%7Bargument%20name%3D%22game_type_en%22%20default%3D%22tr%C3%B2%20ch%C6%A1i%20bi-a%22%7D%20%C4%91%E1%BA%A7y%20%C4%91%E1%BB%A7%20ch%E1%BB%A9c%20n%C4%83ng%20trong%20m%E1%BB%99t%20t%E1%BB%87p%20HTML%20duy%20nh%E1%BA%A5t.)**
@@ -1524,7 +1524,7 @@ Vui lòng tạo một trang HTML (SVG) duy nhất cho “{argument name="system_
 
 - **Tác giả:** [余温](https://x.com/gkxspace)
 - **Nguồn:** [Twitter Post](https://x.com/gkxspace/status/1990818141610324361)
-- **Đã xuất bản:** 19 tháng 11, 2025
+- **Đã xuất bản:** 18 tháng 11, 2025
 - **Ngôn ngữ:** zh
 
 **[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=Vui%20l%C3%B2ng%20t%E1%BA%A1o%20m%E1%BB%99t%20trang%20HTML%20(SVG)%20duy%20nh%E1%BA%A5t%20cho%20%E2%80%9C%7Bargument%20name%3D%22system_name_en%22%20default%3D%22Quantum%20Core%20Monitoring%20System%22%7D%E2%80%9D.)**
@@ -1557,7 +1557,7 @@ Viết một trang web động sử dụng phong cách đám mây điểm (point
 
 - **Tác giả:** [-Zho-](https://x.com/ZHO_ZHO_ZHO)
 - **Nguồn:** [Twitter Post](https://x.com/ZHO_ZHO_ZHO/status/1990812808112419198)
-- **Đã xuất bản:** 19 tháng 11, 2025
+- **Đã xuất bản:** 18 tháng 11, 2025
 - **Ngôn ngữ:** zh
 
 **[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=Vi%E1%BA%BFt%20m%E1%BB%99t%20trang%20web%20%C4%91%E1%BB%99ng%20s%E1%BB%AD%20d%E1%BB%A5ng%20phong%20c%C3%A1ch%20%C4%91%C3%A1m%20m%C3%A2y%20%C4%91i%E1%BB%83m%20(point-cloud)%20%E1%BA%A5n%20t%C6%B0%E1%BB%A3ng%20%C4%91%E1%BB%83%20gi%E1%BA%A3i%20th%C3%ADch%20thuy%E1%BA%BFt%20t%C6%B0%C6%A1ng%20%C4%91%E1%BB%91i%20h%E1%BA%B9p.)**
@@ -1709,6 +1709,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-11-27T12:21:15.896Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-11-27T12:23:15.034Z</sub>
 
 </div>
