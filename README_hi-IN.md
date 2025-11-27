@@ -1,0 +1,298 @@
+# 🚀 शानदार Gemini 3 प्रॉम्पट्स
+
+> 💡 **Note**: This repository was migrated from [awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts). If you're looking for Gemini 3 prompts, please visit the original repository.
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+[![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Update README](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/actions/workflows/update-readme.yml/badge.svg)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/actions)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
+
+> 🎨 Google Gemini 3 के लिए मल्टीमॉडल AI प्रॉम्पट्स का संग्रह
+
+> ⚠️ **कॉपीराइट सूचना**: सभी प्रॉम्पट्स शैक्षिक उद्देश्यों के लिए समुदाय से एकत्र किए गए हैं। यदि आपको लगता है कि कोई सामग्री आपके अधिकारों का उल्लंघन करती है, तो कृपया [एक समस्या खोलें](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=bug-report.yml) और हम इसे तुरंत हटा देंगे।
+
+---
+
+[![English](https://img.shields.io/badge/English-Click%20to%20View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Click%20to%20View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-Click%20to%20View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-Click%20to%20View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-Click%20to%20View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-Click%20to%20View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-Click%20to%20View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-Current-brightgreen)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-Click%20to%20View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-Click%20to%20View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-Click%20to%20View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-Click%20to%20View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-Click%20to%20View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-Click%20to%20View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-Click%20to%20View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-Click%20to%20View-lightgrey)](README_tr-TR.md)
+
+---
+
+## 🌐 वेब गैलरी में देखें
+
+**[👉 YouMind Gemini 3 गैलरी ब्राउज़ करें](https://youmind.com/gemini-3-prompts)**
+
+हमारी गैलरी का उपयोग क्यों करें?
+
+| Feature | GitHub README | youmind.com Gallery |
+|---------|--------------|---------------------|
+| 🎨 दृश्य लेआउट | Linear list | Beautiful Masonry Grid |
+| 🔍 खोजें | Ctrl+F only | Full-text search with filters |
+| 🤖 AI One-Click Generation | - | AI one-click generation |
+| 📱 मोबाइल | Basic | Fully responsive |
+
+---
+
+## 📖 विषय सूची
+
+- [🌐 वेब गैलरी में देखें](#-view-in-web-gallery)
+- [🤔 Gemini 3 क्या है?](#-what-is-gemini-3)
+- [📊 आंकड़े](#-statistics)
+- [🔥 विशेष प्रॉम्पट्स](#-featured-prompts)
+- [📋 सभी प्रॉम्पट्स](#-all-prompts)
+- [🤝 योगदान कैसे करें](#-how-to-contribute)
+- [📄 लाइसेंस](#-license)
+- [🙏 आभार](#-acknowledgements)
+- [⭐ स्टार इतिहास](#-star-history)
+
+---
+
+## 🤔 Gemini 3 क्या है?
+
+**Gemini 3** is Google's latest multimodal AI model featuring:
+
+- 🎯 **Massive Context Window** - Up to 1 million tokens for comprehensive understanding
+- 🎨 **Multimodal Intelligence** - Understand and generate text, images, audio, video, and code
+- ⚡ **Action-Oriented AI** - Automate execution and generate websites with real-time preview
+- 🌈 **Powerful Reasoning** - Advanced problem-solving and complex task handling
+
+📚 **Learn More:** [Gemini 3: 10 Real Cases](https://youmind.com/blog/gemini-3-10-real-cases)
+
+### 🚀 Raycast Integration
+
+Some prompts support **dynamic arguments** using [Raycast Snippets](https://raycast.com/help/snippets) syntax. Look for the 🚀 Raycast Friendly badge!
+
+**Example:**
+```
+A quote card with "{argument name="quote" default="Stay hungry, stay foolish"}"
+by {argument name="author" default="Steve Jobs"}
+```
+
+When used in Raycast, you can dynamically replace the arguments for quick iterations!
+
+---
+
+## 📊 आंकड़े
+
+<div align="center">
+
+| मीट्रिक | गिनती |
+|--------|-------|
+| 📝 कुल प्रॉम्पट्स | **4** |
+| ⭐ विशेष | **0** |
+| 🔄 अंतिम अपडेट | **गुरुवार, 27 नवंबर 2025 को 11:46:37 am UTC बजे** |
+
+</div>
+
+---
+
+## 📋 सभी प्रॉम्पट्स
+
+> 📝 Sorted by publish date (newest first)
+
+### No. 1: डाउनलोड बटन के साथ 40 सरल SVG आइकन जनरेट करें
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+एक जापानी प्रॉम्प्ट जिसमें जेमिनी से हल्के नीले रंग की लाइन स्टाइल में 40 सरल, बहुमुखी SVG आइकन बनाने और प्रत्येक आइकन के लिए डाउनलोड बटन देने का अनुरोध किया गया है।
+
+#### 📝 प्रॉम्पट
+
+```
+SVG फॉर्मेट में {argument name="icon_count_en" default="40"} सरल और अत्यधिक बहुमुखी आइकन जनरेट करें। उन्हें कैनवास पर बनाना सुनिश्चित करें। रंग {argument name="icon_color_en" default="light blue"} होना चाहिए। बैकग्राउंड {argument name="background_color_en" default="white"} होना चाहिए। मटेरियल डिज़ाइन के अनुभव वाले लाइन-स्टाइल आइकन का उपयोग करें। एक बटन जोड़ें जो उपयोगकर्ताओं को प्रत्येक SVG आइकन को SVG डेटा के रूप में डाउनलोड करने की सुविधा देता है।
+```
+
+#### 🖼️ उदाहरण चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/G6MWd-wbsAAKYiw.jpg" width="600" alt="डाउनलोड बटन के साथ 40 सरल SVG आइकन जनरेट करें - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [KAWAI](https://x.com/kawai_design)
+- **स्रोत:** [Twitter Post](https://x.com/kawai_design/status/1991461556597715056)
+- **प्रकाशित:** 20 नवंबर 2025
+- **भाषाएं:** ja
+
+**[👉 अभी आज़माएं →](https://youmind.com/gemini-3-prompts?prompt=SVG%20%E0%A4%AB%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%AE%E0%A5%87%E0%A4%9F%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%7Bargument%20name%3D%22icon_count_en%22%20default%3D%2240%22%7D%20%E0%A4%B8%E0%A4%B0%E0%A4%B2%20%E0%A4%94%E0%A4%B0%20%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%A7%E0%A4%BF%E0%A4%95%20%E0%A4%AC%E0%A4%B9%E0%A5%81%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A5%80%20%E0%A4%86%E0%A4%87%E0%A4%95%E0%A4%A8%20%E0%A4%9C%E0%A4%A8%E0%A4%B0%E0%A5%87%E0%A4%9F%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A5%A4%20%E0%A4%89%E0%A4%A8%E0%A5%8D%E0%A4%B9%E0%A5%87%E0%A4%82%20%E0%A4%95%E0%A5%88%E0%A4%A8%E0%A4%B5%E0%A4%BE%E0%A4%B8%20%E0%A4%AA%E0%A4%B0%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%A8%E0%A4%BE%20%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%9A%E0%A4%BF%E0%A4%A4%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A5%A4%20%E0%A4%B0%E0%A4%82%E0%A4%97%20%7Bargument%20name%3D%22icon_color_en%22%20default%3D%22light%20blue%22%7D%20%E0%A4%B9%E0%A5%8B%E0%A4%A8%E0%A4%BE%20%E0%A4%9A%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%8F%E0%A5%A4%20%E0%A4%AC%E0%A5%88%E0%A4%95%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%89%E0%A4%82%E0%A4%A1%20%7Bargument%20name%3D%22background_color_en%22%20default%3D%22white%22%7D%20%E0%A4%B9%E0%A5%8B%E0%A4%A8%E0%A4%BE%20%E0%A4%9A%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%8F%E0%A5%A4%20%E0%A4%AE%E0%A4%9F%E0%A5%87%E0%A4%B0%E0%A4%BF%E0%A4%AF%E0%A4%B2%20%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%A8%20%E0%A4%95%E0%A5%87%20%E0%A4%85%E0%A4%A8%E0%A5%81%E0%A4%AD%E0%A4%B5%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A5%87%20%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%A8-%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%B2%20%E0%A4%86%E0%A4%87%E0%A4%95%E0%A4%A8%20%E0%A4%95%E0%A4%BE%20%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20%E0%A4%AC%E0%A4%9F%E0%A4%A8%20%E0%A4%9C%E0%A5%8B%E0%A4%A1%E0%A4%BC%E0%A5%87%E0%A4%82%20%E0%A4%9C%E0%A5%8B%20%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82%20%E0%A4%95%E0%A5%8B%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A5%87%E0%A4%95%20SVG%20%E0%A4%86%E0%A4%87%E0%A4%95%E0%A4%A8%20%E0%A4%95%E0%A5%8B%20SVG%20%E0%A4%A1%E0%A5%87%E0%A4%9F%E0%A4%BE%20%E0%A4%95%E0%A5%87%20%E0%A4%B0%E0%A5%82%E0%A4%AA%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%A1%E0%A4%BE%E0%A4%89%E0%A4%A8%E0%A4%B2%E0%A5%8B%E0%A4%A1%20%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%80%20%E0%A4%B8%E0%A5%81%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BE%20%E0%A4%A6%E0%A5%87%E0%A4%A4%E0%A4%BE%20%E0%A4%B9%E0%A5%88%E0%A5%A4)**
+
+---
+
+### No. 2: रिएक्ट में हाई-एंड स्विस-स्टाइल लैंडिंग पेज जनरेटर
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+एक इंग्लिश प्रॉम्प्ट स्निपेट जो जेमिनी को एक हाई-एंड स्विस मॉडर्न स्टाइल लैंडिंग पेज को सिंगल-फाइल रिएक्ट कंपोनेंट के रूप में लागू करने का निर्देश देता है, जिसमें सख्त स्पेसिफिकेशन्स का पालन किया गया है और स्विस मॉडर्न और बेंटो लेआउट कॉन्सेप्ट्स का उपयोग किया गया है।
+
+#### 📝 प्रॉम्पट
+
+```
+{argument name="generator_name_en" default="High-End LP Generator (Swiss Style)"}
+
+बाद में दिए गए {argument name="input_text_en" default="Input Text"} के आधार पर, निम्नलिखित विशिष्टताओं का कड़ाई से पालन करें और React (एकल फ़ाइल) में एक उच्च-गुणवत्ता वाला लैंडिंग पेज लागू करें।
+
+1. डिज़ाइन कॉन्सेप्ट: {argument name="design_concept_en" default="Swiss Modern & Bento"}
+
+शैली: {argument name="style_en" default="Apple/Linear-like Swiss modern style"}, सजावट हटाकर और आकर्षण पैदा करने के लिए खाली जगह और टाइपोग्राफी का उपयोग करके।
+```
+
+#### 🖼️ उदाहरण चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/G6EeVp4bMAE1rkh.jpg" width="600" alt="रिएक्ट में हाई-एंड स्विस-स्टाइल लैंडिंग पेज जनरेटर - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/G6EeVogaQAA3ryy.jpg" width="600" alt="रिएक्ट में हाई-एंड स्विस-स्टाइल लैंडिंग पेज जनरेटर - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/G6EeVp2bMAIw9A4.jpg" width="600" alt="रिएक्ट में हाई-एंड स्विस-स्टाइल लैंडिंग पेज जनरेटर - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/G6EeVp7bkAA4BZ9.jpg" width="600" alt="रिएक्ट में हाई-एंड स्विस-स्टाइल लैंडिंग पेज जनरेटर - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen)
+- **स्रोत:** [Twitter Post](https://x.com/masahirochaen/status/1990905875104739689)
+- **प्रकाशित:** 19 नवंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0A%E0%A4%AC%E0%A4%BE%E0%A4%A6%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%A6%E0%A4%BF%E0%A4%8F%20%E0%A4%97%E0%A4%8F%20%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%20%E0%A4%95%E0%A5%87%20%E0%A4%86%E0%A4%A7%E0%A4%BE%E0%A4%B0%20%E0%A4%AA%E0%A4%B0%2C%20%E0%A4%A8%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%A8%E0%A4%B2%E0%A4%BF%E0%A4%96%E0%A4%BF%E0%A4%A4%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82%20%E0%A4%95%E0%A4%BE%20%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A4%BE%E0%A4%88%20%E0%A4%B8%E0%A5%87%20%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%A8%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%20%E0%A4%94%E0%A4%B0%20React%20(%E0%A4%8F%E0%A4%95%E0%A4%B2%20%E0%A4%AB%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%B2)%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%89%E0%A4%9A%E0%A5%8D%E0%A4%9A-%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE%20%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%82%E0%A4%97%20%E0%A4%AA%E0%A5%87%E0%A4%9C%20%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A5%82%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A5%A4%0A%0A1.%20%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%A8%20%E0%A4%95%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%B8%E0%A5%87%E0%A4%AA%E0%A5%8D%E0%A4%9F%3A%20%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0A%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%3A%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-like%20Swiss%20modern%20style%22%7D%2C%20%E0%A4%B8%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%9F%20%E0%A4%B9%E0%A4%9F%E0%A4%BE%E0%A4%95%E0%A4%B0%20%E0%A4%94%E0%A4%B0%20%E0%A4%86%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%A3%20%E0%A4%AA%E0%A5%88%E0%A4%A6%E0%A4%BE%20%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A4%BF%E0%A4%8F%20%E0%A4%96%E0%A4%BE%E0%A4%B2%E0%A5%80%20%E0%A4%9C%E0%A4%97%E0%A4%B9%20%E0%A4%94%E0%A4%B0%20%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%AA%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AB%E0%A5%80%20%E0%A4%95%E0%A4%BE%20%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97%20%E0%A4%95%E0%A4%B0%E0%A4%95%E0%A5%87%E0%A5%A4)**
+
+---
+
+### No. 3: Xbox कंट्रोलर की सिंगल-फाइल SVG
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+एक प्रॉम्प्ट जिसमें Gemini 3.0 Pro से Xbox कंट्रोलर का SVG प्रतिनिधित्व बनाने के लिए कहा गया है, जो वेब पेजों या UI घटकों में एम्बेड करने के लिए उपयुक्त है।
+
+#### 📝 प्रॉम्पट
+
+```
+एक {argument name="controller_type_en" default="Xbox controller"} का SVG बनाएं।
+```
+
+#### 🖼️ उदाहरण चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/G6CeUfEX0AApWPC.jpg" width="600" alt="Xbox कंट्रोलर की सिंगल-फाइल SVG - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Singularity](https://x.com/SingulCore)
+- **स्रोत:** [Twitter Post](https://x.com/SingulCore/status/1990765115785031961)
+- **प्रकाशित:** 18 नवंबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/gemini-3-prompts?prompt=%E0%A4%8F%E0%A4%95%20%7Bargument%20name%3D%22controller_type_en%22%20default%3D%22Xbox%20controller%22%7D%20%E0%A4%95%E0%A4%BE%20SVG%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82%E0%A5%A4)**
+
+---
+
+### No. 4: न्यूयॉर्क स्काईलाइन SVG एकल-HTML दृश्य
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+एक इंग्लिश प्रॉम्प्ट जिसमें जेमिनी से न्यू यॉर्क स्काईलाइन का एक अत्यधिक विस्तृत और रचनात्मक SVG बनाने के लिए कहा गया है, जिसे एक सिंगल HTML फ़ाइल के रूप में पेस्ट किया जा सकता है और Chrome में खोला जा सकता है।
+
+#### 📝 प्रॉम्पट
+
+```
+{argument name="city_skyline_en" default="न्यू यॉर्क स्काईलाइन"} का SVG। इसे पूरा करने के लिए जितनी भी लाइब्रेरीज़ की ज़रूरत हो, उनका इस्तेमाल करें, लेकिन सुनिश्चित करें कि मैं सब कुछ एक ही HTML फ़ाइल में पेस्ट कर सकूँ और उसे Chrome में खोल सकूँ। इसे दिलचस्प और अत्यधिक विस्तृत बनाएँ, जिसमें अप्रत्याशित विवरण दिखें। एक ही कोड ब्लॉक में पूरी तरह से रचनात्मक और पूरी तरह से सुंदर बनाएँ।
+```
+
+#### 🖼️ उदाहरण चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/G3Yz3dKWkAAp-iS.jpg" width="600" alt="न्यूयॉर्क स्काईलाइन SVG एकल-HTML दृश्य - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Chetaslua](https://x.com/chetaslua)
+- **स्रोत:** [Twitter Post](https://x.com/chetaslua/status/1978826911900946793)
+- **प्रकाशित:** 16 अक्तूबर 2025
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22city_skyline_en%22%20default%3D%22%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82%20%E0%A4%AF%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%95%20%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%88%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%A8%22%7D%20%E0%A4%95%E0%A4%BE%20SVG%E0%A5%A4%20%E0%A4%87%E0%A4%B8%E0%A5%87%20%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A4%BE%20%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A4%BF%E0%A4%8F%20%E0%A4%9C%E0%A4%BF%E0%A4%A4%E0%A4%A8%E0%A5%80%20%E0%A4%AD%E0%A5%80%20%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B0%E0%A5%80%E0%A4%9C%E0%A4%BC%20%E0%A4%95%E0%A5%80%20%E0%A4%9C%E0%A4%BC%E0%A4%B0%E0%A5%82%E0%A4%B0%E0%A4%A4%20%E0%A4%B9%E0%A5%8B%2C%20%E0%A4%89%E0%A4%A8%E0%A4%95%E0%A4%BE%20%E0%A4%87%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%E0%A4%AE%E0%A4%BE%E0%A4%B2%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%2C%20%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%BF%E0%A4%A8%20%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%9A%E0%A4%BF%E0%A4%A4%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%20%E0%A4%95%E0%A4%BF%20%E0%A4%AE%E0%A5%88%E0%A4%82%20%E0%A4%B8%E0%A4%AC%20%E0%A4%95%E0%A5%81%E0%A4%9B%20%E0%A4%8F%E0%A4%95%20%E0%A4%B9%E0%A5%80%20HTML%20%E0%A4%AB%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%B2%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AA%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F%20%E0%A4%95%E0%A4%B0%20%E0%A4%B8%E0%A4%95%E0%A5%82%E0%A4%81%20%E0%A4%94%E0%A4%B0%20%E0%A4%89%E0%A4%B8%E0%A5%87%20Chrome%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%96%E0%A5%8B%E0%A4%B2%20%E0%A4%B8%E0%A4%95%E0%A5%82%E0%A4%81%E0%A5%A4%20%E0%A4%87%E0%A4%B8%E0%A5%87%20%E0%A4%A6%E0%A4%BF%E0%A4%B2%E0%A4%9A%E0%A4%B8%E0%A5%8D%E0%A4%AA%20%E0%A4%94%E0%A4%B0%20%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%A7%E0%A4%BF%E0%A4%95%20%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%83%E0%A4%A4%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%81%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%85%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B6%E0%A4%BF%E0%A4%A4%20%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3%20%E0%A4%A6%E0%A4%BF%E0%A4%96%E0%A5%87%E0%A4%82%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20%E0%A4%B9%E0%A5%80%20%E0%A4%95%E0%A5%8B%E0%A4%A1%20%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%89%E0%A4%95%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%80%20%E0%A4%A4%E0%A4%B0%E0%A4%B9%20%E0%A4%B8%E0%A5%87%20%E0%A4%B0%E0%A4%9A%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%95%20%E0%A4%94%E0%A4%B0%20%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%80%20%E0%A4%A4%E0%A4%B0%E0%A4%B9%20%E0%A4%B8%E0%A5%87%20%E0%A4%B8%E0%A5%81%E0%A4%82%E0%A4%A6%E0%A4%B0%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%81%E0%A5%A4)**
+
+---
+
+## 🤝 योगदान कैसे करें
+
+We welcome contributions! You can submit prompts via:
+
+### 🐛 GitHub Issue
+
+1. Click [**Submit New Prompt**](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)
+2. Fill in the form with prompt details and image
+3. Submit and wait for team review
+4. If approved (we'll add `approved` label), it will automatically sync to CMS
+5. Your prompt will appear in README within 4 hours
+
+**Note:** We only accept submissions via GitHub Issues to ensure quality control.
+
+See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for detailed guidelines.
+
+---
+
+## 📄 लाइसेंस
+
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+## 🙏 आभार
+
+- [Payload CMS](https://payloadcms.com/)
+- [youmind.com](https://youmind.com)
+
+---
+
+## ⭐ स्टार इतिहास
+
+[![Star History Chart](https://api.star-history.com/svg?repos=YouMind-OpenLab/awesome-gemini-3-prompts&type=Date)](https://star-history.com/#YouMind-OpenLab/awesome-gemini-3-prompts&Date)
+
+---
+
+<div align="center">
+
+**[🌐 वेब गैलरी में देखें](https://youmind.com/gemini-3-prompts)** •
+**[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
+
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T11:46:37.890Z</sub>
+
+</div>
