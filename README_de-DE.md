@@ -1,7 +1,5 @@
 # 🚀 Tolle Gemini 3 Prompts
 
-> 💡 **Note**: Wenn Sie an Nano Banana Pro Bild-Prompts interessiert sind, schauen Sie sich gerne unser anderes Repository mit über 500 kuratierten Prompts an: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -9,6 +7,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Eine kuratierte Sammlung von Multimodal-AI-Prompts für Google's Gemini 3
+
+> 💡 **Note**: Wenn Sie an Nano Banana Pro Bild-Prompts interessiert sind, schauen Sie sich gerne unser anderes Repository mit über 500 kuratierten Prompts an: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 > ⚠️ **Urheberrechtshinweis**: Alle Prompts werden zu Bildungszwecken aus der Community gesammelt. Wenn Sie glauben, dass Inhalte Ihre Rechte verletzen, öffnen Sie bitte ein [Issue](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=bug-report.yml) und wir werden es umgehend entfernen.
 
@@ -80,7 +80,7 @@ Wenn Sie Raycast verwenden, können Sie die Argumente dynamisch ersetzen, um sch
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **4** |
 | ⭐ Ausgewählt | **0** |
-| 🔄 Zuletzt aktualisiert | **Donnerstag, 27. November 2025 um 12:04:25 UTC** |
+| 🔄 Zuletzt aktualisiert | **Donnerstag, 27. November 2025 um 12:07:37 UTC** |
 
 </div>
 
@@ -293,6 +293,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Einen Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit einem Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-11-27T12:04:25.587Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-11-27T12:07:37.663Z</sub>
 
 </div>

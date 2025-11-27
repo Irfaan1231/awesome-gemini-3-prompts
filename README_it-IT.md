@@ -1,7 +1,5 @@
 # 🚀 Fantastici Prompt Gemini 3
 
-> 💡 **Note**: Se sei interessato ai prompt di immagini Nano Banana Pro, sentiti libero di controllare il nostro altro repository con oltre 500 prompt selezionati: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -9,6 +7,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Una raccolta curata di prompt di IA multimodale per Gemini 3 di Google
+
+> 💡 **Note**: Se sei interessato ai prompt di immagini Nano Banana Pro, sentiti libero di controllare il nostro altro repository con oltre 500 prompt selezionati: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 > ⚠️ **Avviso sul copyright**: Tutti i prompt sono raccolti dalla comunità per scopi educativi. Se ritieni che un contenuto violi i tuoi diritti, [apri una segnalazione](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=bug-report.yml) e lo rimuoveremo prontamente.
 
@@ -80,7 +80,7 @@ Quando si usa in Raycast, puoi sostituire dinamicamente gli argomenti per iteraz
 |--------|-------|
 | 📝 Totale prompt | **4** |
 | ⭐ In evidenza | **0** |
-| 🔄 Ultimo aggiornamento | **giovedì 27 novembre 2025 alle ore 12:04:26 UTC** |
+| 🔄 Ultimo aggiornamento | **giovedì 27 novembre 2025 alle ore 12:07:38 UTC** |
 
 </div>
 
@@ -293,6 +293,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dai una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-11-27T12:04:26.079Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-11-27T12:07:38.237Z</sub>
 
 </div>

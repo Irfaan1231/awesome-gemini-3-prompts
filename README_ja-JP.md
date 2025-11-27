@@ -1,7 +1,5 @@
 # 🚀 Gemini 3 プロンプト集
 
-> 💡 **Note**: Nano Banana Pro の画像プロンプトに興味がある場合は、500以上の厳選されたプロンプトを含む別のリポジトリをご覧ください：https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -9,6 +7,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Google Gemini 3 のマルチモーダル AI プロンプトコレクション
+
+> 💡 **Note**: Nano Banana Pro の画像プロンプトに興味がある場合は、500以上の厳選されたプロンプトを含む別のリポジトリをご覧ください：https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 > ⚠️ **著作権に関する通知**: すべてのプロンプトは教育目的でコミュニティから収集されています。権利を侵害していると思われるコンテンツがある場合は、[issue を作成](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=bug-report.yml)してください。速やかに削除いたします。
 
@@ -80,7 +80,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **4** |
 | ⭐ おすすめ | **0** |
-| 🔄 最終更新 | **2025年11月27日木曜日 12:04:23 UTC** |
+| 🔄 最終更新 | **2025年11月27日木曜日 12:07:36 UTC** |
 
 </div>
 
@@ -293,6 +293,6 @@ Gemini 3.0 Pro に、ウェブページや UI コンポーネントに埋め込�
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2025-11-27T12:04:23.282Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2025-11-27T12:07:36.041Z</sub>
 
 </div>

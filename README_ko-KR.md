@@ -1,7 +1,5 @@
 # 🚀 Gemini 3 프롬프트 모음
 
-> 💡 **Note**: Nano Banana Pro 이미지 프롬프트에 관심이 있으시다면, 500개 이상의 엄선된 프롬프트가 포함된 다른 저장소를 확인해보세요: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -9,6 +7,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Google Gemini 3를 위한 멀티모달 AI 프롬프트 컬렉션
+
+> 💡 **Note**: Nano Banana Pro 이미지 프롬프트에 관심이 있으시다면, 500개 이상의 엄선된 프롬프트가 포함된 다른 저장소를 확인해보세요: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 > ⚠️ **저작권 고지**: 모든 프롬프트는 교육 목적으로 커뮤니티에서 수집되었습니다. 귀하의 권리를 침해하는 콘텐츠가 있다고 생각되면 [이슈를 열어주세요](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=bug-report.yml). 즉시 삭제하겠습니다.
 
@@ -80,7 +80,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **4** |
 | ⭐ 추천 | **0** |
-| 🔄 마지막 업데이트 | **2025년 11월 27일 목요일 오후 12시 4분 23초 UTC** |
+| 🔄 마지막 업데이트 | **2025년 11월 27일 목요일 오후 12시 7분 36초 UTC** |
 
 </div>
 
@@ -293,6 +293,6 @@ Gemini에게 엄격한 사양에 따라 스위스 모던 및 벤토 레이아웃
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-11-27T12:04:23.718Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-11-27T12:07:36.259Z</sub>
 
 </div>

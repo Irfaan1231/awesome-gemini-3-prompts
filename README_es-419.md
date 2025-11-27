@@ -1,7 +1,5 @@
 # 🚀 Prompts Increíbles de Gemini 3
 
-> 💡 **Note**: Si estás interesado en los prompts de imágenes de Nano Banana Pro, no dudes en consultar nuestro otro repositorio con más de 500 prompts seleccionados: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -9,6 +7,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Una colección curada de prompts de IA multimodal para Gemini 3 de Google
+
+> 💡 **Note**: Si estás interesado en los prompts de imágenes de Nano Banana Pro, no dudes en consultar nuestro otro repositorio con más de 500 prompts seleccionados: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 > ⚠️ **Aviso de derechos de autor**: Todos los prompts se recopilan de la comunidad con fines educativos. Si cree que algún contenido infringe sus derechos, por favor [abra un problema](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=bug-report.yml) y lo eliminaremos de inmediato.
 
@@ -80,7 +80,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **4** |
 | ⭐ Destacado | **0** |
-| 🔄 Última actualización | **jueves, 27 de noviembre de 2025, 12:04:25 p.m. UTC** |
+| 🔄 Última actualización | **jueves, 27 de noviembre de 2025, 12:07:37 p.m. UTC** |
 
 </div>
 
@@ -293,6 +293,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar una estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-11-27T12:04:25.346Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-11-27T12:07:37.461Z</sub>
 
 </div>

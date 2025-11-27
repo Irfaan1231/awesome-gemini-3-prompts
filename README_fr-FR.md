@@ -1,7 +1,5 @@
 # 🚀 Prompts Gemini 3 Géniaux
 
-> 💡 **Note**: Si vous êtes intéressé par les prompts d'images Nano Banana Pro, n'hésitez pas à consulter notre autre dépôt avec plus de 500 prompts sélectionnés : https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -9,6 +7,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Une collection de prompts d'IA multimodale pour Gemini 3 de Google
+
+> 💡 **Note**: Si vous êtes intéressé par les prompts d'images Nano Banana Pro, n'hésitez pas à consulter notre autre dépôt avec plus de 500 prompts sélectionnés : https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 > ⚠️ **Avis de droit d'auteur**: Tous les prompts sont collectés auprès de la communauté à des fins éducatives. Si vous pensez qu'un contenu enfreint vos droits, veuillez [ouvrir un problème](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=bug-report.yml) et nous le supprimerons rapidement.
 
@@ -80,7 +80,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **4** |
 | ⭐ En vedette | **0** |
-| 🔄 Dernière mise à jour | **jeudi 27 novembre 2025 à 12:04:25 UTC** |
+| 🔄 Dernière mise à jour | **jeudi 27 novembre 2025 à 12:07:37 UTC** |
 
 </div>
 
@@ -293,6 +293,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-11-27T12:04:25.783Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-11-27T12:07:37.871Z</sub>
 
 </div>

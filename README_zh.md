@@ -1,7 +1,5 @@
 # 🚀 Gemini 3 提示词大全
 
-> 💡 **Note**: 如果您对 Nano Banana Pro 图像提示词感兴趣，欢迎查看我们的另一个仓库，包含 500+ 精选提示词：https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
-
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -9,6 +7,8 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
 > 🎨 Google Gemini 3 多模态 AI 提示词精选集合
+
+> 💡 **Note**: 如果您对 Nano Banana Pro 图像提示词感兴趣，欢迎查看我们的另一个仓库，包含 500+ 精选提示词：https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 > ⚠️ **版权声明**：所有提示词均收集自社区，仅供教育目的使用。如果您认为任何内容侵犯了您的权利，请[提交 issue](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=bug-report.yml)，我们将立即移除。
 
@@ -80,7 +80,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **4** |
 | ⭐ 精选 | **0** |
-| 🔄 最后更新 | **2025年11月27日星期四 UTC 12:04:22** |
+| 🔄 最后更新 | **2025年11月27日星期四 UTC 12:07:35** |
 
 </div>
 
@@ -293,6 +293,6 @@ by {argument name="author" default="Steve Jobs"}
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2025-11-27T12:04:22.480Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2025-11-27T12:07:35.475Z</sub>
 
 </div>
