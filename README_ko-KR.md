@@ -1,6 +1,6 @@
 # 🚀 Gemini 3 프롬프트 모음
 
-> 💡 **Note**: This repository was migrated from [awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts). If you're looking for Gemini 3 prompts, please visit the original repository.
+> 💡 **Note**: Nano Banana Pro 이미지 프롬프트에 관심이 있으시다면, 500개 이상의 엄선된 프롬프트가 포함된 다른 저장소를 확인해보세요: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
@@ -80,7 +80,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **4** |
 | ⭐ 추천 | **0** |
-| 🔄 마지막 업데이트 | **2025년 11월 27일 목요일 오전 11시 46분 36초 UTC** |
+| 🔄 마지막 업데이트 | **2025년 11월 27일 목요일 오후 12시 4분 23초 UTC** |
 
 </div>
 
@@ -175,7 +175,7 @@ Gemini에게 엄격한 사양에 따라 스위스 모던 및 벤토 레이아웃
 
 - **작성자:** [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen)
 - **출처:** [Twitter Post](https://x.com/masahirochaen/status/1990905875104739689)
-- **게시일:** 2025년 11월 19일
+- **게시일:** 2025년 11월 18일
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0A%EB%82%98%EC%A4%91%EC%97%90%20%EC%A0%9C%EA%B3%B5%EB%90%98%EB%8A%94%20%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%EB%A5%BC%20%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C%20%EB%8B%A4%EC%9D%8C%20%EC%82%AC%EC%96%91%EC%9D%84%20%EC%97%84%EA%B2%A9%ED%9E%88%20%EC%A4%80%EC%88%98%ED%95%98%EC%97%AC%20%EC%B5%9C%EA%B3%A0%20%ED%92%88%EC%A7%88%EC%9D%98%20React%20%EB%9E%9C%EB%94%A9%20%ED%8E%98%EC%9D%B4%EC%A7%80(%EB%8B%A8%EC%9D%BC%20%ED%8C%8C%EC%9D%BC)%EB%A5%BC%20%EA%B5%AC%ED%98%84%ED%95%98%EC%84%B8%EC%9A%94.%0A%0A1.%20%EB%94%94%EC%9E%90%EC%9D%B8%20%EC%BD%98%EC%85%89%ED%8A%B8%3A%20%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0A%EC%8A%A4%ED%83%80%EC%9D%BC%3A%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-like%20Swiss%20modern%20style%22%7D%EB%A1%9C%2C%20%EC%9E%A5%EC%8B%9D%EC%9D%84%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B3%A0%20%EC%97%AC%EB%B0%B1%EA%B3%BC%20%ED%83%80%EC%9D%B4%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BC%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC%20%EB%A7%A4%EB%A0%A5%EC%9D%84%20%EB%8D%94%ED%95%A9%EB%8B%88%EB%8B%A4.)**
@@ -293,6 +293,6 @@ Gemini에게 엄격한 사양에 따라 스위스 모던 및 벤토 레이아웃
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-11-27T11:46:36.365Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-11-27T12:04:23.718Z</sub>
 
 </div>

@@ -1,6 +1,6 @@
-# 🚀 Awesome Gemini 3mpts
+# 🚀 Awesome Gemini 3 Prompts
 
-> 💡 **Note**: This repository was migrated from [awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts). If you're looking for Gemini 3 prompts, please visit the original repository.
+> 💡 **Note**: If you're interested in Nano Banana Pro image prompts, feel free to check out our other repository with 500+ curated prompts: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
@@ -20,7 +20,7 @@
 
 ## 🌐 View in Web Gallery
 
-**[👉 Browse on YouMind Gemini 3mpts Gallery](https://youmind.com/gemini-3-prompts)**
+**[👉 Browse on YouMind Gemini 3 Prompts Gallery](https://youmind.com/gemini-3-prompts)**
 
 Why use our gallery?
 
@@ -80,7 +80,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **4** |
 | ⭐ Featured | **0** |
-| 🔄 Last Updated | **Thursday, November 27, 2025 at 11:46:33 AM UTC** |
+| 🔄 Last Updated | **Thursday, November 27, 2025 at 12:04:22 PM UTC** |
 
 </div>
 
@@ -175,7 +175,7 @@ Style: {argument name="style_en" default="Apple/Linear-like Swiss modern style"}
 
 - **Author:** [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen)
 - **Source:** [Twitter Post](https://x.com/masahirochaen/status/1990905875104739689)
-- **Published:** November 19, 2025
+- **Published:** November 18, 2025
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0ABased%20on%20the%20later-provided%20%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%2C%20strictly%20follow%20the%20following%20specifications%20and%20implement%20a%20top-quality%20landing%20page%20in%20React%20(single%20file).%0A%0A1.%20Design%20concept%3A%20%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0AStyle%3A%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-like%20Swiss%20modern%20style%22%7D%2C%20removing%20decoration%20and%20using%20whitespace%20and%20typography%20to%20create%20appeal.)**
@@ -293,6 +293,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T11:46:34.006Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T12:04:22.272Z</sub>
 
 </div>

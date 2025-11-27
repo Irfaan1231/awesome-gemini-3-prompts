@@ -1,6 +1,6 @@
 # 🚀 Gemini 3 提示詞大全
 
-> 💡 **Note**: This repository was migrated from [awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts). If you're looking for Gemini 3 prompts, please visit the original repository.
+> 💡 **Note**: 如果您對 Nano Banana Pro 圖像提示詞感興趣，歡迎查看我們的另一個倉庫，包含 500+ 精選提示詞：https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
@@ -80,7 +80,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **4** |
 | ⭐ 精選 | **0** |
-| 🔄 最後更新 | **2025年11月27日 星期四 上午11:46:35 [UTC]** |
+| 🔄 最後更新 | **2025年11月27日 星期四 中午12:04:22 [UTC]** |
 
 </div>
 
@@ -175,7 +175,7 @@ by {argument name="author" default="Steve Jobs"}
 
 - **作者:** [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen)
 - **來源:** [Twitter Post](https://x.com/masahirochaen/status/1990905875104739689)
-- **發布時間:** 2025年11月19日
+- **發布時間:** 2025年11月18日
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0A%E6%A0%B9%E6%93%9A%E7%A8%8D%E5%BE%8C%E6%8F%90%E4%BE%9B%E7%9A%84%E3%80%8C%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%E3%80%8D%EF%BC%8C%E8%AB%8B%E5%9A%B4%E6%A0%BC%E9%81%B5%E5%BE%AA%E4%BB%A5%E4%B8%8B%E8%A6%8F%E7%AF%84%EF%BC%8C%E4%B8%A6%E4%BB%A5%20React%EF%BC%88%E5%96%AE%E4%B8%80%E6%AA%94%E6%A1%88%EF%BC%89%E5%AF%A6%E4%BD%9C%E4%B8%80%E5%80%8B%E9%AB%98%E5%93%81%E8%B3%AA%E7%9A%84%E7%99%BB%E9%99%B8%E9%A0%81%E9%9D%A2%E3%80%82%0A%0A1.%20%E8%A8%AD%E8%A8%88%E7%90%86%E5%BF%B5%EF%BC%9A%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0A%E9%A2%A8%E6%A0%BC%EF%BC%9A%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-like%20Swiss%20modern%20style%22%7D%EF%BC%8C%E5%8E%BB%E9%99%A4%E8%A3%9D%E9%A3%BE%EF%BC%8C%E9%81%8B%E7%94%A8%E7%95%99%E7%99%BD%E5%92%8C%E6%8E%92%E7%89%88%E4%BE%86%E7%87%9F%E9%80%A0%E5%90%B8%E5%BC%95%E5%8A%9B%E3%80%82)**
@@ -293,6 +293,6 @@ by {argument name="author" default="Steve Jobs"}
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-11-27T11:46:35.211Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-11-27T12:04:22.771Z</sub>
 
 </div>

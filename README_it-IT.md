@@ -1,6 +1,6 @@
 # 🚀 Fantastici Prompt Gemini 3
 
-> 💡 **Note**: This repository was migrated from [awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts). If you're looking for Gemini 3 prompts, please visit the original repository.
+> 💡 **Note**: Se sei interessato ai prompt di immagini Nano Banana Pro, sentiti libero di controllare il nostro altro repository con oltre 500 prompt selezionati: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
@@ -24,12 +24,12 @@
 
 Perché usare la nostra galleria?
 
-| Feature | GitHub README | youmind.com Gallery |
+| Feature | GitHub README | Galleria youmind.com |
 |---------|--------------|---------------------|
-| 🎨 Layout visivo | Linear list | Beautiful Masonry Grid |
-| 🔍 Cerca | Ctrl+F only | Full-text search with filters |
-| 🤖 AI One-Click Generation | - | AI one-click generation |
-| 📱 Mobile | Basic | Fully responsive |
+| 🎨 Layout visivo | Lista lineare | Griglia masonry bellissima |
+| 🔍 Cerca | Solo Ctrl+F | Ricerca full-text con filtri |
+| 🤖 Generazione IA con un clic | - | Generazione IA con un clic |
+| 📱 Mobile | Base | Completamente responsive |
 
 ---
 
@@ -49,26 +49,26 @@ Perché usare la nostra galleria?
 
 ## 🤔 Cos'è Gemini 3?
 
-**Gemini 3** is Google's latest multimodal AI model featuring:
+**Gemini 3** è l'ultimo modello di IA multimodale di Google con le seguenti caratteristiche:
 
-- 🎯 **Massive Context Window** - Up to 1 million tokens for comprehensive understanding
-- 🎨 **Multimodal Intelligence** - Understand and generate text, images, audio, video, and code
-- ⚡ **Action-Oriented AI** - Automate execution and generate websites with real-time preview
-- 🌈 **Powerful Reasoning** - Advanced problem-solving and complex task handling
+- 🎯 **Finestra di contesto massiccia** - Fino a 1 milione di token per una comprensione completa
+- 🎨 **Intelligenza multimodale** - Comprendere e generare testo, immagini, audio, video e codice
+- ⚡ **IA orientata all'azione** - Automatizzare l'esecuzione e generare siti web con anteprima in tempo reale
+- 🌈 **Ragionamento potente** - Risoluzione avanzata dei problemi e gestione di compiti complessi
 
-📚 **Learn More:** [Gemini 3: 10 Real Cases](https://youmind.com/blog/gemini-3-10-real-cases)
+📚 **Scopri di più:** [Gemini 3: 10 casi reali](https://youmind.com/blog/gemini-3-10-real-cases)
 
-### 🚀 Raycast Integration
+### 🚀 Integrazione Raycast
 
-Some prompts support **dynamic arguments** using [Raycast Snippets](https://raycast.com/help/snippets) syntax. Look for the 🚀 Raycast Friendly badge!
+Alcuni prompt supportano **argomenti dinamici** utilizzando la sintassi di [Raycast Snippets](https://raycast.com/help/snippets). Cerca il badge 🚀 Raycast Friendly!
 
-**Example:**
+**Esempio:**
 ```
 A quote card with "{argument name="quote" default="Stay hungry, stay foolish"}"
 by {argument name="author" default="Steve Jobs"}
 ```
 
-When used in Raycast, you can dynamically replace the arguments for quick iterations!
+Quando si usa in Raycast, puoi sostituire dinamicamente gli argomenti per iterazioni rapide!
 
 ---
 
@@ -80,7 +80,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Totale prompt | **4** |
 | ⭐ In evidenza | **0** |
-| 🔄 Ultimo aggiornamento | **giovedì 27 novembre 2025 alle ore 11:46:41 UTC** |
+| 🔄 Ultimo aggiornamento | **giovedì 27 novembre 2025 alle ore 12:04:26 UTC** |
 
 </div>
 
@@ -88,7 +88,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 ## 📋 Tutti i prompt
 
-> 📝 Sorted by publish date (newest first)
+> 📝 Ordinato per data di pubblicazione (più recente prima)
 
 ### No. 1: Genera 40 semplici icone SVG con pulsanti di download
 
@@ -175,7 +175,7 @@ Stile: {argument name="style_en" default="Stile moderno svizzero simile a Apple/
 
 - **Autore:** [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen)
 - **Fonte:** [Twitter Post](https://x.com/masahirochaen/status/1990905875104739689)
-- **Pubblicato:** 19 novembre 2025
+- **Pubblicato:** 18 novembre 2025
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0ABasandosi%20sul%20%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Testo%20di%20Input%22%7D%20fornito%20in%20seguito%2C%20seguire%20rigorosamente%20le%20seguenti%20specifiche%20e%20implementare%20una%20landing%20page%20di%20alta%20qualit%C3%A0%20in%20React%20(file%20singolo).%0A%0A1.%20Concetto%20di%20design%3A%20%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0AStile%3A%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Stile%20moderno%20svizzero%20simile%20a%20Apple%2FLineare%22%7D%2C%20eliminando%20le%20decorazioni%20e%20utilizzando%20spazi%20bianchi%20e%20tipografia%20per%20creare%20attrattiva.)**
@@ -252,25 +252,25 @@ SVG della {argument name="city_skyline_en" default="skyline di New York"}. Utili
 
 ## 🤝 Come contribuire
 
-We welcome contributions! You can submit prompts via:
+Accogliamo i contributi! Puoi inviare prompt tramite:
 
 ### 🐛 GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)
-2. Fill in the form with prompt details and image
-3. Submit and wait for team review
-4. If approved (we'll add `approved` label), it will automatically sync to CMS
-5. Your prompt will appear in README within 4 hours
+1. Click [**Invia nuovo prompt**](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)
+2. Compila il modulo con i dettagli del prompt e l'immagine
+3. Invia e attendi la revisione del team
+4. Se approvato (aggiungeremo l'etichetta `approved`), verrà sincronizzato automaticamente con il CMS
+5. Il tuo prompt apparirà nel README entro 4 ore
 
-**Note:** We only accept submissions via GitHub Issues to ensure quality control.
+**Nota:** Accettiamo solo invii tramite GitHub Issues per garantire il controllo qualità.
 
-See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for detailed guidelines.
+Vedi [CONTRIBUTING.md](docs/CONTRIBUTING.md) per linee guida dettagliate.
 
 ---
 
 ## 📄 Licenza
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
@@ -290,9 +290,9 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 <div align="center">
 
 **[🌐 Vedi nella galleria web](https://youmind.com/gemini-3-prompts)** •
-**[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
+**[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ Dai una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T11:46:41.239Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-11-27T12:04:26.079Z</sub>
 
 </div>

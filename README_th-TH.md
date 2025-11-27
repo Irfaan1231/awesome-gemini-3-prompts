@@ -1,6 +1,6 @@
 # 🚀 สุดยอด Gemini 3 Prompts
 
-> 💡 **Note**: This repository was migrated from [awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts). If you're looking for Gemini 3 prompts, please visit the original repository.
+> 💡 **Note**: หากคุณสนใจคำสั่งรูปภาพ Nano Banana Pro โปรดดูที่เก็บข้อมูลอื่นของเราที่มีคำสั่งที่คัดเลือกมากกว่า 500 รายการ: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
@@ -24,12 +24,12 @@
 
 ทำไมต้องใช้แกลเลอรีของเรา?
 
-| Feature | GitHub README | youmind.com Gallery |
+| Feature | GitHub README | แกลเลอรี youmind.com |
 |---------|--------------|---------------------|
-| 🎨 รูปแบบภาพ | Linear list | Beautiful Masonry Grid |
-| 🔍 ค้นหา | Ctrl+F only | Full-text search with filters |
-| 🤖 AI One-Click Generation | - | AI one-click generation |
-| 📱 มือถือ | Basic | Fully responsive |
+| 🎨 รูปแบบภาพ | รายการเชิงเส้น | กริดแบบ masonry ที่สวยงาม |
+| 🔍 ค้นหา | Ctrl+F เท่านั้น | การค้นหาข้อความเต็มพร้อมตัวกรอง |
+| 🤖 สร้างด้วย AI คลิกเดียว | - | สร้างด้วย AI คลิกเดียว |
+| 📱 มือถือ | พื้นฐาน | ตอบสนองอย่างสมบูรณ์ |
 
 ---
 
@@ -49,26 +49,26 @@
 
 ## 🤔 Gemini 3 คืออะไร?
 
-**Gemini 3** is Google's latest multimodal AI model featuring:
+**Gemini 3** เป็นโมเดล AI แบบหลายรูปแบบล่าสุดของ Google ที่มีคุณสมบัติดังต่อไปนี้:
 
-- 🎯 **Massive Context Window** - Up to 1 million tokens for comprehensive understanding
-- 🎨 **Multimodal Intelligence** - Understand and generate text, images, audio, video, and code
-- ⚡ **Action-Oriented AI** - Automate execution and generate websites with real-time preview
-- 🌈 **Powerful Reasoning** - Advanced problem-solving and complex task handling
+- 🎯 **หน้าต่างบริบทขนาดใหญ่** - สูงสุด 1 ล้านโทเค็นเพื่อความเข้าใจที่ครอบคลุม
+- 🎨 **ปัญญาประดิษฐ์แบบหลายรูปแบบ** - เข้าใจและสร้างข้อความ รูปภาพ เสียง วิดีโอ และโค้ด
+- ⚡ **AI ที่มุ่งเน้นการกระทำ** - ทำให้การทำงานเป็นอัตโนมัติและสร้างเว็บไซต์พร้อมตัวอย่างแบบเรียลไทม์
+- 🌈 **การให้เหตุผลที่ทรงพลัง** - การแก้ปัญหาขั้นสูงและการจัดการงานที่ซับซ้อน
 
-📚 **Learn More:** [Gemini 3: 10 Real Cases](https://youmind.com/blog/gemini-3-10-real-cases)
+📚 **เรียนรู้เพิ่มเติม:** [Gemini 3: 10 กรณีจริง](https://youmind.com/blog/gemini-3-10-real-cases)
 
-### 🚀 Raycast Integration
+### 🚀 การรวม Raycast
 
-Some prompts support **dynamic arguments** using [Raycast Snippets](https://raycast.com/help/snippets) syntax. Look for the 🚀 Raycast Friendly badge!
+คำสั่งบางคำสั่งรองรับ **อาร์กิวเมนต์แบบไดนามิก** โดยใช้ไวยากรณ์ [Raycast Snippets](https://raycast.com/help/snippets) ค้นหาเครื่องหมาย 🚀 Raycast Friendly!
 
-**Example:**
+**ตัวอย่าง:**
 ```
 A quote card with "{argument name="quote" default="Stay hungry, stay foolish"}"
 by {argument name="author" default="Steve Jobs"}
 ```
 
-When used in Raycast, you can dynamically replace the arguments for quick iterations!
+เมื่อใช้ใน Raycast คุณสามารถแทนที่อาร์กิวเมนต์แบบไดนามิกเพื่อทำซ้ำอย่างรวดเร็ว!
 
 ---
 
@@ -80,7 +80,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **4** |
 | ⭐ แนะนำ | **0** |
-| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 27 พฤศจิกายน พ.ศ. 2568 เวลา 11 นาฬิกา 46 นาที 36 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 27 พฤศจิกายน พ.ศ. 2568 เวลา 12 นาฬิกา 04 นาที 24 วินาที UTC** |
 
 </div>
 
@@ -88,7 +88,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 ## 📋 คำสั่งทั้งหมด
 
-> 📝 Sorted by publish date (newest first)
+> 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
 ### No. 1: สร้างไอคอน SVG อย่างง่าย 40 แบบ พร้อมปุ่มดาวน์โหลด
 
@@ -175,7 +175,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 - **ผู้เขียน:** [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen)
 - **แหล่งที่มา:** [Twitter Post](https://x.com/masahirochaen/status/1990905875104739689)
-- **เผยแพร่เมื่อ:** 19 พฤศจิกายน 2568
+- **เผยแพร่เมื่อ:** 18 พฤศจิกายน 2568
 - **ภาษา:** en
 
 **[👉 ลองเลย →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0A%E0%B8%AD%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B4%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%20%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%20%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A1%E0%B8%B2%E0%B9%83%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%20%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%84%E0%B8%9B%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B8%94%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B9%89%E0%B8%87%E0%B9%80%E0%B8%9E%E0%B8%88%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%AA%E0%B8%B9%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B9%81%E0%B8%9A%E0%B8%9A%20React%20(%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7)%0A%0A1.%20%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A%3A%20%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0A%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%3A%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-like%20Swiss%20modern%20style%22%7D%20%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%80%E0%B8%99%E0%B9%89%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B1%E0%B8%94%E0%B8%97%E0%B8%AD%E0%B8%99%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%95%E0%B8%81%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%20(whitespace)%20%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%20(typography)%20%E0%B9%80%E0%B8%9E%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88)**
@@ -252,25 +252,25 @@ SVG ของ {argument name="city_skyline_en" default="เส้นขอบฟ
 
 ## 🤝 วิธีการมีส่วนร่วม
 
-We welcome contributions! You can submit prompts via:
+เรายินดีต้อนรับการมีส่วนร่วม! คุณสามารถส่งคำสั่งผ่าน:
 
 ### 🐛 GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)
-2. Fill in the form with prompt details and image
-3. Submit and wait for team review
-4. If approved (we'll add `approved` label), it will automatically sync to CMS
-5. Your prompt will appear in README within 4 hours
+1. Click [**ส่งคำสั่งใหม่**](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)
+2. กรอกแบบฟอร์มพร้อมรายละเอียดคำสั่งและรูปภาพ
+3. ส่งและรอการตรวจสอบจากทีม
+4. หากได้รับการอนุมัติ (เราจะเพิ่มป้ายกำกับ `approved`) มันจะซิงค์กับ CMS โดยอัตโนมัติ
+5. คำสั่งของคุณจะปรากฏใน README ภายใน 4 ชั่วโมง
 
-**Note:** We only accept submissions via GitHub Issues to ensure quality control.
+**หมายเหตุ:** เรารับเฉพาะการส่งผ่าน GitHub Issues เพื่อให้แน่ใจว่ามีการควบคุมคุณภาพ
 
-See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for detailed guidelines.
+ดู [CONTRIBUTING.md](docs/CONTRIBUTING.md) สำหรับแนวทางโดยละเอียด
 
 ---
 
 ## 📄 ใบอนุญาต
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+ได้รับอนุญาตภายใต้ [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
@@ -290,9 +290,9 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 <div align="center">
 
 **[🌐 ดูในแกลเลอรีเว็บ](https://youmind.com/gemini-3-prompts)** •
-**[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
+**[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ ให้ดาวกับที่เก็บข้อมูลนี้](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T11:46:36.897Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2025-11-27T12:04:24.132Z</sub>
 
 </div>

@@ -1,6 +1,6 @@
 # 🚀 शानदार Gemini 3 प्रॉम्पट्स
 
-> 💡 **Note**: This repository was migrated from [awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts). If you're looking for Gemini 3 prompts, please visit the original repository.
+> 💡 **Note**: यदि आप Nano Banana Pro छवि प्रॉम्पट्स में रुचि रखते हैं, तो कृपया 500+ क्यूरेटेड प्रॉम्पट्स के साथ हमारे अन्य रिपॉजिटरी को देखें: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
@@ -24,12 +24,12 @@
 
 हमारी गैलरी का उपयोग क्यों करें?
 
-| Feature | GitHub README | youmind.com Gallery |
+| Feature | GitHub README | youmind.com गैलरी |
 |---------|--------------|---------------------|
-| 🎨 दृश्य लेआउट | Linear list | Beautiful Masonry Grid |
-| 🔍 खोजें | Ctrl+F only | Full-text search with filters |
-| 🤖 AI One-Click Generation | - | AI one-click generation |
-| 📱 मोबाइल | Basic | Fully responsive |
+| 🎨 दृश्य लेआउट | रैखिक सूची | सुंदर मेसनरी ग्रिड |
+| 🔍 खोजें | केवल Ctrl+F | फ़िल्टर के साथ पूर्ण-पाठ खोज |
+| 🤖 एक क्लिक AI जनरेशन | - | एक क्लिक AI जनरेशन |
+| 📱 मोबाइल | मूल | पूरी तरह से उत्तरदायी |
 
 ---
 
@@ -49,26 +49,26 @@
 
 ## 🤔 Gemini 3 क्या है?
 
-**Gemini 3** is Google's latest multimodal AI model featuring:
+**Gemini 3** Google का नवीनतम मल्टीमॉडल AI मॉडल है जिसमें निम्नलिखित सुविधाएं हैं:
 
-- 🎯 **Massive Context Window** - Up to 1 million tokens for comprehensive understanding
-- 🎨 **Multimodal Intelligence** - Understand and generate text, images, audio, video, and code
-- ⚡ **Action-Oriented AI** - Automate execution and generate websites with real-time preview
-- 🌈 **Powerful Reasoning** - Advanced problem-solving and complex task handling
+- 🎯 **विशाल संदर्भ विंडो** - व्यापक समझ के लिए 1 मिलियन तक टोकन
+- 🎨 **मल्टीमॉडल इंटेलिजेंस** - पाठ, छवियां, ऑडियो, वीडियो और कोड को समझना और उत्पन्न करना
+- ⚡ **एक्शन-ओरिएंटेड AI** - निष्पादन को स्वचालित करना और रियल-टाइम पूर्वावलोकन के साथ वेबसाइट उत्पन्न करना
+- 🌈 **शक्तिशाली तर्क** - उन्नत समस्या समाधान और जटिल कार्य प्रबंधन
 
-📚 **Learn More:** [Gemini 3: 10 Real Cases](https://youmind.com/blog/gemini-3-10-real-cases)
+📚 **अधिक जानें:** [Gemini 3: 10 वास्तविक मामले](https://youmind.com/blog/gemini-3-10-real-cases)
 
-### 🚀 Raycast Integration
+### 🚀 Raycast एकीकरण
 
-Some prompts support **dynamic arguments** using [Raycast Snippets](https://raycast.com/help/snippets) syntax. Look for the 🚀 Raycast Friendly badge!
+कुछ प्रॉम्पट्स [Raycast Snippets](https://raycast.com/help/snippets) सिंटैक्स का उपयोग करके **गतिशील तर्क** का समर्थन करते हैं। 🚀 Raycast Friendly बैज की तलाश करें!
 
-**Example:**
+**उदाहरण:**
 ```
 A quote card with "{argument name="quote" default="Stay hungry, stay foolish"}"
 by {argument name="author" default="Steve Jobs"}
 ```
 
-When used in Raycast, you can dynamically replace the arguments for quick iterations!
+Raycast में उपयोग करते समय, त्वरित पुनरावृत्तियों के लिए आप तर्कों को गतिशील रूप से प्रतिस्थापित कर सकते हैं!
 
 ---
 
@@ -80,7 +80,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **4** |
 | ⭐ विशेष | **0** |
-| 🔄 अंतिम अपडेट | **गुरुवार, 27 नवंबर 2025 को 11:46:37 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **गुरुवार, 27 नवंबर 2025 को 12:04:24 pm UTC बजे** |
 
 </div>
 
@@ -88,7 +88,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 ## 📋 सभी प्रॉम्पट्स
 
-> 📝 Sorted by publish date (newest first)
+> 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
 ### No. 1: डाउनलोड बटन के साथ 40 सरल SVG आइकन जनरेट करें
 
@@ -175,7 +175,7 @@ SVG फॉर्मेट में {argument name="icon_count_en" default="40"}
 
 - **लेखक:** [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen)
 - **स्रोत:** [Twitter Post](https://x.com/masahirochaen/status/1990905875104739689)
-- **प्रकाशित:** 19 नवंबर 2025
+- **प्रकाशित:** 18 नवंबर 2025
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0A%E0%A4%AC%E0%A4%BE%E0%A4%A6%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%A6%E0%A4%BF%E0%A4%8F%20%E0%A4%97%E0%A4%8F%20%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%20%E0%A4%95%E0%A5%87%20%E0%A4%86%E0%A4%A7%E0%A4%BE%E0%A4%B0%20%E0%A4%AA%E0%A4%B0%2C%20%E0%A4%A8%E0%A4%BF%E0%A4%AE%E0%A5%8D%E0%A4%A8%E0%A4%B2%E0%A4%BF%E0%A4%96%E0%A4%BF%E0%A4%A4%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%A4%E0%A4%BE%E0%A4%93%E0%A4%82%20%E0%A4%95%E0%A4%BE%20%E0%A4%95%E0%A4%A1%E0%A4%BC%E0%A4%BE%E0%A4%88%20%E0%A4%B8%E0%A5%87%20%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%A8%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%20%E0%A4%94%E0%A4%B0%20React%20(%E0%A4%8F%E0%A4%95%E0%A4%B2%20%E0%A4%AB%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%B2)%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%8F%E0%A4%95%20%E0%A4%89%E0%A4%9A%E0%A5%8D%E0%A4%9A-%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A4%B5%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%BE%20%E0%A4%B5%E0%A4%BE%E0%A4%B2%E0%A4%BE%20%E0%A4%B2%E0%A5%88%E0%A4%82%E0%A4%A1%E0%A4%BF%E0%A4%82%E0%A4%97%20%E0%A4%AA%E0%A5%87%E0%A4%9C%20%E0%A4%B2%E0%A4%BE%E0%A4%97%E0%A5%82%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%E0%A5%A4%0A%0A1.%20%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%A8%20%E0%A4%95%E0%A5%89%E0%A4%A8%E0%A5%8D%E0%A4%B8%E0%A5%87%E0%A4%AA%E0%A5%8D%E0%A4%9F%3A%20%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0A%E0%A4%B6%E0%A5%88%E0%A4%B2%E0%A5%80%3A%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-like%20Swiss%20modern%20style%22%7D%2C%20%E0%A4%B8%E0%A4%9C%E0%A4%BE%E0%A4%B5%E0%A4%9F%20%E0%A4%B9%E0%A4%9F%E0%A4%BE%E0%A4%95%E0%A4%B0%20%E0%A4%94%E0%A4%B0%20%E0%A4%86%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%A3%20%E0%A4%AA%E0%A5%88%E0%A4%A6%E0%A4%BE%20%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A4%BF%E0%A4%8F%20%E0%A4%96%E0%A4%BE%E0%A4%B2%E0%A5%80%20%E0%A4%9C%E0%A4%97%E0%A4%B9%20%E0%A4%94%E0%A4%B0%20%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%AA%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AB%E0%A5%80%20%E0%A4%95%E0%A4%BE%20%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97%20%E0%A4%95%E0%A4%B0%E0%A4%95%E0%A5%87%E0%A5%A4)**
@@ -243,7 +243,7 @@ SVG फॉर्मेट में {argument name="icon_count_en" default="40"}
 
 - **लेखक:** [Chetaslua](https://x.com/chetaslua)
 - **स्रोत:** [Twitter Post](https://x.com/chetaslua/status/1978826911900946793)
-- **प्रकाशित:** 16 अक्तूबर 2025
+- **प्रकाशित:** 16 अक्टूबर 2025
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22city_skyline_en%22%20default%3D%22%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%82%20%E0%A4%AF%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%95%20%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%88%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%A8%22%7D%20%E0%A4%95%E0%A4%BE%20SVG%E0%A5%A4%20%E0%A4%87%E0%A4%B8%E0%A5%87%20%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A4%BE%20%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87%20%E0%A4%95%E0%A5%87%20%E0%A4%B2%E0%A4%BF%E0%A4%8F%20%E0%A4%9C%E0%A4%BF%E0%A4%A4%E0%A4%A8%E0%A5%80%20%E0%A4%AD%E0%A5%80%20%E0%A4%B2%E0%A4%BE%E0%A4%87%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B0%E0%A5%80%E0%A4%9C%E0%A4%BC%20%E0%A4%95%E0%A5%80%20%E0%A4%9C%E0%A4%BC%E0%A4%B0%E0%A5%82%E0%A4%B0%E0%A4%A4%20%E0%A4%B9%E0%A5%8B%2C%20%E0%A4%89%E0%A4%A8%E0%A4%95%E0%A4%BE%20%E0%A4%87%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%E0%A4%AE%E0%A4%BE%E0%A4%B2%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%2C%20%E0%A4%B2%E0%A5%87%E0%A4%95%E0%A4%BF%E0%A4%A8%20%E0%A4%B8%E0%A5%81%E0%A4%A8%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%9A%E0%A4%BF%E0%A4%A4%20%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82%20%E0%A4%95%E0%A4%BF%20%E0%A4%AE%E0%A5%88%E0%A4%82%20%E0%A4%B8%E0%A4%AC%20%E0%A4%95%E0%A5%81%E0%A4%9B%20%E0%A4%8F%E0%A4%95%20%E0%A4%B9%E0%A5%80%20HTML%20%E0%A4%AB%E0%A4%BC%E0%A4%BE%E0%A4%87%E0%A4%B2%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AA%E0%A5%87%E0%A4%B8%E0%A5%8D%E0%A4%9F%20%E0%A4%95%E0%A4%B0%20%E0%A4%B8%E0%A4%95%E0%A5%82%E0%A4%81%20%E0%A4%94%E0%A4%B0%20%E0%A4%89%E0%A4%B8%E0%A5%87%20Chrome%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%96%E0%A5%8B%E0%A4%B2%20%E0%A4%B8%E0%A4%95%E0%A5%82%E0%A4%81%E0%A5%A4%20%E0%A4%87%E0%A4%B8%E0%A5%87%20%E0%A4%A6%E0%A4%BF%E0%A4%B2%E0%A4%9A%E0%A4%B8%E0%A5%8D%E0%A4%AA%20%E0%A4%94%E0%A4%B0%20%E0%A4%85%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%A7%E0%A4%BF%E0%A4%95%20%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%83%E0%A4%A4%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%81%2C%20%E0%A4%9C%E0%A4%BF%E0%A4%B8%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%85%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%B6%E0%A4%BF%E0%A4%A4%20%E0%A4%B5%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A4%A3%20%E0%A4%A6%E0%A4%BF%E0%A4%96%E0%A5%87%E0%A4%82%E0%A5%A4%20%E0%A4%8F%E0%A4%95%20%E0%A4%B9%E0%A5%80%20%E0%A4%95%E0%A5%8B%E0%A4%A1%20%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%89%E0%A4%95%20%E0%A4%AE%E0%A5%87%E0%A4%82%20%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%80%20%E0%A4%A4%E0%A4%B0%E0%A4%B9%20%E0%A4%B8%E0%A5%87%20%E0%A4%B0%E0%A4%9A%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A5%8D%E0%A4%AE%E0%A4%95%20%E0%A4%94%E0%A4%B0%20%E0%A4%AA%E0%A5%82%E0%A4%B0%E0%A5%80%20%E0%A4%A4%E0%A4%B0%E0%A4%B9%20%E0%A4%B8%E0%A5%87%20%E0%A4%B8%E0%A5%81%E0%A4%82%E0%A4%A6%E0%A4%B0%20%E0%A4%AC%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%81%E0%A5%A4)**
@@ -252,25 +252,25 @@ SVG फॉर्मेट में {argument name="icon_count_en" default="40"}
 
 ## 🤝 योगदान कैसे करें
 
-We welcome contributions! You can submit prompts via:
+हम योगदान का स्वागत करते हैं! आप निम्नलिखित तरीकों से प्रॉम्पट्स जमा कर सकते हैं:
 
 ### 🐛 GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)
-2. Fill in the form with prompt details and image
-3. Submit and wait for team review
-4. If approved (we'll add `approved` label), it will automatically sync to CMS
-5. Your prompt will appear in README within 4 hours
+1. Click [**नया प्रॉम्पट जमा करें**](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)
+2. प्रॉम्पट विवरण और छवि के साथ फॉर्म भरें
+3. जमा करें और टीम समीक्षा की प्रतीक्षा करें
+4. यदि अनुमोदित (हम `approved` लेबल जोड़ेंगे), तो यह स्वचालित रूप से CMS के साथ सिंक हो जाएगा
+5. आपका प्रॉम्पट 4 घंटे के भीतर README में दिखाई देगा
 
-**Note:** We only accept submissions via GitHub Issues to ensure quality control.
+**नोट:** गुणवत्ता नियंत्रण सुनिश्चित करने के लिए हम केवल GitHub Issues के माध्यम से जमा स्वीकार करते हैं।
 
-See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for detailed guidelines.
+विस्तृत दिशानिर्देशों के लिए [CONTRIBUTING.md](docs/CONTRIBUTING.md) देखें।
 
 ---
 
 ## 📄 लाइसेंस
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) के तहत लाइसेंस प्राप्त।
 
 ---
 
@@ -290,9 +290,9 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 <div align="center">
 
 **[🌐 वेब गैलरी में देखें](https://youmind.com/gemini-3-prompts)** •
-**[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
+**[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T11:46:37.890Z</sub>
+<sub>🤖 यह README स्वचालित रूप से उत्पन्न होता है। अंतिम अपडेट: 2025-11-27T12:04:24.774Z</sub>
 
 </div>

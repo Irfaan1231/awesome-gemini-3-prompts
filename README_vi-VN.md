@@ -1,6 +1,6 @@
 # 🚀 Tuyển tập Gemini 3 Prompts
 
-> 💡 **Note**: This repository was migrated from [awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts). If you're looking for Gemini 3 prompts, please visit the original repository.
+> 💡 **Note**: Nếu bạn quan tâm đến các câu lệnh hình ảnh Nano Banana Pro, vui lòng xem kho lưu trữ khác của chúng tôi với hơn 500 câu lệnh được tuyển chọn: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
@@ -24,12 +24,12 @@
 
 Tại sao nên sử dụng thư viện của chúng tôi?
 
-| Feature | GitHub README | youmind.com Gallery |
+| Feature | GitHub README | Thư viện youmind.com |
 |---------|--------------|---------------------|
-| 🎨 Bố cục trực quan | Linear list | Beautiful Masonry Grid |
-| 🔍 Tìm kiếm | Ctrl+F only | Full-text search with filters |
-| 🤖 AI One-Click Generation | - | AI one-click generation |
-| 📱 Di động | Basic | Fully responsive |
+| 🎨 Bố cục trực quan | Danh sách tuyến tính | Lưới masonry đẹp |
+| 🔍 Tìm kiếm | Chỉ Ctrl+F | Tìm kiếm toàn văn với bộ lọc |
+| 🤖 Tạo bằng AI một cú nhấp | - | Tạo bằng AI một cú nhấp |
+| 📱 Di động | Cơ bản | Hoàn toàn responsive |
 
 ---
 
@@ -49,26 +49,26 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 ## 🤔 Gemini 3 là gì?
 
-**Gemini 3** is Google's latest multimodal AI model featuring:
+**Gemini 3** là mô hình AI đa phương thức mới nhất của Google với các tính năng sau:
 
-- 🎯 **Massive Context Window** - Up to 1 million tokens for comprehensive understanding
-- 🎨 **Multimodal Intelligence** - Understand and generate text, images, audio, video, and code
-- ⚡ **Action-Oriented AI** - Automate execution and generate websites with real-time preview
-- 🌈 **Powerful Reasoning** - Advanced problem-solving and complex task handling
+- 🎯 **Cửa sổ ngữ cảnh lớn** - Lên đến 1 triệu token để hiểu toàn diện
+- 🎨 **Trí tuệ đa phương thức** - Hiểu và tạo văn bản, hình ảnh, âm thanh, video và mã
+- ⚡ **AI hướng hành động** - Tự động hóa thực thi và tạo trang web với xem trước thời gian thực
+- 🌈 **Lý luận mạnh mẽ** - Giải quyết vấn đề nâng cao và xử lý tác vụ phức tạp
 
-📚 **Learn More:** [Gemini 3: 10 Real Cases](https://youmind.com/blog/gemini-3-10-real-cases)
+📚 **Tìm hiểu thêm:** [Gemini 3: 10 trường hợp thực tế](https://youmind.com/blog/gemini-3-10-real-cases)
 
-### 🚀 Raycast Integration
+### 🚀 Tích hợp Raycast
 
-Some prompts support **dynamic arguments** using [Raycast Snippets](https://raycast.com/help/snippets) syntax. Look for the 🚀 Raycast Friendly badge!
+Một số câu lệnh hỗ trợ **đối số động** sử dụng cú pháp [Raycast Snippets](https://raycast.com/help/snippets). Tìm huy hiệu 🚀 Raycast Friendly!
 
-**Example:**
+**Ví dụ:**
 ```
 A quote card with "{argument name="quote" default="Stay hungry, stay foolish"}"
 by {argument name="author" default="Steve Jobs"}
 ```
 
-When used in Raycast, you can dynamically replace the arguments for quick iterations!
+Khi sử dụng trong Raycast, bạn có thể thay thế động các đối số để lặp lại nhanh chóng!
 
 ---
 
@@ -80,7 +80,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Tổng số câu lệnh | **4** |
 | ⭐ Nổi bật | **0** |
-| 🔄 Cập nhật lần cuối | **lúc 11:46:37 UTC Thứ Năm, 27 tháng 11, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 12:04:24 UTC Thứ Năm, 27 tháng 11, 2025** |
 
 </div>
 
@@ -88,7 +88,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 ## 📋 Tất cả câu lệnh
 
-> 📝 Sorted by publish date (newest first)
+> 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
 ### No. 1: Tạo 40 biểu tượng SVG đơn giản với nút tải xuống
 
@@ -175,7 +175,7 @@ Phong cách: {argument name="style_en" default="Apple/Linear-like Swiss modern s
 
 - **Tác giả:** [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen)
 - **Nguồn:** [Twitter Post](https://x.com/masahirochaen/status/1990905875104739689)
-- **Đã xuất bản:** 19 tháng 11, 2025
+- **Đã xuất bản:** 18 tháng 11, 2025
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0AD%E1%BB%B1a%20tr%C3%AAn%20%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%20%C4%91%C6%B0%E1%BB%A3c%20cung%20c%E1%BA%A5p%20sau%2C%20h%C3%A3y%20tu%C3%A2n%20th%E1%BB%A7%20nghi%C3%AAm%20ng%E1%BA%B7t%20c%C3%A1c%20th%C3%B4ng%20s%E1%BB%91%20k%E1%BB%B9%20thu%E1%BA%ADt%20sau%20v%C3%A0%20tri%E1%BB%83n%20khai%20m%E1%BB%99t%20trang%20%C4%91%C3%ADch%20ch%E1%BA%A5t%20l%C6%B0%E1%BB%A3ng%20h%C3%A0ng%20%C4%91%E1%BA%A7u%20b%E1%BA%B1ng%20React%20(m%E1%BB%99t%20t%E1%BB%87p).%0A%0A1.%20Kh%C3%A1i%20ni%E1%BB%87m%20thi%E1%BA%BFt%20k%E1%BA%BF%3A%20%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0APhong%20c%C3%A1ch%3A%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-like%20Swiss%20modern%20style%22%7D%2C%20lo%E1%BA%A1i%20b%E1%BB%8F%20c%C3%A1c%20y%E1%BA%BFu%20t%E1%BB%91%20trang%20tr%C3%AD%20v%C3%A0%20s%E1%BB%AD%20d%E1%BB%A5ng%20kho%E1%BA%A3ng%20tr%E1%BA%AFng%20c%C3%B9ng%20ki%E1%BB%83u%20ch%E1%BB%AF%20%C4%91%E1%BB%83%20t%E1%BA%A1o%20s%E1%BB%B1%20h%E1%BA%A5p%20d%E1%BA%ABn.)**
@@ -252,25 +252,25 @@ SVG của {argument name="city_skyline_en" default="đường chân trời New Y
 
 ## 🤝 Cách đóng góp
 
-We welcome contributions! You can submit prompts via:
+Chúng tôi hoan nghênh đóng góp! Bạn có thể gửi câu lệnh qua:
 
 ### 🐛 GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)
-2. Fill in the form with prompt details and image
-3. Submit and wait for team review
-4. If approved (we'll add `approved` label), it will automatically sync to CMS
-5. Your prompt will appear in README within 4 hours
+1. Click [**Gửi câu lệnh mới**](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)
+2. Điền vào biểu mẫu với chi tiết câu lệnh và hình ảnh
+3. Gửi và chờ đợi đánh giá của nhóm
+4. Nếu được phê duyệt (chúng tôi sẽ thêm nhãn `approved`), nó sẽ tự động đồng bộ với CMS
+5. Câu lệnh của bạn sẽ xuất hiện trong README trong vòng 4 giờ
 
-**Note:** We only accept submissions via GitHub Issues to ensure quality control.
+**Lưu ý:** Chúng tôi chỉ chấp nhận gửi qua GitHub Issues để đảm bảo kiểm soát chất lượng.
 
-See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for detailed guidelines.
+Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi tiết.
 
 ---
 
 ## 📄 Giấy phép
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Được cấp phép theo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ---
 
@@ -290,9 +290,9 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 <div align="center">
 
 **[🌐 Xem trong Thư viện Web](https://youmind.com/gemini-3-prompts)** •
-**[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
+**[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T11:46:37.337Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-11-27T12:04:24.508Z</sub>
 
 </div>

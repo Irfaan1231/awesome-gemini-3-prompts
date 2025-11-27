@@ -1,6 +1,6 @@
 # 🚀 Harika Gemini 3 İstemleri
 
-> 💡 **Note**: This repository was migrated from [awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts). If you're looking for Gemini 3 prompts, please visit the original repository.
+> 💡 **Note**: Nano Banana Pro görsel istemleriyle ilgileniyorsanız, 500'den fazla seçilmiş istem içeren diğer depomuzu kontrol etmekten çekinmeyin: https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
@@ -24,12 +24,12 @@
 
 Neden galerimizi kullanmalısınız?
 
-| Feature | GitHub README | youmind.com Gallery |
+| Feature | GitHub README | youmind.com Galerisi |
 |---------|--------------|---------------------|
-| 🎨 Görsel Düzen | Linear list | Beautiful Masonry Grid |
-| 🔍 Ara | Ctrl+F only | Full-text search with filters |
-| 🤖 AI One-Click Generation | - | AI one-click generation |
-| 📱 Mobil | Basic | Fully responsive |
+| 🎨 Görsel Düzen | Doğrusal liste | Güzel duvar örgüsü ızgara |
+| 🔍 Ara | Sadece Ctrl+F | Filtrelerle tam metin arama |
+| 🤖 Tek tıkla AI üretimi | - | Tek tıkla AI üretimi |
+| 📱 Mobil | Temel | Tamamen duyarlı |
 
 ---
 
@@ -49,26 +49,26 @@ Neden galerimizi kullanmalısınız?
 
 ## 🤔 Gemini 3 nedir?
 
-**Gemini 3** is Google's latest multimodal AI model featuring:
+**Gemini 3**, Google'ın aşağıdaki özelliklere sahip en yeni çok modlu AI modelidir:
 
-- 🎯 **Massive Context Window** - Up to 1 million tokens for comprehensive understanding
-- 🎨 **Multimodal Intelligence** - Understand and generate text, images, audio, video, and code
-- ⚡ **Action-Oriented AI** - Automate execution and generate websites with real-time preview
-- 🌈 **Powerful Reasoning** - Advanced problem-solving and complex task handling
+- 🎯 **Büyük Bağlam Penceresi** - Kapsamlı anlama için 1 milyona kadar token
+- 🎨 **Çok Modlu Zeka** - Metin, görüntü, ses, video ve kodu anlama ve üretme
+- ⚡ **Eylem Odaklı AI** - Otomatik yürütme ve gerçek zamanlı önizleme ile web siteleri oluşturma
+- 🌈 **Güçlü Akıl Yürütme** - Gelişmiş problem çözme ve karmaşık görev yönetimi
 
-📚 **Learn More:** [Gemini 3: 10 Real Cases](https://youmind.com/blog/gemini-3-10-real-cases)
+📚 **Daha fazla bilgi:** [Gemini 3: 10 gerçek vaka](https://youmind.com/blog/gemini-3-10-real-cases)
 
-### 🚀 Raycast Integration
+### 🚀 Raycast Entegrasyonu
 
-Some prompts support **dynamic arguments** using [Raycast Snippets](https://raycast.com/help/snippets) syntax. Look for the 🚀 Raycast Friendly badge!
+Bazı istemler [Raycast Snippets](https://raycast.com/help/snippets) sözdizimini kullanan **dinamik argümanları** destekler. 🚀 Raycast Friendly rozetini arayın!
 
-**Example:**
+**Örnek:**
 ```
 A quote card with "{argument name="quote" default="Stay hungry, stay foolish"}"
 by {argument name="author" default="Steve Jobs"}
 ```
 
-When used in Raycast, you can dynamically replace the arguments for quick iterations!
+Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik olarak değiştirebilirsiniz!
 
 ---
 
@@ -80,7 +80,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Toplam İstem | **4** |
 | ⭐ Öne Çıkan | **0** |
-| 🔄 Son Güncelleme | **27 Kasım 2025 Perşembe 11:46:42 UTC** |
+| 🔄 Son Güncelleme | **27 Kasım 2025 Perşembe 12:04:27 UTC** |
 
 </div>
 
@@ -88,7 +88,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 ## 📋 Tüm İstemler
 
-> 📝 Sorted by publish date (newest first)
+> 📝 Yayın tarihine göre sıralanmıştır (en yeni önce)
 
 ### No. 1: İndirme düğmeleriyle 40 basit SVG simgesi oluşturun
 
@@ -175,7 +175,7 @@ Stil: {argument name="style_en" default="Apple/Linear-like Swiss modern style"},
 
 - **Yazar:** [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen)
 - **Kaynak:** [Twitter Post](https://x.com/masahirochaen/status/1990905875104739689)
-- **Yayınlandı:** 19 Kasım 2025
+- **Yayınlandı:** 18 Kasım 2025
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0ADaha%20sonra%20sa%C4%9Flanacak%20olan%20%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%20temel%20al%C4%B1narak%2C%20a%C5%9Fa%C4%9F%C4%B1daki%20%C3%B6zelliklere%20kesinlikle%20uyarak%20React'te%20(tek%20dosya)%20y%C3%BCksek%20kaliteli%20bir%20a%C3%A7%C4%B1l%C4%B1%C5%9F%20sayfas%C4%B1%20uygulay%C4%B1n.%0A%0A1.%20Tasar%C4%B1m%20konsepti%3A%20%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0AStil%3A%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-like%20Swiss%20modern%20style%22%7D%2C%20dekorasyonu%20kald%C4%B1rarak%20ve%20%C3%A7ekicilik%20yaratmak%20i%C3%A7in%20bo%C5%9Fluk%20ve%20tipografi%20kullanarak.)**
@@ -252,25 +252,25 @@ Gemini'den, tek bir HTML dosyası olarak yapıştırılabilen ve Chrome'da açı
 
 ## 🤝 Nasıl Katkıda Bulunulur
 
-We welcome contributions! You can submit prompts via:
+Katkıları memnuniyetle karşılıyoruz! İstemleri şu yollarla gönderebilirsiniz:
 
 ### 🐛 GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)
-2. Fill in the form with prompt details and image
-3. Submit and wait for team review
-4. If approved (we'll add `approved` label), it will automatically sync to CMS
-5. Your prompt will appear in README within 4 hours
+1. Click [**Yeni istem gönder**](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)
+2. Formu istem detayları ve görsel ile doldurun
+3. Gönderin ve ekip incelemesini bekleyin
+4. Onaylanırsa (`approved` etiketini ekleyeceğiz), otomatik olarak CMS ile senkronize edilecektir
+5. İsteminiz 4 saat içinde README'de görünecektir
 
-**Note:** We only accept submissions via GitHub Issues to ensure quality control.
+**Not:** Kalite kontrolünü sağlamak için yalnızca GitHub Issues aracılığıyla gönderimleri kabul ediyoruz.
 
-See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for detailed guidelines.
+Ayrıntılı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına bakın.
 
 ---
 
 ## 📄 Lisans
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisanslanmıştır.
 
 ---
 
@@ -290,9 +290,9 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 <div align="center">
 
 **[🌐 Web galerisinde görüntüle](https://youmind.com/gemini-3-prompts)** •
-**[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
-**[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
+**[📝 Bir istem gönder](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
+**[⭐ Bu depoya yıldız ver](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-27T11:46:42.893Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-11-27T12:04:27.687Z</sub>
 
 </div>

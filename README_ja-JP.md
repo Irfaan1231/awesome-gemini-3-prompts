@@ -1,6 +1,6 @@
 # 🚀 Gemini 3 プロンプト集
 
-> 💡 **Note**: This repository was migrated from [awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts). If you're looking for Gemini 3 prompts, please visit the original repository.
+> 💡 **Note**: Nano Banana Pro の画像プロンプトに興味がある場合は、500以上の厳選されたプロンプトを含む別のリポジトリをご覧ください：https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub stars](https://img.shields.io/github/stars/YouMind-OpenLab/awesome-gemini-3-prompts?style=social)](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)
@@ -80,7 +80,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **4** |
 | ⭐ おすすめ | **0** |
-| 🔄 最終更新 | **2025年11月27日木曜日 11:46:35 UTC** |
+| 🔄 最終更新 | **2025年11月27日木曜日 12:04:23 UTC** |
 
 </div>
 
@@ -175,7 +175,7 @@ Gemini に、厳格な仕様に従い、スイスモダンと弁当箱レイア�
 
 - **作者:** [チャエン | デジライズ CEO《重要AIニュースを毎日最速で発信⚡️》](https://x.com/masahirochaen)
 - **ソース:** [Twitter Post](https://x.com/masahirochaen/status/1990905875104739689)
-- **公開日:** 2025年11月19日
+- **公開日:** 2025年11月18日
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/gemini-3-prompts?prompt=%7Bargument%20name%3D%22generator_name_en%22%20default%3D%22High-End%20LP%20Generator%20(Swiss%20Style)%22%7D%0A%0A%E5%BE%8C%E3%81%BB%E3%81%A9%E6%8F%90%E4%BE%9B%E3%81%95%E3%82%8C%E3%82%8B%20%7Bargument%20name%3D%22input_text_en%22%20default%3D%22Input%20Text%22%7D%20%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8D%E3%80%81%E4%BB%A5%E4%B8%8B%E3%81%AE%E4%BB%95%E6%A7%98%E3%81%AB%E5%8E%B3%E5%AF%86%E3%81%AB%E5%BE%93%E3%81%84%E3%80%81React%20%E3%81%A7%E9%AB%98%E5%93%81%E8%B3%AA%E3%81%AA%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%9A%E3%83%BC%E3%82%B8%EF%BC%88%E5%8D%98%E4%B8%80%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%EF%BC%89%E3%82%92%E5%AE%9F%E8%A3%85%E3%81%97%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82%0A%0A1.%20%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88%3A%20%7Bargument%20name%3D%22design_concept_en%22%20default%3D%22Swiss%20Modern%20%26%20Bento%22%7D%0A%0A%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%3A%20%7Bargument%20name%3D%22style_en%22%20default%3D%22Apple%2FLinear-like%20Swiss%20modern%20style%22%7D%E3%80%82%E8%A3%85%E9%A3%BE%E3%82%92%E6%8E%92%E3%81%97%E3%80%81%E4%BD%99%E7%99%BD%E3%81%A8%E3%82%BF%E3%82%A4%E3%83%9D%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%82%92%E7%94%A8%E3%81%84%E3%81%A6%E9%AD%85%E5%8A%9B%E3%82%92%E5%89%B5%E5%87%BA%E3%81%97%E3%81%BE%E3%81%99%E3%80%82)**
@@ -293,6 +293,6 @@ Gemini 3.0 Pro に、ウェブページや UI コンポーネントに埋め込�
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2025-11-27T11:46:35.779Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2025-11-27T12:04:23.282Z</sub>
 
 </div>
