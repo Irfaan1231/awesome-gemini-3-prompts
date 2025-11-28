@@ -20,6 +20,14 @@
 
 ## 🌐 在网页图库中查看
 
+<div align="center">
+
+<img src="images/gemini-3-prompts-cover-zh.png" alt="Gemini 3 Prompts Cover" width="800">
+
+<img src="images/gemini-3-prompts-list-zh.png" alt="Gemini 3 Prompts List" width="800">
+
+</div>
+
 **[👉 浏览 YouMind Gemini 3 提示词图库](https://youmind.com/gemini-3-prompts)**
 
 为什么使用图库？
@@ -80,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **50** |
 | ⭐ 精选 | **0** |
-| 🔄 最后更新 | **2025年11月28日星期五 UTC 01:50:07** |
+| 🔄 最后更新 | **2025年11月28日星期五 UTC 02:47:53** |
 
 </div>
 
@@ -1899,6 +1907,6 @@ PBR 材质着色器（粗糙度、金属度、AO）
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2025-11-28T01:50:07.990Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2025-11-28T02:47:53.416Z</sub>
 
 </div>

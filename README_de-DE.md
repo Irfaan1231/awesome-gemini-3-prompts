@@ -20,6 +20,14 @@
 
 ## 🌐 In Web-Galerie ansehen
 
+<div align="center">
+
+<img src="images/gemini-3-prompts-cover-en.png" alt="Gemini 3 Prompts Cover" width="800">
+
+<img src="images/gemini-3-prompts-list-en.png" alt="Gemini 3 Prompts List" width="800">
+
+</div>
+
 **[👉 Auf YouMind Gemini 3 Prompt-Galerie stöbern](https://youmind.com/gemini-3-prompts)**
 
 Warum unsere Galerie nutzen?
@@ -80,7 +88,7 @@ Wenn Sie Raycast verwenden, können Sie die Argumente dynamisch ersetzen, um sch
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **50** |
 | ⭐ Ausgewählt | **0** |
-| 🔄 Zuletzt aktualisiert | **Freitag, 28. November 2025 um 01:50:10 UTC** |
+| 🔄 Zuletzt aktualisiert | **Freitag, 28. November 2025 um 02:47:55 UTC** |
 
 </div>
 
@@ -1900,6 +1908,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Einen Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit einem Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-11-28T01:50:10.178Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2025-11-28T02:47:55.252Z</sub>
 
 </div>
