@@ -80,7 +80,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **50** |
 | ⭐ 精選 | **0** |
-| 🔄 最後更新 | **2025年11月27日 星期四 晚上8:24:05 [UTC]** |
+| 🔄 最後更新 | **2025年11月28日 星期五 凌晨1:50:08 [UTC]** |
 
 </div>
 
@@ -1899,6 +1899,6 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-11-27T20:24:05.489Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-11-28T01:50:08.224Z</sub>
 
 </div>
