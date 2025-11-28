@@ -168,9 +168,9 @@ function generateGalleryCTA(locale: string): string {
 
 <div align="center">
 
-<img src="images/gemini-3-prompts-cover-${imageLang}.png" alt="Gemini 3 Prompts Cover" width="800">
+<img src="public/images/gemini-3-prompts-cover-${imageLang}.png" alt="Gemini 3 Prompts Cover" width="800">
 
-<img src="images/gemini-3-prompts-list-${imageLang}.png" alt="Gemini 3 Prompts List" width="800">
+<img src="public/images/gemini-3-prompts-list-${imageLang}.png" alt="Gemini 3 Prompts List" width="800">
 
 </div>
 
