@@ -161,7 +161,18 @@ function generateLanguageNavigation(currentLocale: string): string {
 }
 
 function generateGalleryCTA(locale: string): string {
+  // 判断使用 zh 还是 en 的图片
+  const imageLang = locale.startsWith('zh') ? 'zh' : 'en';
+  
   return `## 🌐 ${t('viewInGallery', locale)}
+
+<div align="center">
+
+<img src="images/gemini-3-prompts-cover-${imageLang}.png" alt="Gemini 3 Prompts Cover" width="800">
+
+<img src="images/gemini-3-prompts-list-${imageLang}.png" alt="Gemini 3 Prompts List" width="800">
+
+</div>
 
 **[${t('browseGallery', locale)}](https://youmind.com/gemini-3-prompts)**
 
