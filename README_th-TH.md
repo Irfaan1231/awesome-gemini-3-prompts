@@ -22,9 +22,9 @@
 
 <div align="center">
 
-<img src="images/gemini-3-prompts-cover-en.png" alt="Gemini 3 Prompts Cover" width="800">
+<img src="public/images/gemini-3-prompts-cover-en.png" alt="Gemini 3 Prompts Cover" width="800">
 
-<img src="images/gemini-3-prompts-list-en.png" alt="Gemini 3 Prompts List" width="800">
+<img src="public/images/gemini-3-prompts-list-en.png" alt="Gemini 3 Prompts List" width="800">
 
 </div>
 
@@ -88,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **50** |
 | ⭐ แนะนำ | **0** |
-| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 28 พฤศจิกายน พ.ศ. 2568 เวลา 2 นาฬิกา 47 นาที 53 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 28 พฤศจิกายน พ.ศ. 2568 เวลา 2 นาฬิกา 53 นาที 02 วินาที UTC** |
 
 </div>
 
@@ -1907,6 +1907,6 @@ SVG ของ {argument name="city_skyline_en" default="เส้นขอบฟ
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บข้อมูลนี้](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2025-11-28T02:47:53.999Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2025-11-28T02:53:02.965Z</sub>
 
 </div>

@@ -22,9 +22,9 @@
 
 <div align="center">
 
-<img src="images/gemini-3-prompts-cover-en.png" alt="Gemini 3 Prompts Cover" width="800">
+<img src="public/images/gemini-3-prompts-cover-en.png" alt="Gemini 3 Prompts Cover" width="800">
 
-<img src="images/gemini-3-prompts-list-en.png" alt="Gemini 3 Prompts List" width="800">
+<img src="public/images/gemini-3-prompts-list-en.png" alt="Gemini 3 Prompts List" width="800">
 
 </div>
 
@@ -88,7 +88,7 @@ Raycast में उपयोग करते समय, त्वरित प
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **50** |
 | ⭐ विशेष | **0** |
-| 🔄 अंतिम अपडेट | **शुक्रवार, 28 नवंबर 2025 को 2:47:54 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **शुक्रवार, 28 नवंबर 2025 को 2:53:03 am UTC बजे** |
 
 </div>
 
@@ -1908,6 +1908,6 @@ three.js में एक सीन बनाएँ।
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से उत्पन्न होता है। अंतिम अपडेट: 2025-11-28T02:47:54.289Z</sub>
+<sub>🤖 यह README स्वचालित रूप से उत्पन्न होता है। अंतिम अपडेट: 2025-11-28T02:53:03.504Z</sub>
 
 </div>

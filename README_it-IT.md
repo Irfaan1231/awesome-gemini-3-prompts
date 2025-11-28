@@ -22,9 +22,9 @@
 
 <div align="center">
 
-<img src="images/gemini-3-prompts-cover-en.png" alt="Gemini 3 Prompts Cover" width="800">
+<img src="public/images/gemini-3-prompts-cover-en.png" alt="Gemini 3 Prompts Cover" width="800">
 
-<img src="images/gemini-3-prompts-list-en.png" alt="Gemini 3 Prompts List" width="800">
+<img src="public/images/gemini-3-prompts-list-en.png" alt="Gemini 3 Prompts List" width="800">
 
 </div>
 
@@ -88,7 +88,7 @@ Quando si usa in Raycast, puoi sostituire dinamicamente gli argomenti per iteraz
 |--------|-------|
 | 📝 Totale prompt | **50** |
 | ⭐ In evidenza | **0** |
-| 🔄 Ultimo aggiornamento | **venerdì 28 novembre 2025 alle ore 02:47:56 UTC** |
+| 🔄 Ultimo aggiornamento | **venerdì 28 novembre 2025 alle ore 02:53:04 UTC** |
 
 </div>
 
@@ -1908,6 +1908,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dai una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-11-28T02:47:56.070Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-11-28T02:53:04.907Z</sub>
 
 </div>

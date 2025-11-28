@@ -22,9 +22,9 @@
 
 <div align="center">
 
-<img src="images/gemini-3-prompts-cover-en.png" alt="Gemini 3 Prompts Cover" width="800">
+<img src="public/images/gemini-3-prompts-cover-en.png" alt="Gemini 3 Prompts Cover" width="800">
 
-<img src="images/gemini-3-prompts-list-en.png" alt="Gemini 3 Prompts List" width="800">
+<img src="public/images/gemini-3-prompts-list-en.png" alt="Gemini 3 Prompts List" width="800">
 
 </div>
 
@@ -88,7 +88,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **50** |
 | ⭐ Nổi bật | **0** |
-| 🔄 Cập nhật lần cuối | **lúc 02:47:54 UTC Thứ Sáu, 28 tháng 11, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 02:53:03 UTC Thứ Sáu, 28 tháng 11, 2025** |
 
 </div>
 
@@ -1909,6 +1909,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-11-28T02:47:54.140Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-11-28T02:53:03.256Z</sub>
 
 </div>
