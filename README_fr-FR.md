@@ -88,7 +88,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **50** |
 | ⭐ En vedette | **0** |
-| 🔄 Dernière mise à jour | **lundi 1 décembre 2025 à 02:11:05 UTC** |
+| 🔄 Dernière mise à jour | **lundi 1 décembre 2025 à 04:52:35 UTC** |
 
 </div>
 
@@ -1908,6 +1908,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-01T02:11:05.623Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-01T04:52:35.319Z</sub>
 
 </div>
