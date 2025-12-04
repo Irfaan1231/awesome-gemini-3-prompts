@@ -88,7 +88,7 @@ Quando si usa in Raycast, puoi sostituire dinamicamente gli argomenti per iteraz
 |--------|-------|
 | 📝 Totale prompt | **50** |
 | ⭐ In evidenza | **0** |
-| 🔄 Ultimo aggiornamento | **mercoledì 3 dicembre 2025 alle ore 20:28:55 UTC** |
+| 🔄 Ultimo aggiornamento | **giovedì 4 dicembre 2025 alle ore 01:55:21 UTC** |
 
 </div>
 
@@ -1908,6 +1908,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dai una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-03T20:28:55.296Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2025-12-04T01:55:21.536Z</sub>
 
 </div>
