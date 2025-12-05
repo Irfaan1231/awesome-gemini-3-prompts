@@ -80,8 +80,6 @@ body:
       label: Source Link
       description: Original post/tweet URL
       placeholder: "https://x.com/username/status/..."
-    validations:
-      required: true
 
   - type: dropdown
     id: language
