@@ -53,7 +53,7 @@ export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
   { code: 'tr-TR', name: 'Türkçe', readmeFileName: 'README_tr-TR.md' },
 ];
 
-const MAX_REGULAR_PROMPTS_TO_DISPLAY = 200;
+const MAX_REGULAR_PROMPTS_TO_DISPLAY = 150;
 
 /**
  * 清理提示词内容中的代码块标记
