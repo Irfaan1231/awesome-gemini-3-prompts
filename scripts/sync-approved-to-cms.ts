@@ -16,30 +16,24 @@ interface IssueFields {
   language?: string;
 }
 
-// 语言名称到语言代码的映射
+// 语言名称到语言代码的映射（17种语言）
 const LANGUAGE_MAP: Record<string, string> = {
   'English': 'en',
   'Chinese (中文)': 'zh',
-  'Japanese (日本語)': 'ja',
-  'Korean (한국어)': 'ko',
-  'Spanish (Español)': 'es',
-  'French (Français)': 'fr',
-  'German (Deutsch)': 'de',
-  'Italian (Italiano)': 'it',
-  'Portuguese (Português)': 'pt',
-  'Russian (Русский)': 'ru',
-  'Arabic (العربية)': 'ar',
-  'Hindi (हिन्दी)': 'hi',
-  'Thai (ไทย)': 'th',
-  'Vietnamese (Tiếng Việt)': 'vi',
-  'Indonesian (Bahasa Indonesia)': 'id',
-  'Turkish (Türkçe)': 'tr',
-  'Polish (Polski)': 'pl',
-  'Dutch (Nederlands)': 'nl',
-  'Swedish (Svenska)': 'sv',
-  'Norwegian (Norsk)': 'no',
-  'Danish (Dansk)': 'da',
-  'Finnish (Suomi)': 'fi',
+  'Traditional Chinese (繁體中文)': 'zh-TW',
+  'Japanese (日本語)': 'ja-JP',
+  'Korean (한국어)': 'ko-KR',
+  'Thai (ไทย)': 'th-TH',
+  'Vietnamese (Tiếng Việt)': 'vi-VN',
+  'Hindi (हिन्दी)': 'hi-IN',
+  'Spanish (Español)': 'es-ES',
+  'Latin American Spanish (Español Latinoamérica)': 'es-419',
+  'German (Deutsch)': 'de-DE',
+  'French (Français)': 'fr-FR',
+  'Italian (Italiano)': 'it-IT',
+  'Brazilian Portuguese (Português do Brasil)': 'pt-BR',
+  'European Portuguese (Português)': 'pt-PT',
+  'Turkish (Türkçe)': 'tr-TR',
 };
 
 function parseLanguage(languageName: string): string {

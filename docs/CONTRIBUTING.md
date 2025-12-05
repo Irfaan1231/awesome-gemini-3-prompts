@@ -2,8 +2,6 @@
 
 Thank you for your interest in contributing! This guide will help you submit your prompts.
 
-[中文版本](CONTRIBUTING_ZH.md)
-
 ## 📋 Table of Contents
 
 - [Ways to Contribute](#ways-to-contribute)
@@ -40,7 +38,7 @@ We only accept contributions via GitHub Issues to ensure quality control and con
 - **Images**: One or multiple high-quality results (one URL per line)
 - **Author**: Original creator's name and link
 - **Source**: Link to original post/tweet
-- **Language**: Prompt's language (supports 20+ languages)
+- **Language**: Prompt's language (supports 17 languages)
 
 ### Image Requirements
 
@@ -53,7 +51,7 @@ We only accept contributions via GitHub Issues to ensure quality control and con
 
 ### Supported Languages
 
-English, Chinese, Japanese, Korean, Spanish, French, German, Italian, Portuguese, Russian, Arabic, Hindi, Thai, Vietnamese, Indonesian, Turkish, Polish, Dutch, Swedish, Norwegian, Danish, Finnish
+English (en), Simplified Chinese (zh), Traditional Chinese (zh-TW), Japanese (ja-JP), Korean (ko-KR), Thai (th-TH), Vietnamese (vi-VN), Hindi (hi-IN), Spanish (es-ES), Latin American Spanish (es-419), German (de-DE), French (fr-FR), Italian (it-IT), Brazilian Portuguese (pt-BR), European Portuguese (pt-PT), Turkish (tr-TR)
 
 ### Quality Standards
 
@@ -91,7 +89,7 @@ By contributing, you agree to:
 
 ## ❓ Questions?
 
-- 📧 Email: prompts@youmind.com
+- 📧 Email: contact@youmind.ai
 - 💬 Discussions: [GitHub Discussions](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/discussions)
 - 🐛 Issues: [Report a problem](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues)
 
