@@ -1,4 +1,4 @@
-name: 🍌 Submit a Prompt
+name: Submit a Prompt
 description: Share your creative Gemini 3 prompt
 title: "[Prompt] <Short Title>"
 labels: ["prompt-submission"]
@@ -45,6 +45,17 @@ body:
       placeholder: "This prompt generates..."
     validations:
       required: true
+  
+  - type: dropdown
+    id: need_reference_images
+    attributes:
+      label: Need Reference Images
+      description: Does this prompt require user to input images?
+      options:
+        - "false"
+        - "true"
+    validations:
+      required: false
 
   - type: textarea
     id: image_urls
@@ -85,7 +96,7 @@ body:
     id: language
     attributes:
       label: Prompt Language
-      description: What language is the prompt in? (17 languages supported)
+      description: What language is the prompt in?
       options:
         - English
         - Chinese (中文)
