@@ -146,7 +146,7 @@ export async function fetchAllPrompts(
     locale,
     where: {
       model: {
-        equals: "nano-banana-pro",
+        equals: "gemini-3-pro",
       },
     },
   };
@@ -237,7 +237,7 @@ export async function findPromptByGitHubIssue(
         equals: issueNumber,
       },
       model: {
-        equals: "nano-banana-pro",
+        equals: "gemini-3-pro",
       },
     },
   };
