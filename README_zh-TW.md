@@ -88,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示詞總數 | **50** |
 | ⭐ 精選 | **0** |
-| 🔄 最後更新 | **2025年12月11日 星期四 中午12:39:41 [UTC]** |
+| 🔄 最後更新 | **2025年12月11日 星期四 下午4:26:12 [UTC]** |
 
 </div>
 
@@ -118,7 +118,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209199931_ydctkh_ardodAtG20ci8f5l.jpg" width="600" alt="感恩節查理布朗主題商店 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209199931_ydctkh_ardodAtG20ci8f5l.jpg" width="600" alt="感恩節查理布朗主題商店 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -152,7 +152,7 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209188519_6bfhcw_4pj5ZhLxXweIHBF7.jpg" width="600" alt="AI 遊戲的未來感動畫登陸頁面 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209188519_6bfhcw_4pj5ZhLxXweIHBF7.jpg" width="600" alt="AI 遊戲的未來感動畫登陸頁面 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -190,19 +190,19 @@ by {argument name="author" default="Steve Jobs"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255462009_uhh5bg_G6QfnjjacAgZb_r.jpg" width="600" alt="Hello world 網頁，具有 Linear 風格的變體 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255462009_uhh5bg_G6QfnjjacAgZb_r.jpg" width="600" alt="Hello world 網頁，具有 Linear 風格的變體 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255465710_4a3clb_G6QfvcXaAAAhcf6.jpg" width="600" alt="Hello world 網頁，具有 Linear 風格的變體 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764255465710_4a3clb_G6QfvcXaAAAhcf6.jpg" width="600" alt="Hello world 網頁，具有 Linear 風格的變體 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255468357_cf0sk3_G6QgI2RacAAPjCl.jpg" width="600" alt="Hello world 網頁，具有 Linear 風格的變體 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1764255468357_cf0sk3_G6QgI2RacAAPjCl.jpg" width="600" alt="Hello world 網頁，具有 Linear 風格的變體 - Image 3">
 </div>
 
 #### 📌 詳情
@@ -258,7 +258,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209263817_ppwln2_Fki2iITrOE6gCPlf.jpg" width="600" alt="奢華 3D 手錶產品體驗頁面 (Next.js + Three.js) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209263817_ppwln2_Fki2iITrOE6gCPlf.jpg" width="600" alt="奢華 3D 手錶產品體驗頁面 (Next.js + Three.js) - Image 1">
 </div>
 
 #### 📌 詳情
@@ -292,7 +292,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209194824_ts6ken_jsGpVuIdSwPESSnR.jpg" width="600" alt="俏皮的薩爾達影片擷取編輯器提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209194824_ts6ken_jsGpVuIdSwPESSnR.jpg" width="600" alt="俏皮的薩爾達影片擷取編輯器提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -332,7 +332,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209174368_jdx5gi_6A51eMDR7nvxQOPd.jpg" width="600" alt="豪華智慧手錶 Three.js 動畫區塊登陸頁面 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209174368_jdx5gi_6A51eMDR7nvxQOPd.jpg" width="600" alt="豪華智慧手錶 Three.js 動畫區塊登陸頁面 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -366,7 +366,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209262445_mf7cya_G6MWd-wbsAAKYiw.jpg" width="600" alt="產生 40 個帶有下載按鈕的簡單 SVG 圖示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209262445_mf7cya_G6MWd-wbsAAKYiw.jpg" width="600" alt="產生 40 個帶有下載按鈕的簡單 SVG 圖示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -402,7 +402,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209216678_bb9sac_N3NTnsH6x0dVwRpf.jpg" width="600" alt="體素藝術寶塔花園單一 HTML 場景 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209216678_bb9sac_N3NTnsH6x0dVwRpf.jpg" width="600" alt="體素藝術寶塔花園單一 HTML 場景 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -435,7 +435,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209220218_kppymm_mu18egPuhdhyynBc.jpg" width="600" alt="未來感十足的加密貨幣儀表板 UI - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209220218_kppymm_mu18egPuhdhyynBc.jpg" width="600" alt="未來感十足的加密貨幣儀表板 UI - Image 1">
 </div>
 
 #### 📌 詳情
@@ -468,7 +468,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209214086_7c83l2_fGU454kI2vu8dFjI.jpg" width="600" alt="HTML 中的 SVG 摩天輪機械動畫 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209214086_7c83l2_fGU454kI2vu8dFjI.jpg" width="600" alt="HTML 中的 SVG 摩天輪機械動畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -501,7 +501,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209217106_6fmlu1_3SnhTqXry41EUPsg.jpg" width="600" alt="Keep-inspired 中文健身課程網站 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209217106_6fmlu1_3SnhTqXry41EUPsg.jpg" width="600" alt="Keep-inspired 中文健身課程網站 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -534,7 +534,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209210820_oxsdtd_JD0qwSM30jXTVCtO.jpg" width="600" alt="Keep 風格的中文健身頁面 (單一 HTML) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209210820_oxsdtd_JD0qwSM30jXTVCtO.jpg" width="600" alt="Keep 風格的中文健身頁面 (單一 HTML) - Image 1">
 </div>
 
 #### 📌 詳情
@@ -567,7 +567,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209207369_aa3rub_Com2rFXK131nN-WJ.jpg" width="600" alt="新粗野主義網站設計提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209207369_aa3rub_Com2rFXK131nN-WJ.jpg" width="600" alt="新粗野主義網站設計提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -600,7 +600,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209203730_z4nncu_80rs2O9LInawTSTj.jpg" width="600" alt="復古拍立得相機網站與照片牆 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209203730_z4nncu_80rs2O9LInawTSTj.jpg" width="600" alt="復古拍立得相機網站與照片牆 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -633,7 +633,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209238976_et7ieq_7pJ4fC5sdbhGHT7S.jpg" width="600" alt="塔羅牌風格的解夢日誌網路應用程式 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209238976_et7ieq_7pJ4fC5sdbhGHT7S.jpg" width="600" alt="塔羅牌風格的解夢日誌網路應用程式 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -670,7 +670,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209267012_gx9du5_eHxLjy9ur6Zi0Prr.jpg" width="600" alt="搭載 Gemini 和 React 的 3D 磚塊建造應用程式 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209267012_gx9du5_eHxLjy9ur6Zi0Prr.jpg" width="600" alt="搭載 Gemini 和 React 的 3D 磚塊建造應用程式 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -704,7 +704,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209223074_p70pfd_LqvLh0zCSYOy3-VE.jpg" width="600" alt="X (Twitter) MBTI 分析器網路應用程式 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209223074_p70pfd_LqvLh0zCSYOy3-VE.jpg" width="600" alt="X (Twitter) MBTI 分析器網路應用程式 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -737,7 +737,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg" width="600" alt="AI 漢服衣櫥虛擬試穿應用程式 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg" width="600" alt="AI 漢服衣櫥虛擬試穿應用程式 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -771,7 +771,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209243747_6zn4ng_st6US49_VK2ldIvf.jpg" width="600" alt="復古 Motorola Fix Beeper 打字機網路應用程式 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209243747_6zn4ng_st6US49_VK2ldIvf.jpg" width="600" alt="復古 Motorola Fix Beeper 打字機網路應用程式 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -805,7 +805,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209254334_uu21fi_fDJNuJlmTIVYVYvr.jpg" width="600" alt="希臘神話星座中文網路應用程式 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209254334_uu21fi_fDJNuJlmTIVYVYvr.jpg" width="600" alt="希臘神話星座中文網路應用程式 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -839,7 +839,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209237338_qmtoz8_2y43kqiU39gDRcwd.jpg" width="600" alt="賽博風格現代黃曆網路應用程式 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209237338_qmtoz8_2y43kqiU39gDRcwd.jpg" width="600" alt="賽博風格現代黃曆網路應用程式 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -872,7 +872,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209224660_q703c0_3hoHx30nVZ5b8yyw.jpg" width="600" alt="復古拍立得風格相機網路應用程式 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209224660_q703c0_3hoHx30nVZ5b8yyw.jpg" width="600" alt="復古拍立得風格相機網路應用程式 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -906,7 +906,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255462517_0xbgr4_8CEmdG0IihE4XzEk.jpg" width="600" alt="極繁主義數位熱狗新創公司網站 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255462517_0xbgr4_8CEmdG0IihE4XzEk.jpg" width="600" alt="極繁主義數位熱狗新創公司網站 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -940,7 +940,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209159016_6yk3yw_TCUAUpzJbxn8xmOV.jpg" width="600" alt="使用 Three.js 製作的 Raymarched Mandelbulb 碎形，帶有音訊反應粒子 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209159016_6yk3yw_TCUAUpzJbxn8xmOV.jpg" width="600" alt="使用 Three.js 製作的 Raymarched Mandelbulb 碎形，帶有音訊反應粒子 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -974,7 +974,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209176859_vznbt0_UPKTu2bYW7AZTCBs.jpg" width="600" alt="為客戶 AP 打造的代理商風格網站 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209176859_vznbt0_UPKTu2bYW7AZTCBs.jpg" width="600" alt="為客戶 AP 打造的代理商風格網站 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1009,7 +1009,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255461636_mdlo2t_TrOA856i8yUthOuI.jpg" width="600" alt="使用 Mediapipe 和 Three.js 實現雷射眼效果網頁示範 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255461636_mdlo2t_TrOA856i8yUthOuI.jpg" width="600" alt="使用 Mediapipe 和 Three.js 實現雷射眼效果網頁示範 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1043,7 +1043,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255475793_hdfpvg_nCOFPLDKO3ls9qTb.jpg" width="600" alt="Three.js 版 Minecraft 生存模式複製品 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255475793_hdfpvg_nCOFPLDKO3ls9qTb.jpg" width="600" alt="Three.js 版 Minecraft 生存模式複製品 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1081,7 +1081,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255470380_e6ucvk_ubnvLR01M37lxkrV.jpg" width="600" alt="具備互動式響應式設計的企業登陸頁面 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255470380_e6ucvk_ubnvLR01M37lxkrV.jpg" width="600" alt="具備互動式響應式設計的企業登陸頁面 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1115,7 +1115,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209241902_949ick_ne0FJRQI-oGbGgfq.jpg" width="600" alt="中國傳統色彩每日網頁應用程式 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209241902_949ick_ne0FJRQI-oGbGgfq.jpg" width="600" alt="中國傳統色彩每日網頁應用程式 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1149,7 +1149,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg" width="600" alt="單一 HTML 檔案中的網頁版 Word 類富文本編輯器 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg" width="600" alt="單一 HTML 檔案中的網頁版 Word 類富文本編輯器 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1184,7 +1184,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209256210_9yuf3c_nSwhmffYWeL8BVnG.jpg" width="600" alt="中文 Twitter KOL 排行榜登陸頁面 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209256210_9yuf3c_nSwhmffYWeL8BVnG.jpg" width="600" alt="中文 Twitter KOL 排行榜登陸頁面 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1218,7 +1218,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209248163_oeazqe_wznIvkBORVz7dPEt.jpg" width="600" alt="英文繪本學習網路應用程式 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209248163_oeazqe_wznIvkBORVz7dPEt.jpg" width="600" alt="英文繪本學習網路應用程式 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1251,7 +1251,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="電容式觸控螢幕原理動畫 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="電容式觸控螢幕原理動畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1285,7 +1285,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209245189_xk7l00_GCkbyVRynHwDSc_u.jpg" width="600" alt="抖音推薦演算法演示動畫 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209245189_xk7l00_GCkbyVRynHwDSc_u.jpg" width="600" alt="抖音推薦演算法演示動畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1318,7 +1318,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209182169_3uxnqx_S4oQ9lQndCTR9dpO.jpg" width="600" alt="多級齒輪連動系統動畫 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209182169_3uxnqx_S4oQ9lQndCTR9dpO.jpg" width="600" alt="多級齒輪連動系統動畫 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1351,7 +1351,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209251231_c47kvt_f7sUEhYX0T-TA08T.jpg" width="600" alt="具爆炸性視覺效果的視差滾動首頁 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209251231_c47kvt_f7sUEhYX0T-TA08T.jpg" width="600" alt="具爆炸性視覺效果的視差滾動首頁 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1391,25 +1391,25 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg" width="600" alt="React 高端瑞士風格登陸頁面產生器 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg" width="600" alt="React 高端瑞士風格登陸頁面產生器 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209185261_u9bsts_G6EeVogaQAA3ryy.jpg" width="600" alt="React 高端瑞士風格登陸頁面產生器 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764209185261_u9bsts_G6EeVogaQAA3ryy.jpg" width="600" alt="React 高端瑞士風格登陸頁面產生器 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209191329_c5zs4w_G6EeVp2bMAIw9A4.jpg" width="600" alt="React 高端瑞士風格登陸頁面產生器 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1764209191329_c5zs4w_G6EeVp2bMAIw9A4.jpg" width="600" alt="React 高端瑞士風格登陸頁面產生器 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209194378_bqwb5i_G6EeVp7bkAA4BZ9.jpg" width="600" alt="React 高端瑞士風格登陸頁面產生器 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1764209194378_bqwb5i_G6EeVp7bkAA4BZ9.jpg" width="600" alt="React 高端瑞士風格登陸頁面產生器 - Image 4">
 </div>
 
 #### 📌 詳情
@@ -1442,7 +1442,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg" width="600" alt="玻璃擬態霓虹介面 UI - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg" width="600" alt="玻璃擬態霓虹介面 UI - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1475,7 +1475,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209230976_s1ev99_jNGZl2r_QttuS_eV.jpg" width="600" alt="Tesla FSD 道路識別的互動式 SVG 示範 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209230976_s1ev99_jNGZl2r_QttuS_eV.jpg" width="600" alt="Tesla FSD 道路識別的互動式 SVG 示範 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1509,7 +1509,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209164010_kfcr6v_UVP2rlimdiU6iAGm.jpg" width="600" alt="重新打造 GitHub 的 React 專案頁面 UI - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209164010_kfcr6v_UVP2rlimdiU6iAGm.jpg" width="600" alt="重新打造 GitHub 的 React 專案頁面 UI - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1546,7 +1546,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg" width="600" alt="Three.js 博物館導覽場景 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg" width="600" alt="Three.js 博物館導覽場景 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1579,7 +1579,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209269076_pv0z04_ViPc6k-OigB0DvZy.jpg" width="600" alt="從圖片生成 Voxel 藝術 three.js 場景提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209269076_pv0z04_ViPc6k-OigB0DvZy.jpg" width="600" alt="從圖片生成 Voxel 藝術 three.js 場景提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1613,7 +1613,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg" width="600" alt="具備混亂與還原控制項的 3D 魔術方塊網路應用程式 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg" width="600" alt="具備混亂與還原控制項的 3D 魔術方塊網路應用程式 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1647,7 +1647,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209226668_w793aq_M4xeFftoGPdIXQ73.jpg" width="600" alt="Gemini 中類似 CapCut 的影片編輯器 UI - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209226668_w793aq_M4xeFftoGPdIXQ73.jpg" width="600" alt="Gemini 中類似 CapCut 的影片編輯器 UI - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1681,7 +1681,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209229502_z8h43e_Sfw2XxjctaA-jcVN.jpg" width="600" alt="單一檔案 HTML 撞球遊戲 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209229502_z8h43e_Sfw2XxjctaA-jcVN.jpg" width="600" alt="單一檔案 HTML 撞球遊戲 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1715,7 +1715,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209232746_9r9qr8_6ATKtxR2C-Z_bgH4.jpg" width="600" alt="Quantum core 監控單頁 HTML - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209232746_9r9qr8_6ATKtxR2C-Z_bgH4.jpg" width="600" alt="Quantum core 監控單頁 HTML - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1748,7 +1748,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209260950_8uv2vi_xRfGc1qs6KNG9LQh.jpg" width="600" alt="動態點雲狹義相對論網頁 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209260950_8uv2vi_xRfGc1qs6KNG9LQh.jpg" width="600" alt="動態點雲狹義相對論網頁 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1782,7 +1782,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg" width="600" alt="單一檔案的 Xbox 控制器 SVG - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg" width="600" alt="單一檔案的 Xbox 控制器 SVG - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1816,7 +1816,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg" width="600" alt="新粗野主義網頁生成提示 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg" width="600" alt="新粗野主義網頁生成提示 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1850,7 +1850,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209201317_tgxusr_G3Yz3dKWkAAp-iS.jpg" width="600" alt="紐約天際線 SVG 單一 HTML 場景 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209201317_tgxusr_G3Yz3dKWkAAp-iS.jpg" width="600" alt="紐約天際線 SVG 單一 HTML 場景 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1907,6 +1907,6 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-12-11T12:39:41.755Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-12-11T16:26:12.498Z</sub>
 
 </div>

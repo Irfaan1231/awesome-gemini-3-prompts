@@ -88,7 +88,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 |--------|-------|
 | 📝 プロンプト総数 | **50** |
 | ⭐ おすすめ | **0** |
-| 🔄 最終更新 | **2025年12月11日木曜日 12:39:42 UTC** |
+| 🔄 最終更新 | **2025年12月11日木曜日 16:26:12 UTC** |
 
 </div>
 
@@ -118,7 +118,7 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209199931_ydctkh_ardodAtG20ci8f5l.jpg" width="600" alt="感謝祭のチャーリー・ブラウンをテーマにしたストア - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209199931_ydctkh_ardodAtG20ci8f5l.jpg" width="600" alt="感謝祭のチャーリー・ブラウンをテーマにしたストア - Image 1">
 </div>
 
 #### 📌 詳細
@@ -152,7 +152,7 @@ Claude Code スキル内で使用される英語のプロンプト。Gemini 3 Pr
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209188519_6bfhcw_4pj5ZhLxXweIHBF7.jpg" width="600" alt="AI ゲーム向けの未来的なアニメーションランディングページ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209188519_6bfhcw_4pj5ZhLxXweIHBF7.jpg" width="600" alt="AI ゲーム向けの未来的なアニメーションランディングページ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -190,19 +190,19 @@ Claude Code スキル内で使用される英語のプロンプト。Gemini 3 Pr
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255462009_uhh5bg_G6QfnjjacAgZb_r.jpg" width="600" alt="Linear スタイルのバリアントを使用した Hello world ウェブページ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255462009_uhh5bg_G6QfnjjacAgZb_r.jpg" width="600" alt="Linear スタイルのバリアントを使用した Hello world ウェブページ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255465710_4a3clb_G6QfvcXaAAAhcf6.jpg" width="600" alt="Linear スタイルのバリアントを使用した Hello world ウェブページ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764255465710_4a3clb_G6QfvcXaAAAhcf6.jpg" width="600" alt="Linear スタイルのバリアントを使用した Hello world ウェブページ - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255468357_cf0sk3_G6QgI2RacAAPjCl.jpg" width="600" alt="Linear スタイルのバリアントを使用した Hello world ウェブページ - Image 3">
+<img src="https://cms-assets.youmind.com/media/1764255468357_cf0sk3_G6QgI2RacAAPjCl.jpg" width="600" alt="Linear スタイルのバリアントを使用した Hello world ウェブページ - Image 3">
 </div>
 
 #### 📌 詳細
@@ -258,7 +258,7 @@ PBR マテリアルシェーダー (ラフネス、メタリック、AO)
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209263817_ppwln2_Fki2iITrOE6gCPlf.jpg" width="600" alt="ラグジュアリー 3D ウォッチ製品体験ページ (Next.js + Three.js) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209263817_ppwln2_Fki2iITrOE6gCPlf.jpg" width="600" alt="ラグジュアリー 3D ウォッチ製品体験ページ (Next.js + Three.js) - Image 1">
 </div>
 
 #### 📌 詳細
@@ -292,7 +292,7 @@ WebCodecs を使用してエディターを構築し、「ゼルダの伝説 ブ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209194824_ts6ken_jsGpVuIdSwPESSnR.jpg" width="600" alt="遊び心のあるゼルダのビデオキャプチャエディタープロンプト - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209194824_ts6ken_jsGpVuIdSwPESSnR.jpg" width="600" alt="遊び心のあるゼルダのビデオキャプチャエディタープロンプト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -332,7 +332,7 @@ Three.js、Anime.js、Tailwind を使用して、{argument name="product_type_en
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209174368_jdx5gi_6A51eMDR7nvxQOPd.jpg" width="600" alt="アニメーションセクションを備えたラグジュアリースマートウォッチ Three.js ランディングページ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209174368_jdx5gi_6A51eMDR7nvxQOPd.jpg" width="600" alt="アニメーションセクションを備えたラグジュアリースマートウォッチ Three.js ランディングページ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -366,7 +366,7 @@ SVG 形式でシンプルかつ汎用性の高いアイコンを {argument name=
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209262445_mf7cya_G6MWd-wbsAAKYiw.jpg" width="600" alt="ダウンロードボタン付きのシンプルな SVG アイコンを 40 個生成 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209262445_mf7cya_G6MWd-wbsAAKYiw.jpg" width="600" alt="ダウンロードボタン付きのシンプルな SVG アイコンを 40 個生成 - Image 1">
 </div>
 
 #### 📌 詳細
@@ -402,7 +402,7 @@ Chrome で動作する、完全に自己完結型の HTML ファイルとして�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209216678_bb9sac_N3NTnsH6x0dVwRpf.jpg" width="600" alt="ボクセルアートのパゴダガーデン単一ファイル HTML シーン - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209216678_bb9sac_N3NTnsH6x0dVwRpf.jpg" width="600" alt="ボクセルアートのパゴダガーデン単一ファイル HTML シーン - Image 1">
 </div>
 
 #### 📌 詳細
@@ -435,7 +435,7 @@ Chrome で動作する、完全に自己完結型の HTML ファイルとして�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209220218_kppymm_mu18egPuhdhyynBc.jpg" width="600" alt="未来的な暗号通貨ダッシュボード UI - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209220218_kppymm_mu18egPuhdhyynBc.jpg" width="600" alt="未来的な暗号通貨ダッシュボード UI - Image 1">
 </div>
 
 #### 📌 詳細
@@ -468,7 +468,7 @@ Chrome で動作する、完全に自己完結型の HTML ファイルとして�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209214086_7c83l2_fGU454kI2vu8dFjI.jpg" width="600" alt="HTML で SVG 観覧車の機械式アニメーション - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209214086_7c83l2_fGU454kI2vu8dFjI.jpg" width="600" alt="HTML で SVG 観覧車の機械式アニメーション - Image 1">
 </div>
 
 #### 📌 詳細
@@ -502,7 +502,7 @@ Gemini へ。Keep にインスパイアされた中国語のワークアウト�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209217106_6fmlu1_3SnhTqXry41EUPsg.jpg" width="600" alt="Keep-inspired 中国語ワークアウトコースのウェブサイト - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209217106_6fmlu1_3SnhTqXry41EUPsg.jpg" width="600" alt="Keep-inspired 中国語ワークアウトコースのウェブサイト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -535,7 +535,7 @@ Tailwind と JavaScript を使用して、インタラクティブな SVG ボデ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209210820_oxsdtd_JD0qwSM30jXTVCtO.jpg" width="600" alt="Keep スタイルの中国フィットネス ページ (単一 HTML) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209210820_oxsdtd_JD0qwSM30jXTVCtO.jpg" width="600" alt="Keep スタイルの中国フィットネス ページ (単一 HTML) - Image 1">
 </div>
 
 #### 📌 詳細
@@ -568,7 +568,7 @@ Tailwind と JavaScript を使用して、インタラクティブな SVG ボデ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209207369_aa3rub_Com2rFXK131nN-WJ.jpg" width="600" alt="ネオ・ブルータリズム ウェブサイトデザイン プロンプト - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209207369_aa3rub_Com2rFXK131nN-WJ.jpg" width="600" alt="ネオ・ブルータリズム ウェブサイトデザイン プロンプト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -601,7 +601,7 @@ Tailwind と JavaScript を使用して、インタラクティブな SVG ボデ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209203730_z4nncu_80rs2O9LInawTSTj.jpg" width="600" alt="写真ウォール付きレトロポラロイドカメラウェブサイト - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209203730_z4nncu_80rs2O9LInawTSTj.jpg" width="600" alt="写真ウォール付きレトロポラロイドカメラウェブサイト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -634,7 +634,7 @@ Tailwind と JavaScript を使用して、インタラクティブな SVG ボデ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209238976_et7ieq_7pJ4fC5sdbhGHT7S.jpg" width="600" alt="夢日記タロット風ウェブアプリ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209238976_et7ieq_7pJ4fC5sdbhGHT7S.jpg" width="600" alt="夢日記タロット風ウェブアプリ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -671,7 +671,7 @@ Gemini に世界クラスのフロントエンド エンジニアとして、Rea
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209267012_gx9du5_eHxLjy9ur6Zi0Prr.jpg" width="600" alt="Gemini と React を使用した 3D レンガ積みビルダーアプリ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209267012_gx9du5_eHxLjy9ur6Zi0Prr.jpg" width="600" alt="Gemini と React を使用した 3D レンガ積みビルダーアプリ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -705,7 +705,7 @@ X MBTI 分析ツールを作成する: ユーザーがツイートを貼り付�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209223074_p70pfd_LqvLh0zCSYOy3-VE.jpg" width="600" alt="X (Twitter) MBTI アナライザー Web アプリ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209223074_p70pfd_LqvLh0zCSYOy3-VE.jpg" width="600" alt="X (Twitter) MBTI アナライザー Web アプリ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -739,7 +739,7 @@ X MBTI 分析ツールを作成する: ユーザーがツイートを貼り付�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg" width="600" alt="AI 漢服バーチャル試着アプリ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg" width="600" alt="AI 漢服バーチャル試着アプリ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -773,7 +773,7 @@ Gemini 3 Pro 用の中国語プロンプト。ユーザーが入力したテキ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209243747_6zn4ng_st6US49_VK2ldIvf.jpg" width="600" alt="レトロな Motorola Fix Beeper タイプライター Web アプリ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209243747_6zn4ng_st6US49_VK2ldIvf.jpg" width="600" alt="レトロな Motorola Fix Beeper タイプライター Web アプリ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -806,7 +806,7 @@ Gemini 3 Pro 用プロンプト：各星や星座を絵本のように表現し�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209254334_uu21fi_fDJNuJlmTIVYVYvr.jpg" width="600" alt="ギリシャ神話の星座をテーマにした中国のウェブアプリ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209254334_uu21fi_fDJNuJlmTIVYVYvr.jpg" width="600" alt="ギリシャ神話の星座をテーマにした中国のウェブアプリ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -840,7 +840,7 @@ Gemini 3 Pro 用プロンプト：各星や星座を絵本のように表現し�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209237338_qmtoz8_2y43kqiU39gDRcwd.jpg" width="600" alt="サイバースタイルの現代中国暦ウェブアプリ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209237338_qmtoz8_2y43kqiU39gDRcwd.jpg" width="600" alt="サイバースタイルの現代中国暦ウェブアプリ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -873,7 +873,7 @@ Gemini 3 Pro 用プロンプト：各星や星座を絵本のように表現し�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209224660_q703c0_3hoHx30nVZ5b8yyw.jpg" width="600" alt="レトロなポラロイド風カメラ Web アプリ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209224660_q703c0_3hoHx30nVZ5b8yyw.jpg" width="600" alt="レトロなポラロイド風カメラ Web アプリ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -906,7 +906,7 @@ Gemini 3 Pro 用プロンプト：各星や星座を絵本のように表現し�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255462517_0xbgr4_8CEmdG0IihE4XzEk.jpg" width="600" alt="マキシマリストなデジタルホットドッグスタートアップのウェブサイト - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255462517_0xbgr4_8CEmdG0IihE4XzEk.jpg" width="600" alt="マキシマリストなデジタルホットドッグスタートアップのウェブサイト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -940,7 +940,7 @@ GLSL でレイマーチングのマンデルバルブ・フラクタルを作成
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209159016_6yk3yw_TCUAUpzJbxn8xmOV.jpg" width="600" alt="Three.js でオーディオリアクティブなパーティクルを持つレイマーチされたマンデルバルブフラクタル - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209159016_6yk3yw_TCUAUpzJbxn8xmOV.jpg" width="600" alt="Three.js でオーディオリアクティブなパーティクルを持つレイマーチされたマンデルバルブフラクタル - Image 1">
 </div>
 
 #### 📌 詳細
@@ -974,7 +974,7 @@ Gemini 3 Pro に、スタジオ makemepulse として振る舞い、AP という
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209176859_vznbt0_UPKTu2bYW7AZTCBs.jpg" width="600" alt="AP 社のクライアント向け代理店スタイル ウェブサイト - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209176859_vznbt0_UPKTu2bYW7AZTCBs.jpg" width="600" alt="AP 社のクライアント向け代理店スタイル ウェブサイト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1009,7 +1009,7 @@ Gemini 3 向けの簡潔な技術プロンプト。フロントカメラと Medi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255461636_mdlo2t_TrOA856i8yUthOuI.jpg" width="600" alt="Mediapipe と Three.js を使ったレーザーアイエフェクトの Web デモ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255461636_mdlo2t_TrOA856i8yUthOuI.jpg" width="600" alt="Mediapipe と Three.js を使ったレーザーアイエフェクトの Web デモ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1043,7 +1043,7 @@ Gemini 3 Pro に、Three.js を使用してウェブ用の Minecraft の完全�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255475793_hdfpvg_nCOFPLDKO3ls9qTb.jpg" width="600" alt="Three.js で作った Minecraft サバイバルモードのレプリカ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255475793_hdfpvg_nCOFPLDKO3ls9qTb.jpg" width="600" alt="Three.js で作った Minecraft サバイバルモードのレプリカ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1081,7 +1081,7 @@ Gemini 3 Pro に、Three.js を使用してウェブ用の Minecraft の完全�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255470380_e6ucvk_ubnvLR01M37lxkrV.jpg" width="600" alt="インタラクティブなレスポンシブデザインを備えたエンタープライズランディングページ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255470380_e6ucvk_ubnvLR01M37lxkrV.jpg" width="600" alt="インタラクティブなレスポンシブデザインを備えたエンタープライズランディングページ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1115,7 +1115,7 @@ Gemini 3 Pro に、Three.js を使用してウェブ用の Minecraft の完全�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209241902_949ick_ne0FJRQI-oGbGgfq.jpg" width="600" alt="中国の伝統色 日次 Web アプリ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209241902_949ick_ne0FJRQI-oGbGgfq.jpg" width="600" alt="中国の伝統色 日次 Web アプリ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1149,7 +1149,7 @@ Gemini-3.0-Pro に、主要な書式設定機能とダウンロード オプシ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg" width="600" alt="1 つの HTML ファイルに収められた Web ベースの Word ライクなリッチ テキスト エディター - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg" width="600" alt="1 つの HTML ファイルに収められた Web ベースの Word ライクなリッチ テキスト エディター - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1184,7 +1184,7 @@ Tailwind CSS + HTML5 を使用し、アニメーションを追加して、HTML 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209256210_9yuf3c_nSwhmffYWeL8BVnG.jpg" width="600" alt="中国版 Twitter KOL リーダーボード ランディングページ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209256210_9yuf3c_nSwhmffYWeL8BVnG.jpg" width="600" alt="中国版 Twitter KOL リーダーボード ランディングページ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1218,7 +1218,7 @@ Tailwind CSS + HTML5 を使用し、アニメーションを追加して、HTML 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209248163_oeazqe_wznIvkBORVz7dPEt.jpg" width="600" alt="英語絵本学習ウェブアプリ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209248163_oeazqe_wznIvkBORVz7dPEt.jpg" width="600" alt="英語絵本学習ウェブアプリ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1251,7 +1251,7 @@ Tailwind CSS + HTML5 を使用し、アニメーションを追加して、HTML 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="静電容量方式タッチスクリーンの原理アニメーション - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="静電容量方式タッチスクリーンの原理アニメーション - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1285,7 +1285,7 @@ Douyin のレコメンデーションアルゴリズムのアニメーション�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209245189_xk7l00_GCkbyVRynHwDSc_u.jpg" width="600" alt="Douyin レコメンデーション アルゴリズム デモ アニメーション - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209245189_xk7l00_GCkbyVRynHwDSc_u.jpg" width="600" alt="Douyin レコメンデーション アルゴリズム デモ アニメーション - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1318,7 +1318,7 @@ SVG または Canvas デモに適した、メインギアを回すと他のす�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209182169_3uxnqx_S4oQ9lQndCTR9dpO.jpg" width="600" alt="多段ギア連動システムのアニメーション - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209182169_3uxnqx_S4oQ9lQndCTR9dpO.jpg" width="600" alt="多段ギア連動システムのアニメーション - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1351,7 +1351,7 @@ SVG または Canvas デモに適した、メインギアを回すと他のす�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209251231_c47kvt_f7sUEhYX0T-TA08T.jpg" width="600" alt="爆発的な視覚効果を持つパララックススクロールのホームページ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209251231_c47kvt_f7sUEhYX0T-TA08T.jpg" width="600" alt="爆発的な視覚効果を持つパララックススクロールのホームページ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1391,25 +1391,25 @@ Gemini に、厳格な仕様に従い、スイスモダンと弁当箱レイア�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg" width="600" alt="React で作られた、ハイエンドなスイススタイル ランディング ページ ジェネレーター - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg" width="600" alt="React で作られた、ハイエンドなスイススタイル ランディング ページ ジェネレーター - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209185261_u9bsts_G6EeVogaQAA3ryy.jpg" width="600" alt="React で作られた、ハイエンドなスイススタイル ランディング ページ ジェネレーター - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764209185261_u9bsts_G6EeVogaQAA3ryy.jpg" width="600" alt="React で作られた、ハイエンドなスイススタイル ランディング ページ ジェネレーター - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209191329_c5zs4w_G6EeVp2bMAIw9A4.jpg" width="600" alt="React で作られた、ハイエンドなスイススタイル ランディング ページ ジェネレーター - Image 3">
+<img src="https://cms-assets.youmind.com/media/1764209191329_c5zs4w_G6EeVp2bMAIw9A4.jpg" width="600" alt="React で作られた、ハイエンドなスイススタイル ランディング ページ ジェネレーター - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209194378_bqwb5i_G6EeVp7bkAA4BZ9.jpg" width="600" alt="React で作られた、ハイエンドなスイススタイル ランディング ページ ジェネレーター - Image 4">
+<img src="https://cms-assets.youmind.com/media/1764209194378_bqwb5i_G6EeVp7bkAA4BZ9.jpg" width="600" alt="React で作られた、ハイエンドなスイススタイル ランディング ページ ジェネレーター - Image 4">
 </div>
 
 #### 📌 詳細
@@ -1442,7 +1442,7 @@ Gemini に、厳格な仕様に従い、スイスモダンと弁当箱レイア�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg" width="600" alt="グラスモーフィズム ネオン インターフェース UI - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg" width="600" alt="グラスモーフィズム ネオン インターフェース UI - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1475,7 +1475,7 @@ SVG を使用して、Tesla FSD が道路を認識する方法を動的かつイ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209230976_s1ev99_jNGZl2r_QttuS_eV.jpg" width="600" alt="Tesla FSD の道路認識を示すインタラクティブな SVG デモ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209230976_s1ev99_jNGZl2r_QttuS_eV.jpg" width="600" alt="Tesla FSD の道路認識を示すインタラクティブな SVG デモ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1509,7 +1509,7 @@ Gemini 3 Pro に React の GitHub ページを作成するよう促す非常に�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209164010_kfcr6v_UVP2rlimdiU6iAGm.jpg" width="600" alt="GitHub の React プロジェクト ページの UI を再構築する - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209164010_kfcr6v_UVP2rlimdiU6iAGm.jpg" width="600" alt="GitHub の React プロジェクト ページの UI を再構築する - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1546,7 +1546,7 @@ three.js でシーンを作成します。
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg" width="600" alt="Three.js ミュージアム ウォークスルー シーン - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg" width="600" alt="Three.js ミュージアム ウォークスルー シーン - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1579,7 +1579,7 @@ three.js でシーンを作成します。
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209269076_pv0z04_ViPc6k-OigB0DvZy.jpg" width="600" alt="画像からの Voxel アート Three.js シーン生成プロンプト - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209269076_pv0z04_ViPc6k-OigB0DvZy.jpg" width="600" alt="画像からの Voxel アート Three.js シーン生成プロンプト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1613,7 +1613,7 @@ three.js でシーンを作成します。
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg" width="600" alt="ミックス＆ソルブコントロール付き 3D ルービックキューブ Web アプリ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg" width="600" alt="ミックス＆ソルブコントロール付き 3D ルービックキューブ Web アプリ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1647,7 +1647,7 @@ Gemini を使用して CapCut スタイルの動画編集アプリケーショ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209226668_w793aq_M4xeFftoGPdIXQ73.jpg" width="600" alt="Gemini の CapCut のような動画エディター UI - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209226668_w793aq_M4xeFftoGPdIXQ73.jpg" width="600" alt="Gemini の CapCut のような動画エディター UI - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1681,7 +1681,7 @@ Gemini を使用して CapCut スタイルの動画編集アプリケーショ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209229502_z8h43e_Sfw2XxjctaA-jcVN.jpg" width="600" alt="単一ファイル HTML ビリヤードゲーム - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209229502_z8h43e_Sfw2XxjctaA-jcVN.jpg" width="600" alt="単一ファイル HTML ビリヤードゲーム - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1715,7 +1715,7 @@ Gemini を使用して CapCut スタイルの動画編集アプリケーショ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209232746_9r9qr8_6ATKtxR2C-Z_bgH4.jpg" width="600" alt="Quantum core monitoring シングルページ HTML - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209232746_9r9qr8_6ATKtxR2C-Z_bgH4.jpg" width="600" alt="Quantum core monitoring シングルページ HTML - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1748,7 +1748,7 @@ Gemini を使用して CapCut スタイルの動画編集アプリケーショ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209260950_8uv2vi_xRfGc1qs6KNG9LQh.jpg" width="600" alt="動的点群特殊相対性理論ウェブページ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209260950_8uv2vi_xRfGc1qs6KNG9LQh.jpg" width="600" alt="動的点群特殊相対性理論ウェブページ - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1782,7 +1782,7 @@ Gemini 3.0 Pro に、Web ページや UI コンポーネントへの埋め込み
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg" width="600" alt="Xbox コントローラーの単一ファイル SVG - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg" width="600" alt="Xbox コントローラーの単一ファイル SVG - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1816,7 +1816,7 @@ dorksense と題された、非常にクリエイティブでネオブランタ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg" width="600" alt="ネオブルータリズム ウェブページ生成プロンプト - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg" width="600" alt="ネオブルータリズム ウェブページ生成プロンプト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1850,7 +1850,7 @@ dorksense と題された、非常にクリエイティブでネオブランタ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209201317_tgxusr_G3Yz3dKWkAAp-iS.jpg" width="600" alt="ニューヨークのスカイライン SVG シングル HTML シーン - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209201317_tgxusr_G3Yz3dKWkAAp-iS.jpg" width="600" alt="ニューヨークのスカイライン SVG シングル HTML シーン - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1907,6 +1907,6 @@ dorksense と題された、非常にクリエイティブでネオブランタ�
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2025-12-11T12:39:42.037Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2025-12-11T16:26:12.750Z</sub>
 
 </div>

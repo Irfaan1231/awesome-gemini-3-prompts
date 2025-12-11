@@ -88,7 +88,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **50** |
 | ⭐ 추천 | **0** |
-| 🔄 마지막 업데이트 | **2025년 12월 11일 목요일 오후 12시 39분 42초 UTC** |
+| 🔄 마지막 업데이트 | **2025년 12월 11일 목요일 오후 4시 26분 13초 UTC** |
 
 </div>
 
@@ -118,7 +118,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209199931_ydctkh_ardodAtG20ci8f5l.jpg" width="600" alt="추수감사절 찰리 브라운 테마 스토어 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209199931_ydctkh_ardodAtG20ci8f5l.jpg" width="600" alt="추수감사절 찰리 브라운 테마 스토어 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -152,7 +152,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209188519_6bfhcw_4pj5ZhLxXweIHBF7.jpg" width="600" alt="AI 게임을 위한 미래 지향적인 애니메이션 랜딩 페이지 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209188519_6bfhcw_4pj5ZhLxXweIHBF7.jpg" width="600" alt="AI 게임을 위한 미래 지향적인 애니메이션 랜딩 페이지 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -190,19 +190,19 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255462009_uhh5bg_G6QfnjjacAgZb_r.jpg" width="600" alt="Linear 스타일 변형이 적용된 Hello world 웹 페이지 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255462009_uhh5bg_G6QfnjjacAgZb_r.jpg" width="600" alt="Linear 스타일 변형이 적용된 Hello world 웹 페이지 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255465710_4a3clb_G6QfvcXaAAAhcf6.jpg" width="600" alt="Linear 스타일 변형이 적용된 Hello world 웹 페이지 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764255465710_4a3clb_G6QfvcXaAAAhcf6.jpg" width="600" alt="Linear 스타일 변형이 적용된 Hello world 웹 페이지 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255468357_cf0sk3_G6QgI2RacAAPjCl.jpg" width="600" alt="Linear 스타일 변형이 적용된 Hello world 웹 페이지 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1764255468357_cf0sk3_G6QgI2RacAAPjCl.jpg" width="600" alt="Linear 스타일 변형이 적용된 Hello world 웹 페이지 - Image 3">
 </div>
 
 #### 📌 상세 정보
@@ -258,7 +258,7 @@ PBR 재료 셰이더 (거칠기, 금속성, AO)
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209263817_ppwln2_Fki2iITrOE6gCPlf.jpg" width="600" alt="럭셔리 3D 시계 제품 체험 페이지 (Next.js + Three.js) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209263817_ppwln2_Fki2iITrOE6gCPlf.jpg" width="600" alt="럭셔리 3D 시계 제품 체험 페이지 (Next.js + Three.js) - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -292,7 +292,7 @@ PBR 재료 셰이더 (거칠기, 금속성, AO)
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209194824_ts6ken_jsGpVuIdSwPESSnR.jpg" width="600" alt="재미있는 젤다 비디오 캡처 편집기 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209194824_ts6ken_jsGpVuIdSwPESSnR.jpg" width="600" alt="재미있는 젤다 비디오 캡처 편집기 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -332,7 +332,7 @@ Three.js, Anime.js, Tailwind를 사용하여 {argument name="product_type_en" de
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209174368_jdx5gi_6A51eMDR7nvxQOPd.jpg" width="600" alt="애니메이션 섹션이 있는 럭셔리 스마트워치 Three.js 랜딩 페이지 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209174368_jdx5gi_6A51eMDR7nvxQOPd.jpg" width="600" alt="애니메이션 섹션이 있는 럭셔리 스마트워치 Three.js 랜딩 페이지 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -366,7 +366,7 @@ SVG 형식의 간단하고 활용도 높은 아이콘 {argument name="icon_count
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209262445_mf7cya_G6MWd-wbsAAKYiw.jpg" width="600" alt="다운로드 버튼이 있는 간단한 SVG 아이콘 40개 생성 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209262445_mf7cya_G6MWd-wbsAAKYiw.jpg" width="600" alt="다운로드 버튼이 있는 간단한 SVG 아이콘 40개 생성 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -402,7 +402,7 @@ Chrome에서 실행되는 완전히 독립형 HTML 파일로 다채로운 복셀
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209216678_bb9sac_N3NTnsH6x0dVwRpf.jpg" width="600" alt="복셀 아트 파고다 정원 단일 파일 HTML 장면 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209216678_bb9sac_N3NTnsH6x0dVwRpf.jpg" width="600" alt="복셀 아트 파고다 정원 단일 파일 HTML 장면 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -435,7 +435,7 @@ Chrome에서 실행되는 완전히 독립형 HTML 파일로 다채로운 복셀
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209220218_kppymm_mu18egPuhdhyynBc.jpg" width="600" alt="미래 지향적인 암호화폐 대시보드 UI - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209220218_kppymm_mu18egPuhdhyynBc.jpg" width="600" alt="미래 지향적인 암호화폐 대시보드 UI - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -468,7 +468,7 @@ Chrome에서 실행되는 완전히 독립형 HTML 파일로 다채로운 복셀
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209214086_7c83l2_fGU454kI2vu8dFjI.jpg" width="600" alt="HTML에서 SVG 대관람차 기계식 애니메이션 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209214086_7c83l2_fGU454kI2vu8dFjI.jpg" width="600" alt="HTML에서 SVG 대관람차 기계식 애니메이션 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -502,7 +502,7 @@ Keep에서 영감을 받은 중국어 운동 코스 사이트를 Gemini에게 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209217106_6fmlu1_3SnhTqXry41EUPsg.jpg" width="600" alt="Keep-inspired 중국어 운동 코스 웹사이트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209217106_6fmlu1_3SnhTqXry41EUPsg.jpg" width="600" alt="Keep-inspired 중국어 운동 코스 웹사이트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -535,7 +535,7 @@ Tailwind 및 JavaScript를 사용하여 단일 HTML 파일에 대화형 SVG 신�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209210820_oxsdtd_JD0qwSM30jXTVCtO.jpg" width="600" alt="Keep 스타일 중국어 피트니스 페이지 (단일 HTML) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209210820_oxsdtd_JD0qwSM30jXTVCtO.jpg" width="600" alt="Keep 스타일 중국어 피트니스 페이지 (단일 HTML) - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -568,7 +568,7 @@ Tailwind 및 JavaScript를 사용하여 단일 HTML 파일에 대화형 SVG 신�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209207369_aa3rub_Com2rFXK131nN-WJ.jpg" width="600" alt="네오 브루탈리스트 웹사이트 디자인 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209207369_aa3rub_Com2rFXK131nN-WJ.jpg" width="600" alt="네오 브루탈리스트 웹사이트 디자인 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -601,7 +601,7 @@ Tailwind 및 JavaScript를 사용하여 단일 HTML 파일에 대화형 SVG 신�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209203730_z4nncu_80rs2O9LInawTSTj.jpg" width="600" alt="포토월이 있는 레트로 폴라로이드 카메라 웹사이트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209203730_z4nncu_80rs2O9LInawTSTj.jpg" width="600" alt="포토월이 있는 레트로 폴라로이드 카메라 웹사이트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -634,7 +634,7 @@ Tailwind 및 JavaScript를 사용하여 단일 HTML 파일에 대화형 SVG 신�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209238976_et7ieq_7pJ4fC5sdbhGHT7S.jpg" width="600" alt="타로 스타일 웹 앱으로 꿈 일기 쓰기 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209238976_et7ieq_7pJ4fC5sdbhGHT7S.jpg" width="600" alt="타로 스타일 웹 앱으로 꿈 일기 쓰기 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -671,7 +671,7 @@ Gemini가 React, Three.js, Tailwind CSS 및 Gemini API를 사용하여 Minecraft
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209267012_gx9du5_eHxLjy9ur6Zi0Prr.jpg" width="600" alt="Gemini 및 React를 사용한 3D 벽돌 쌓기 앱 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209267012_gx9du5_eHxLjy9ur6Zi0Prr.jpg" width="600" alt="Gemini 및 React를 사용한 3D 벽돌 쌓기 앱 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -705,7 +705,7 @@ X MBTI 분석기 만들기: 사용자가 트윗을 붙여넣으면 프런트엔�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209223074_p70pfd_LqvLh0zCSYOy3-VE.jpg" width="600" alt="X (트위터) MBTI 분석 웹 앱 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209223074_p70pfd_LqvLh0zCSYOy3-VE.jpg" width="600" alt="X (트위터) MBTI 분석 웹 앱 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -739,7 +739,7 @@ X MBTI 분석기 만들기: 사용자가 트윗을 붙여넣으면 프런트엔�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg" width="600" alt="AI 한푸 의상 가상 피팅 앱 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg" width="600" alt="AI 한푸 의상 가상 피팅 앱 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -773,7 +773,7 @@ X MBTI 분석기 만들기: 사용자가 트윗을 붙여넣으면 프런트엔�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209243747_6zn4ng_st6US49_VK2ldIvf.jpg" width="600" alt="레트로 Motorola Fix Beeper 타자기 웹 앱 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209243747_6zn4ng_st6US49_VK2ldIvf.jpg" width="600" alt="레트로 Motorola Fix Beeper 타자기 웹 앱 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -807,7 +807,7 @@ X MBTI 분석기 만들기: 사용자가 트윗을 붙여넣으면 프런트엔�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209254334_uu21fi_fDJNuJlmTIVYVYvr.jpg" width="600" alt="그리스 신화 별자리 중국 웹 앱 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209254334_uu21fi_fDJNuJlmTIVYVYvr.jpg" width="600" alt="그리스 신화 별자리 중국 웹 앱 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -841,7 +841,7 @@ X MBTI 분석기 만들기: 사용자가 트윗을 붙여넣으면 프런트엔�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209237338_qmtoz8_2y43kqiU39gDRcwd.jpg" width="600" alt="사이버 스타일의 현대 중국 점술 웹 앱 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209237338_qmtoz8_2y43kqiU39gDRcwd.jpg" width="600" alt="사이버 스타일의 현대 중국 점술 웹 앱 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -874,7 +874,7 @@ X MBTI 분석기 만들기: 사용자가 트윗을 붙여넣으면 프런트엔�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209224660_q703c0_3hoHx30nVZ5b8yyw.jpg" width="600" alt="레트로 폴라로이드 스타일 카메라 웹 앱 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209224660_q703c0_3hoHx30nVZ5b8yyw.jpg" width="600" alt="레트로 폴라로이드 스타일 카메라 웹 앱 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -908,7 +908,7 @@ X MBTI 분석기 만들기: 사용자가 트윗을 붙여넣으면 프런트엔�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255462517_0xbgr4_8CEmdG0IihE4XzEk.jpg" width="600" alt="맥시멀리스트 디지털 핫도그 스타트업 웹사이트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255462517_0xbgr4_8CEmdG0IihE4XzEk.jpg" width="600" alt="맥시멀리스트 디지털 핫도그 스타트업 웹사이트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -942,7 +942,7 @@ GLSL에서 레이마칭 만델벌브 프랙탈을 만들고, {argument name="par
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209159016_6yk3yw_TCUAUpzJbxn8xmOV.jpg" width="600" alt="Three.js에서 오디오 반응형 파티클을 이용한 레이마칭 만델벌브 프랙탈 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209159016_6yk3yw_TCUAUpzJbxn8xmOV.jpg" width="600" alt="Three.js에서 오디오 반응형 파티클을 이용한 레이마칭 만델벌브 프랙탈 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -976,7 +976,7 @@ Gemini 3 Pro에게 makemepulse 스튜디오처럼 행동하여 AP라는 클라�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209176859_vznbt0_UPKTu2bYW7AZTCBs.jpg" width="600" alt="AP라는 클라이언트를 위한 에이전시 스타일 웹사이트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209176859_vznbt0_UPKTu2bYW7AZTCBs.jpg" width="600" alt="AP라는 클라이언트를 위한 에이전시 스타일 웹사이트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1011,7 +1011,7 @@ Gemini 3 Pro에게 makemepulse 스튜디오처럼 행동하여 AP라는 클라�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255461636_mdlo2t_TrOA856i8yUthOuI.jpg" width="600" alt="Mediapipe 및 Three.js를 사용한 레이저 눈 효과 웹 데모 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255461636_mdlo2t_TrOA856i8yUthOuI.jpg" width="600" alt="Mediapipe 및 Three.js를 사용한 레이저 눈 효과 웹 데모 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1045,7 +1045,7 @@ Gemini 3 Pro에게 웹용 Three.js를 사용하여 마인크래프트의 완전�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255475793_hdfpvg_nCOFPLDKO3ls9qTb.jpg" width="600" alt="Minecraft의 Three.js 서바이벌 모드 복제품 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255475793_hdfpvg_nCOFPLDKO3ls9qTb.jpg" width="600" alt="Minecraft의 Three.js 서바이벌 모드 복제품 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1083,7 +1083,7 @@ Gemini 3 Pro에게 웹용 Three.js를 사용하여 마인크래프트의 완전�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255470380_e6ucvk_ubnvLR01M37lxkrV.jpg" width="600" alt="인터랙티브 반응형 디자인을 갖춘 엔터프라이즈 랜딩 페이지 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255470380_e6ucvk_ubnvLR01M37lxkrV.jpg" width="600" alt="인터랙티브 반응형 디자인을 갖춘 엔터프라이즈 랜딩 페이지 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1117,7 +1117,7 @@ Gemini 3 Pro에게 웹용 Three.js를 사용하여 마인크래프트의 완전�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209241902_949ick_ne0FJRQI-oGbGgfq.jpg" width="600" alt="중국 전통 색상 일일 웹 앱 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209241902_949ick_ne0FJRQI-oGbGgfq.jpg" width="600" alt="중국 전통 색상 일일 웹 앱 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1151,7 +1151,7 @@ Gemini 3 Pro에게 웹용 Three.js를 사용하여 마인크래프트의 완전�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg" width="600" alt="하나의 HTML 파일로 구현된 웹 기반 Word 유사 리치 텍스트 에디터 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg" width="600" alt="하나의 HTML 파일로 구현된 웹 기반 Word 유사 리치 텍스트 에디터 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1186,7 +1186,7 @@ Tailwind CSS + HTML5를 사용하고 애니메이션을 추가하며, HTML 코�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209256210_9yuf3c_nSwhmffYWeL8BVnG.jpg" width="600" alt="중국 트위터 KOL 리더보드 랜딩 페이지 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209256210_9yuf3c_nSwhmffYWeL8BVnG.jpg" width="600" alt="중국 트위터 KOL 리더보드 랜딩 페이지 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1220,7 +1220,7 @@ Tailwind CSS + HTML5를 사용하고 애니메이션을 추가하며, HTML 코�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209248163_oeazqe_wznIvkBORVz7dPEt.jpg" width="600" alt="영어 그림책 학습 웹 앱 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209248163_oeazqe_wznIvkBORVz7dPEt.jpg" width="600" alt="영어 그림책 학습 웹 앱 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1253,7 +1253,7 @@ Tailwind CSS + HTML5를 사용하고 애니메이션을 추가하며, HTML 코�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="정전식 터치스크린 원리 애니메이션 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="정전식 터치스크린 원리 애니메이션 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1287,7 +1287,7 @@ Douyin 추천 알고리즘의 애니메이션 데모를 생성하기 위한 짧�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209245189_xk7l00_GCkbyVRynHwDSc_u.jpg" width="600" alt="Douyin 추천 알고리즘 데모 애니메이션 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209245189_xk7l00_GCkbyVRynHwDSc_u.jpg" width="600" alt="Douyin 추천 알고리즘 데모 애니메이션 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1320,7 +1320,7 @@ Douyin 추천 알고리즘의 애니메이션 데모를 생성하기 위한 짧�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209182169_3uxnqx_S4oQ9lQndCTR9dpO.jpg" width="600" alt="다단계 기어 연결 시스템 애니메이션 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209182169_3uxnqx_S4oQ9lQndCTR9dpO.jpg" width="600" alt="다단계 기어 연결 시스템 애니메이션 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1353,7 +1353,7 @@ Douyin 추천 알고리즘의 애니메이션 데모를 생성하기 위한 짧�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209251231_c47kvt_f7sUEhYX0T-TA08T.jpg" width="600" alt="폭발적인 시각 효과를 자랑하는 패럴랙스 스크롤링 홈페이지 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209251231_c47kvt_f7sUEhYX0T-TA08T.jpg" width="600" alt="폭발적인 시각 효과를 자랑하는 패럴랙스 스크롤링 홈페이지 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1393,25 +1393,25 @@ Gemini에게 엄격한 사양을 따르고 스위스 모던 및 벤토 레이아
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg" width="600" alt="React 기반의 하이엔드 스위스 스타일 랜딩 페이지 생성기 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg" width="600" alt="React 기반의 하이엔드 스위스 스타일 랜딩 페이지 생성기 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209185261_u9bsts_G6EeVogaQAA3ryy.jpg" width="600" alt="React 기반의 하이엔드 스위스 스타일 랜딩 페이지 생성기 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764209185261_u9bsts_G6EeVogaQAA3ryy.jpg" width="600" alt="React 기반의 하이엔드 스위스 스타일 랜딩 페이지 생성기 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209191329_c5zs4w_G6EeVp2bMAIw9A4.jpg" width="600" alt="React 기반의 하이엔드 스위스 스타일 랜딩 페이지 생성기 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1764209191329_c5zs4w_G6EeVp2bMAIw9A4.jpg" width="600" alt="React 기반의 하이엔드 스위스 스타일 랜딩 페이지 생성기 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209194378_bqwb5i_G6EeVp7bkAA4BZ9.jpg" width="600" alt="React 기반의 하이엔드 스위스 스타일 랜딩 페이지 생성기 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1764209194378_bqwb5i_G6EeVp7bkAA4BZ9.jpg" width="600" alt="React 기반의 하이엔드 스위스 스타일 랜딩 페이지 생성기 - Image 4">
 </div>
 
 #### 📌 상세 정보
@@ -1444,7 +1444,7 @@ Gemini에게 엄격한 사양을 따르고 스위스 모던 및 벤토 레이아
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg" width="600" alt="글래스모피즘 네온 인터페이스 UI - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg" width="600" alt="글래스모피즘 네온 인터페이스 UI - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1477,7 +1477,7 @@ SVG를 사용하여 Tesla FSD가 도로를 인식하는 방식을 동적이고 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209230976_s1ev99_jNGZl2r_QttuS_eV.jpg" width="600" alt="테슬라 FSD 도로 인식의 대화형 SVG 데모 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209230976_s1ev99_jNGZl2r_QttuS_eV.jpg" width="600" alt="테슬라 FSD 도로 인식의 대화형 SVG 데모 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1511,7 +1511,7 @@ Gemini 3 Pro에게 React의 GitHub 페이지를 만들도록 요청하는 아주
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209164010_kfcr6v_UVP2rlimdiU6iAGm.jpg" width="600" alt="GitHub의 React 프로젝트 페이지 UI 재구축 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209164010_kfcr6v_UVP2rlimdiU6iAGm.jpg" width="600" alt="GitHub의 React 프로젝트 페이지 UI 재구축 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1548,7 +1548,7 @@ three.js로 장면을 만들어 보세요.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg" width="600" alt="Three.js 박물관 둘러보기 장면 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg" width="600" alt="Three.js 박물관 둘러보기 장면 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1581,7 +1581,7 @@ three.js로 장면을 만들어 보세요.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209269076_pv0z04_ViPc6k-OigB0DvZy.jpg" width="600" alt="이미지로부터 복셀 아트 Three.js 씬 생성 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209269076_pv0z04_ViPc6k-OigB0DvZy.jpg" width="600" alt="이미지로부터 복셀 아트 Three.js 씬 생성 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1615,7 +1615,7 @@ three.js로 장면을 만들어 보세요.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg" width="600" alt="믹스 및 솔브 컨트롤이 있는 3D 루빅스 큐브 웹 앱 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg" width="600" alt="믹스 및 솔브 컨트롤이 있는 3D 루빅스 큐브 웹 앱 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1649,7 +1649,7 @@ Gemini를 사용하여 CapCut 스타일의 동영상 편집 애플리케이션 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209226668_w793aq_M4xeFftoGPdIXQ73.jpg" width="600" alt="Gemini의 CapCut과 유사한 동영상 편집기 UI - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209226668_w793aq_M4xeFftoGPdIXQ73.jpg" width="600" alt="Gemini의 CapCut과 유사한 동영상 편집기 UI - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1683,7 +1683,7 @@ Gemini를 사용하여 CapCut 스타일의 동영상 편집 애플리케이션 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209229502_z8h43e_Sfw2XxjctaA-jcVN.jpg" width="600" alt="단일 파일 HTML 당구 게임 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209229502_z8h43e_Sfw2XxjctaA-jcVN.jpg" width="600" alt="단일 파일 HTML 당구 게임 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1717,7 +1717,7 @@ Gemini에게 '양자 코어 모니터링 시스템' UI를 나타내는 단일 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209232746_9r9qr8_6ATKtxR2C-Z_bgH4.jpg" width="600" alt="퀀텀 코어 모니터링 단일 페이지 HTML - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209232746_9r9qr8_6ATKtxR2C-Z_bgH4.jpg" width="600" alt="퀀텀 코어 모니터링 단일 페이지 HTML - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1750,7 +1750,7 @@ Gemini에게 '양자 코어 모니터링 시스템' UI를 나타내는 단일 �
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209260950_8uv2vi_xRfGc1qs6KNG9LQh.jpg" width="600" alt="동적 포인트 클라우드 특수 상대성 이론 웹페이지 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209260950_8uv2vi_xRfGc1qs6KNG9LQh.jpg" width="600" alt="동적 포인트 클라우드 특수 상대성 이론 웹페이지 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1784,7 +1784,7 @@ Gemini 3.0 Pro에 웹 페이지 또는 UI 구성 요소에 삽입하기에 적�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg" width="600" alt="Xbox 컨트롤러 단일 파일 SVG - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg" width="600" alt="Xbox 컨트롤러 단일 파일 SVG - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1818,7 +1818,7 @@ dorksense라는 제목으로, 매우 창의적이고 네오브루탈리즘적인
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg" width="600" alt="네오 브루탈리즘 웹페이지 생성 프롬프트 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg" width="600" alt="네오 브루탈리즘 웹페이지 생성 프롬프트 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1852,7 +1852,7 @@ dorksense라는 제목으로, 매우 창의적이고 네오브루탈리즘적인
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209201317_tgxusr_G3Yz3dKWkAAp-iS.jpg" width="600" alt="뉴욕 스카이라인 SVG 단일 HTML 장면 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209201317_tgxusr_G3Yz3dKWkAAp-iS.jpg" width="600" alt="뉴욕 스카이라인 SVG 단일 HTML 장면 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1909,6 +1909,6 @@ dorksense라는 제목으로, 매우 창의적이고 네오브루탈리즘적인
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-11T12:39:42.459Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-11T16:26:13.041Z</sub>
 
 </div>

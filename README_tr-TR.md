@@ -88,7 +88,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **50** |
 | ⭐ Öne Çıkan | **0** |
-| 🔄 Son Güncelleme | **11 Aralık 2025 Perşembe 12:39:45 UTC** |
+| 🔄 Son Güncelleme | **11 Aralık 2025 Perşembe 16:26:17 UTC** |
 
 </div>
 
@@ -118,7 +118,7 @@ Bana {argument name="theme_en" default="Thanksgiving Charlie Brown"} teması ve 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209199931_ydctkh_ardodAtG20ci8f5l.jpg" width="600" alt="Şükran Günü Charlie Brown Temalı Mağaza - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209199931_ydctkh_ardodAtG20ci8f5l.jpg" width="600" alt="Şükran Günü Charlie Brown Temalı Mağaza - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -152,7 +152,7 @@ Yeni bir {argument name="product_type_en" default="yapay zeka oyunu"} için aç�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209188519_6bfhcw_4pj5ZhLxXweIHBF7.jpg" width="600" alt="Yapay zeka oyunu için fütüristik animasyonlu açılış sayfası - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209188519_6bfhcw_4pj5ZhLxXweIHBF7.jpg" width="600" alt="Yapay zeka oyunu için fütüristik animasyonlu açılış sayfası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -190,19 +190,19 @@ Bana {argument name="style_en" default="Linear"} stilinde bir "hello world" sayf
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255462009_uhh5bg_G6QfnjjacAgZb_r.jpg" width="600" alt="Linear tarzı varyantlara sahip "Merhaba dünya" web sayfası - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255462009_uhh5bg_G6QfnjjacAgZb_r.jpg" width="600" alt="Linear tarzı varyantlara sahip "Merhaba dünya" web sayfası - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255465710_4a3clb_G6QfvcXaAAAhcf6.jpg" width="600" alt="Linear tarzı varyantlara sahip "Merhaba dünya" web sayfası - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764255465710_4a3clb_G6QfvcXaAAAhcf6.jpg" width="600" alt="Linear tarzı varyantlara sahip "Merhaba dünya" web sayfası - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255468357_cf0sk3_G6QgI2RacAAPjCl.jpg" width="600" alt="Linear tarzı varyantlara sahip "Merhaba dünya" web sayfası - Image 3">
+<img src="https://cms-assets.youmind.com/media/1764255468357_cf0sk3_G6QgI2RacAAPjCl.jpg" width="600" alt="Linear tarzı varyantlara sahip "Merhaba dünya" web sayfası - Image 3">
 </div>
 
 #### 📌 Detaylar
@@ -258,7 +258,7 @@ Her shader için uniform değerler (zaman ilerlemesi, kaydırma ilerlemesi, ton,
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209263817_ppwln2_Fki2iITrOE6gCPlf.jpg" width="600" alt="Lüks 3D saat ürün deneyimi sayfası (Next.js + Three.js) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209263817_ppwln2_Fki2iITrOE6gCPlf.jpg" width="600" alt="Lüks 3D saat ürün deneyimi sayfası (Next.js + Three.js) - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -292,7 +292,7 @@ Sen deneyimli bir oyun programlama ustasısın. Lütfen oluşturma modülü WebC
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209194824_ts6ken_jsGpVuIdSwPESSnR.jpg" width="600" alt="Eğlenceli Zelda video yakalama düzenleyici istemi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209194824_ts6ken_jsGpVuIdSwPESSnR.jpg" width="600" alt="Eğlenceli Zelda video yakalama düzenleyici istemi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -332,7 +332,7 @@ Tek ekranı çok bölümlü bir kaydırma sitesine dönüştürün. Kullanıcı 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209174368_jdx5gi_6A51eMDR7nvxQOPd.jpg" width="600" alt="Animasyonlu bölümlere sahip lüks akıllı saat Three.js açılış sayfası - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209174368_jdx5gi_6A51eMDR7nvxQOPd.jpg" width="600" alt="Animasyonlu bölümlere sahip lüks akıllı saat Three.js açılış sayfası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -366,7 +366,7 @@ SVG formatında {argument name="icon_count_en" default="40"} adet basit ve olduk
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209262445_mf7cya_G6MWd-wbsAAKYiw.jpg" width="600" alt="İndirme düğmeleriyle 40 basit SVG simgesi oluşturun - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209262445_mf7cya_G6MWd-wbsAAKYiw.jpg" width="600" alt="İndirme düğmeleriyle 40 basit SVG simgesi oluşturun - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -402,7 +402,7 @@ Tercih ettiğiniz herhangi bir voksel veya WebGL kütüphanesini kullanın, anca
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209216678_bb9sac_N3NTnsH6x0dVwRpf.jpg" width="600" alt="Voksel sanat pagoda bahçesi tek dosyalı HTML sahnesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209216678_bb9sac_N3NTnsH6x0dVwRpf.jpg" width="600" alt="Voksel sanat pagoda bahçesi tek dosyalı HTML sahnesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -435,7 +435,7 @@ Fütüristik, karanlık modda bir kripto para veri panosu oluşturun: genel olar
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209220218_kppymm_mu18egPuhdhyynBc.jpg" width="600" alt="Fütüristik kripto para paneli kullanıcı arayüzü - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209220218_kppymm_mu18egPuhdhyynBc.jpg" width="600" alt="Fütüristik kripto para paneli kullanıcı arayüzü - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -468,7 +468,7 @@ Ana tekerlek, merkezi yataklar, destek çerçevesi, tahrik dişli seti ve yatay 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209214086_7c83l2_fGU454kI2vu8dFjI.jpg" width="600" alt="HTML'de SVG Dönme Dolap Mekanik Animasyonu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209214086_7c83l2_fGU454kI2vu8dFjI.jpg" width="600" alt="HTML'de SVG Dönme Dolap Mekanik Animasyonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -502,7 +502,7 @@ Keep'ten ilham alan, duyarlı Tailwind CSS, kurs kartları, filtreler ve eşleş
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209217106_6fmlu1_3SnhTqXry41EUPsg.jpg" width="600" alt="Keep-inspired Çin egzersiz kursu web sitesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209217106_6fmlu1_3SnhTqXry41EUPsg.jpg" width="600" alt="Keep-inspired Çin egzersiz kursu web sitesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -535,7 +535,7 @@ Temiz, modern bir kullanıcı arayüzüne, etkileşimli bir SVG vücuda (ön/ark
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209210820_oxsdtd_JD0qwSM30jXTVCtO.jpg" width="600" alt="Keep tarzı Çin fitness sayfası (tek HTML) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209210820_oxsdtd_JD0qwSM30jXTVCtO.jpg" width="600" alt="Keep tarzı Çin fitness sayfası (tek HTML) - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -568,7 +568,7 @@ Yaratıcılığın sınırlarını zorlayan neo-Brutalist bir web sitesi oluştu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209207369_aa3rub_Com2rFXK131nN-WJ.jpg" width="600" alt="Neo-Brutalist web sitesi tasarım istemi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209207369_aa3rub_Com2rFXK131nN-WJ.jpg" width="600" alt="Neo-Brutalist web sitesi tasarım istemi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -601,7 +601,7 @@ Retro Polaroid atmosferine sahip bir web kamerası uygulaması geliştirin. Sayf
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209203730_z4nncu_80rs2O9LInawTSTj.jpg" width="600" alt="Fotoğraf duvarlı retro Polaroid kamera web sitesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209203730_z4nncu_80rs2O9LInawTSTj.jpg" width="600" alt="Fotoğraf duvarlı retro Polaroid kamera web sitesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -634,7 +634,7 @@ Kullanıcıların her sabah rüyalarını kaydettiği bir Çince web uygulaması
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209238976_et7ieq_7pJ4fC5sdbhGHT7S.jpg" width="600" alt="Rüya günlüğü tarot tarzı web uygulaması - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209238976_et7ieq_7pJ4fC5sdbhGHT7S.jpg" width="600" alt="Rüya günlüğü tarot tarzı web uygulaması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -671,7 +671,7 @@ Birinci sınıf bir ön uç mühendisi ve UX tasarımcısı olarak hareket edin.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209267012_gx9du5_eHxLjy9ur6Zi0Prr.jpg" width="600" alt="Gemini ve React ile 3D tuğla oluşturucu uygulaması - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209267012_gx9du5_eHxLjy9ur6Zi0Prr.jpg" width="600" alt="Gemini ve React ile 3D tuğla oluşturucu uygulaması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -705,7 +705,7 @@ Tasarım stili Linear'ı takip etmeli, yalnızca karanlık modda olmalı, minima
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209223074_p70pfd_LqvLh0zCSYOy3-VE.jpg" width="600" alt="X (Twitter) MBTI analizörü web uygulaması - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209223074_p70pfd_LqvLh0zCSYOy3-VE.jpg" width="600" alt="X (Twitter) MBTI analizörü web uygulaması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -738,7 +738,7 @@ Gemini 3 Pro için, kullanıcıların farklı hanedanlardan kıyafetleri sanal o
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg" width="600" alt="Yapay Zeka Hanfu Gardırop Sanal Deneme Uygulaması - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg" width="600" alt="Yapay Zeka Hanfu Gardırop Sanal Deneme Uygulaması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -772,7 +772,7 @@ Lütfen bana {argument name="device_name_en" default="Motorola Fix Beeper"} tema
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209243747_6zn4ng_st6US49_VK2ldIvf.jpg" width="600" alt="Retro Motorola Fix Beeper daktilo web uygulaması - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209243747_6zn4ng_st6US49_VK2ldIvf.jpg" width="600" alt="Retro Motorola Fix Beeper daktilo web uygulaması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -806,7 +806,7 @@ Her bir yıldızın veya takımyıldızın Yunan mitolojisi hikayelerini resimli
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209254334_uu21fi_fDJNuJlmTIVYVYvr.jpg" width="600" alt="Yunan mitolojisi takımyıldızları için Çince web uygulaması - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209254334_uu21fi_fDJNuJlmTIVYVYvr.jpg" width="600" alt="Yunan mitolojisi takımyıldızları için Çince web uygulaması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -840,7 +840,7 @@ Gençlere yönelik, siber tarzda bir Çin web uygulaması ile modern bir günlü
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209237338_qmtoz8_2y43kqiU39gDRcwd.jpg" width="600" alt="Siber tarzda modern Çin takvimi web uygulaması - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209237338_qmtoz8_2y43kqiU39gDRcwd.jpg" width="600" alt="Siber tarzda modern Çin takvimi web uygulaması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -873,7 +873,7 @@ Retro Polaroid tarzı bir kamera web uygulaması oluşturmama yardım edin. Sayf
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209224660_q703c0_3hoHx30nVZ5b8yyw.jpg" width="600" alt="Retro Polaroid tarzı kamera web uygulaması - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209224660_q703c0_3hoHx30nVZ5b8yyw.jpg" width="600" alt="Retro Polaroid tarzı kamera web uygulaması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -907,7 +907,7 @@ Dijital sosisli sandviçler satan hayali bir startup için maksimalist, shader a
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255462517_0xbgr4_8CEmdG0IihE4XzEk.jpg" width="600" alt="Maksimalist dijital sosisli sandviç girişimi web sitesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255462517_0xbgr4_8CEmdG0IihE4XzEk.jpg" width="600" alt="Maksimalist dijital sosisli sandviç girişimi web sitesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -941,7 +941,7 @@ GLSL'de ışın yürüyüşlü bir Mandelbulb fraktalı oluşturun, etrafını {
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209159016_6yk3yw_TCUAUpzJbxn8xmOV.jpg" width="600" alt="Three.js'te sesle reaksiyon veren parçacıklarla Raymarched Mandelbulb fraktalı - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209159016_6yk3yw_TCUAUpzJbxn8xmOV.jpg" width="600" alt="Three.js'te sesle reaksiyon veren parçacıklarla Raymarched Mandelbulb fraktalı - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -975,7 +975,7 @@ Siz {argument name="studio_name_en" default="makemepulse"} stüdyosusunuz. Bana 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209176859_vznbt0_UPKTu2bYW7AZTCBs.jpg" width="600" alt="AP adlı bir müşteri için ajans tarzı web sitesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209176859_vznbt0_UPKTu2bYW7AZTCBs.jpg" width="600" alt="AP adlı bir müşteri için ajans tarzı web sitesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1010,7 +1010,7 @@ Yüz hatlarını yakalamak için `mediapipe` kütüphanesini kullanın.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255461636_mdlo2t_TrOA856i8yUthOuI.jpg" width="600" alt="Mediapipe ve Three.js ile Lazer Göz Efekti Web Demosu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255461636_mdlo2t_TrOA856i8yUthOuI.jpg" width="600" alt="Mediapipe ve Three.js ile Lazer Göz Efekti Web Demosu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1044,7 +1044,7 @@ Gemini 3 Pro'ya web için Three.js kullanarak Minecraft'ın tam bir hayatta kalm
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255475793_hdfpvg_nCOFPLDKO3ls9qTb.jpg" width="600" alt="Minecraft'ın Three.js ile hayatta kalma modu replikası - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255475793_hdfpvg_nCOFPLDKO3ls9qTb.jpg" width="600" alt="Minecraft'ın Three.js ile hayatta kalma modu replikası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1082,7 +1082,7 @@ Beni şaşırtın, yaratıcı olun ve bunu adım adım yapın.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255470380_e6ucvk_ubnvLR01M37lxkrV.jpg" width="600" alt="Etkileşimli duyarlı tasarıma sahip kurumsal açılış sayfası - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255470380_e6ucvk_ubnvLR01M37lxkrV.jpg" width="600" alt="Etkileşimli duyarlı tasarıma sahip kurumsal açılış sayfası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1116,7 +1116,7 @@ Her gün bir {argument name="color_system_en" default="geleneksel Çin rengini"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209241902_949ick_ne0FJRQI-oGbGgfq.jpg" width="600" alt="Geleneksel Çin renkleri günlük web uygulaması - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209241902_949ick_ne0FJRQI-oGbGgfq.jpg" width="600" alt="Geleneksel Çin renkleri günlük web uygulaması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1150,7 +1150,7 @@ Gemini-3.0-Pro için, ana biçimlendirme özelliklerini ve indirme seçeneğini 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg" width="600" alt="Tek bir HTML dosyasında web tabanlı Word benzeri zengin metin düzenleyici - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg" width="600" alt="Tek bir HTML dosyasında web tabanlı Word benzeri zengin metin düzenleyici - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1185,7 +1185,7 @@ Tailwind CSS + HTML5 kullanın, animasyonlar ekleyin ve doğrudan yalnızca HTML
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209256210_9yuf3c_nSwhmffYWeL8BVnG.jpg" width="600" alt="Çinli Twitter KOL liderlik tablosu açılış sayfası - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209256210_9yuf3c_nSwhmffYWeL8BVnG.jpg" width="600" alt="Çinli Twitter KOL liderlik tablosu açılış sayfası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1219,7 +1219,7 @@ Resimli kitaplar aracılığıyla İngilizce öğrenmek için bir web uygulamas�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209248163_oeazqe_wznIvkBORVz7dPEt.jpg" width="600" alt="İngilizce resimli kitap öğrenme web uygulaması - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209248163_oeazqe_wznIvkBORVz7dPEt.jpg" width="600" alt="İngilizce resimli kitap öğrenme web uygulaması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1252,7 +1252,7 @@ Bir dokunmatik ekranın kapasitif prensibini gösteren bir animasyon oluşturun.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="Kapasitif dokunmatik ekran prensibi animasyonu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="Kapasitif dokunmatik ekran prensibi animasyonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1286,7 +1286,7 @@ Douyin'in öneri algoritmasının animasyon demosunu oluşturmak için kısa bir
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209245189_xk7l00_GCkbyVRynHwDSc_u.jpg" width="600" alt="Douyin öneri algoritması demo animasyonu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209245189_xk7l00_GCkbyVRynHwDSc_u.jpg" width="600" alt="Douyin öneri algoritması demo animasyonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1319,7 +1319,7 @@ Ana dişliyi döndürmenin tüm dişlilerin orantılı olarak otomatik hareket e
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209182169_3uxnqx_S4oQ9lQndCTR9dpO.jpg" width="600" alt="Çok seviyeli dişli bağlantı sistemi animasyonu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209182169_3uxnqx_S4oQ9lQndCTR9dpO.jpg" width="600" alt="Çok seviyeli dişli bağlantı sistemi animasyonu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1352,7 +1352,7 @@ Patlayıcı görsel efektlere sahip bir paralaks kaydırma web sitesi oluşturun
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209251231_c47kvt_f7sUEhYX0T-TA08T.jpg" width="600" alt="Patlayıcı görsel efektlere sahip paralaks kaydırmalı ana sayfa - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209251231_c47kvt_f7sUEhYX0T-TA08T.jpg" width="600" alt="Patlayıcı görsel efektlere sahip paralaks kaydırmalı ana sayfa - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1392,25 +1392,25 @@ Stil: {argument name="style_en" default="Apple/Linear-like Swiss modern style"},
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg" width="600" alt="React ile üst düzey İsviçre tarzı açılış sayfası oluşturucu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg" width="600" alt="React ile üst düzey İsviçre tarzı açılış sayfası oluşturucu - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209185261_u9bsts_G6EeVogaQAA3ryy.jpg" width="600" alt="React ile üst düzey İsviçre tarzı açılış sayfası oluşturucu - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764209185261_u9bsts_G6EeVogaQAA3ryy.jpg" width="600" alt="React ile üst düzey İsviçre tarzı açılış sayfası oluşturucu - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209191329_c5zs4w_G6EeVp2bMAIw9A4.jpg" width="600" alt="React ile üst düzey İsviçre tarzı açılış sayfası oluşturucu - Image 3">
+<img src="https://cms-assets.youmind.com/media/1764209191329_c5zs4w_G6EeVp2bMAIw9A4.jpg" width="600" alt="React ile üst düzey İsviçre tarzı açılış sayfası oluşturucu - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209194378_bqwb5i_G6EeVp7bkAA4BZ9.jpg" width="600" alt="React ile üst düzey İsviçre tarzı açılış sayfası oluşturucu - Image 4">
+<img src="https://cms-assets.youmind.com/media/1764209194378_bqwb5i_G6EeVp7bkAA4BZ9.jpg" width="600" alt="React ile üst düzey İsviçre tarzı açılış sayfası oluşturucu - Image 4">
 </div>
 
 #### 📌 Detaylar
@@ -1443,7 +1443,7 @@ Ultra modern UI aydınlatma efektleri ve yarı saydam cam panellerle camlaşma n
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg" width="600" alt="Glassmorphism neon arayüz UI - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg" width="600" alt="Glassmorphism neon arayüz UI - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1476,7 +1476,7 @@ Tesla FSD'nin yolları nasıl tanıdığını gösteren dinamik, etkileşimli bi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209230976_s1ev99_jNGZl2r_QttuS_eV.jpg" width="600" alt="Tesla FSD yol tanıma özelliğinin etkileşimli SVG demosu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209230976_s1ev99_jNGZl2r_QttuS_eV.jpg" width="600" alt="Tesla FSD yol tanıma özelliğinin etkileşimli SVG demosu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1510,7 +1510,7 @@ Gemini 3 Pro'dan React'in GitHub sayfasını oluşturmasını, yani React deposu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209164010_kfcr6v_UVP2rlimdiU6iAGm.jpg" width="600" alt="GitHub'ın React proje sayfası kullanıcı arayüzünü yeniden oluşturun - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209164010_kfcr6v_UVP2rlimdiU6iAGm.jpg" width="600" alt="GitHub'ın React proje sayfası kullanıcı arayüzünü yeniden oluşturun - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1547,7 +1547,7 @@ Ayrıca salonun ortasına beyaz bloklar yerleştirin.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg" width="600" alt="Three.js müze gezintisi sahnesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg" width="600" alt="Three.js müze gezintisi sahnesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1580,7 +1580,7 @@ Bir görsel sağladım. Bu görselden ilham alan güzel bir voksel sanat sahnesi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209269076_pv0z04_ViPc6k-OigB0DvZy.jpg" width="600" alt="Görselden Voxel Art Three.js Sahne Oluşturma İstemcisi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209269076_pv0z04_ViPc6k-OigB0DvZy.jpg" width="600" alt="Görselden Voxel Art Three.js Sahne Oluşturma İstemcisi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1614,7 +1614,7 @@ Kullanıcı tarafından karıştırılabilen, otomatik olarak çözülebilen ve 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg" width="600" alt="Karıştırma ve çözme denetimlerine sahip 3 boyutlu Rubik Küpü web uygulaması - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg" width="600" alt="Karıştırma ve çözme denetimlerine sahip 3 boyutlu Rubik Küpü web uygulaması - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1648,7 +1648,7 @@ Bir {argument name="app_name_en" default="CapCut"} tasarlayın.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209226668_w793aq_M4xeFftoGPdIXQ73.jpg" width="600" alt="Gemini'da CapCut benzeri video düzenleyici kullanıcı arayüzü - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209226668_w793aq_M4xeFftoGPdIXQ73.jpg" width="600" alt="Gemini'da CapCut benzeri video düzenleyici kullanıcı arayüzü - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1682,7 +1682,7 @@ Lütfen tek bir HTML dosyasında tam işlevli bir {argument name="game_type_en" 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209229502_z8h43e_Sfw2XxjctaA-jcVN.jpg" width="600" alt="Tek dosyalı HTML bilardo oyunu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209229502_z8h43e_Sfw2XxjctaA-jcVN.jpg" width="600" alt="Tek dosyalı HTML bilardo oyunu - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1716,7 +1716,7 @@ Lütfen "{argument name="system_name_en" default="Quantum Core Monitoring System
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209232746_9r9qr8_6ATKtxR2C-Z_bgH4.jpg" width="600" alt="Quantum core izleme tek sayfalık HTML - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209232746_9r9qr8_6ATKtxR2C-Z_bgH4.jpg" width="600" alt="Quantum core izleme tek sayfalık HTML - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1749,7 +1749,7 @@ Lütfen "{argument name="system_name_en" default="Quantum Core Monitoring System
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209260950_8uv2vi_xRfGc1qs6KNG9LQh.jpg" width="600" alt="Dinamik nokta bulutu özel görelilik web sayfası - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209260950_8uv2vi_xRfGc1qs6KNG9LQh.jpg" width="600" alt="Dinamik nokta bulutu özel görelilik web sayfası - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1783,7 +1783,7 @@ Bir {argument name="controller_type_en" default="Xbox kontrolcüsü"} SVG'si olu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg" width="600" alt="Xbox kontrol cihazının tek dosyalı SVG'si - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg" width="600" alt="Xbox kontrol cihazının tek dosyalı SVG'si - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1817,7 +1817,7 @@ Bir neobrutalist web sayfası oluşturun, son derece yaratıcı olsun ve sınır
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg" width="600" alt="Neobrutalist web sayfası oluşturma istemi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg" width="600" alt="Neobrutalist web sayfası oluşturma istemi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1851,7 +1851,7 @@ Gemini'den, tek bir HTML dosyası olarak yapıştırılabilen ve Chrome'da açı
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209201317_tgxusr_G3Yz3dKWkAAp-iS.jpg" width="600" alt="New York silüeti SVG tek HTML sahnesi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209201317_tgxusr_G3Yz3dKWkAAp-iS.jpg" width="600" alt="New York silüeti SVG tek HTML sahnesi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -1908,6 +1908,6 @@ Ayrıntılı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasın
 **[📝 Bir istem gönder](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız ver](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-11T12:39:45.501Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-11T16:26:17.354Z</sub>
 
 </div>

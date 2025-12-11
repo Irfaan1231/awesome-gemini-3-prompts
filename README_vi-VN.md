@@ -88,7 +88,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **50** |
 | ⭐ Nổi bật | **0** |
-| 🔄 Cập nhật lần cuối | **lúc 12:39:43 UTC Thứ Năm, 11 tháng 12, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 16:26:13 UTC Thứ Năm, 11 tháng 12, 2025** |
 
 </div>
 
@@ -118,7 +118,7 @@ Hãy xây dựng cho tôi một cửa hàng theo chủ đề và phong cách c�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209199931_ydctkh_ardodAtG20ci8f5l.jpg" width="600" alt="Cửa hàng chủ đề Lễ Tạ ơn Charlie Brown - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209199931_ydctkh_ardodAtG20ci8f5l.jpg" width="600" alt="Cửa hàng chủ đề Lễ Tạ ơn Charlie Brown - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -152,7 +152,7 @@ Tôi muốn thiết kế trang đích cho một {argument name="product_type_en"
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209188519_6bfhcw_4pj5ZhLxXweIHBF7.jpg" width="600" alt="Trang đích hoạt hình tương lai cho game AI - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209188519_6bfhcw_4pj5ZhLxXweIHBF7.jpg" width="600" alt="Trang đích hoạt hình tương lai cho game AI - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -190,19 +190,19 @@ Giúp tôi tạo một trang "hello world" với kiểu {argument name="style_en
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255462009_uhh5bg_G6QfnjjacAgZb_r.jpg" width="600" alt="Trang web "Hello world" với các biến thể kiểu Linear - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255462009_uhh5bg_G6QfnjjacAgZb_r.jpg" width="600" alt="Trang web "Hello world" với các biến thể kiểu Linear - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255465710_4a3clb_G6QfvcXaAAAhcf6.jpg" width="600" alt="Trang web "Hello world" với các biến thể kiểu Linear - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764255465710_4a3clb_G6QfvcXaAAAhcf6.jpg" width="600" alt="Trang web "Hello world" với các biến thể kiểu Linear - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255468357_cf0sk3_G6QgI2RacAAPjCl.jpg" width="600" alt="Trang web "Hello world" với các biến thể kiểu Linear - Image 3">
+<img src="https://cms-assets.youmind.com/media/1764255468357_cf0sk3_G6QgI2RacAAPjCl.jpg" width="600" alt="Trang web "Hello world" với các biến thể kiểu Linear - Image 3">
 </div>
 
 #### 📌 Chi tiết
@@ -258,7 +258,7 @@ Giá trị đồng nhất cho mỗi shader (tiến trình thời gian, tiến tr
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209263817_ppwln2_Fki2iITrOE6gCPlf.jpg" width="600" alt="Trang trải nghiệm sản phẩm đồng hồ 3D cao cấp (Next.js + Three.js) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209263817_ppwln2_Fki2iITrOE6gCPlf.jpg" width="600" alt="Trang trải nghiệm sản phẩm đồng hồ 3D cao cấp (Next.js + Three.js) - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -292,7 +292,7 @@ Bạn là một bậc thầy lập trình game kỳ cựu. Hãy giúp tôi viế
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209194824_ts6ken_jsGpVuIdSwPESSnR.jpg" width="600" alt="Lời nhắc chỉnh sửa video Zelda vui nhộn - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209194824_ts6ken_jsGpVuIdSwPESSnR.jpg" width="600" alt="Lời nhắc chỉnh sửa video Zelda vui nhộn - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -332,7 +332,7 @@ Biến màn hình đơn thành một trang cuộn đa phần. Khi người dùng
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209174368_jdx5gi_6A51eMDR7nvxQOPd.jpg" width="600" alt="Trang đích Three.js đồng hồ thông minh cao cấp với các phần động - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209174368_jdx5gi_6A51eMDR7nvxQOPd.jpg" width="600" alt="Trang đích Three.js đồng hồ thông minh cao cấp với các phần động - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -366,7 +366,7 @@ Tạo {argument name="icon_count_en" default="40"} biểu tượng đơn giản 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209262445_mf7cya_G6MWd-wbsAAKYiw.jpg" width="600" alt="Tạo 40 biểu tượng SVG đơn giản với nút tải xuống - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209262445_mf7cya_G6MWd-wbsAAKYiw.jpg" width="600" alt="Tạo 40 biểu tượng SVG đơn giản với nút tải xuống - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -402,7 +402,7 @@ Sử dụng bất kỳ thư viện voxel hoặc WebGL nào bạn thích, nhưng 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209216678_bb9sac_N3NTnsH6x0dVwRpf.jpg" width="600" alt="Voxel-art pagoda garden single-file HTML scene - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209216678_bb9sac_N3NTnsH6x0dVwRpf.jpg" width="600" alt="Voxel-art pagoda garden single-file HTML scene - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -435,7 +435,7 @@ Tái tạo một bảng điều khiển dữ liệu tiền điện tử chế đ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209220218_kppymm_mu18egPuhdhyynBc.jpg" width="600" alt="Giao diện người dùng bảng điều khiển tiền điện tử tương lai - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209220218_kppymm_mu18egPuhdhyynBc.jpg" width="600" alt="Giao diện người dùng bảng điều khiển tiền điện tử tương lai - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -468,7 +468,7 @@ Thiết kế một ảnh động cơ học SVG về vòng đu quay bao gồm m�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209214086_7c83l2_fGU454kI2vu8dFjI.jpg" width="600" alt="Hoạt ảnh cơ học SVG Ferris wheel trong HTML - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209214086_7c83l2_fGU454kI2vu8dFjI.jpg" width="600" alt="Hoạt ảnh cơ học SVG Ferris wheel trong HTML - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -502,7 +502,7 @@ Xây dựng một trang web "khóa học tập luyện" tiếng Trung lấy cả
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209217106_6fmlu1_3SnhTqXry41EUPsg.jpg" width="600" alt="Trang web khóa học tập luyện truyền cảm hứng của Trung Quốc - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209217106_6fmlu1_3SnhTqXry41EUPsg.jpg" width="600" alt="Trang web khóa học tập luyện truyền cảm hứng của Trung Quốc - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -535,7 +535,7 @@ Xây dựng một trang web thể dục kiểu Keep của Trung Quốc với gia
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209210820_oxsdtd_JD0qwSM30jXTVCtO.jpg" width="600" alt="Trang thể dục kiểu Keep của Trung Quốc (HTML đơn) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209210820_oxsdtd_JD0qwSM30jXTVCtO.jpg" width="600" alt="Trang thể dục kiểu Keep của Trung Quốc (HTML đơn) - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -568,7 +568,7 @@ Tạo một trang web theo phong cách tân-Brutalism phá vỡ mọi giới h�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209207369_aa3rub_Com2rFXK131nN-WJ.jpg" width="600" alt="Lời nhắc thiết kế trang web theo phong cách Neo-Brutalism - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209207369_aa3rub_Com2rFXK131nN-WJ.jpg" width="600" alt="Lời nhắc thiết kế trang web theo phong cách Neo-Brutalism - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -601,7 +601,7 @@ Hãy phát triển một ứng dụng webcam với không khí Polaroid cổ đi
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209203730_z4nncu_80rs2O9LInawTSTj.jpg" width="600" alt="Trang web máy ảnh Polaroid cổ điển với tường ảnh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209203730_z4nncu_80rs2O9LInawTSTj.jpg" width="600" alt="Trang web máy ảnh Polaroid cổ điển với tường ảnh - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -634,7 +634,7 @@ Tạo một ứng dụng web tiếng Trung nơi người dùng ghi lại giấc 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209238976_et7ieq_7pJ4fC5sdbhGHT7S.jpg" width="600" alt="Ứng dụng web ghi nhật ký giấc mơ theo phong cách tarot - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209238976_et7ieq_7pJ4fC5sdbhGHT7S.jpg" width="600" alt="Ứng dụng web ghi nhật ký giấc mơ theo phong cách tarot - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -671,7 +671,7 @@ Hãy đóng vai trò là một kỹ sư frontend và nhà thiết kế UX đẳn
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209267012_gx9du5_eHxLjy9ur6Zi0Prr.jpg" width="600" alt="Ứng dụng xây gạch 3D với Gemini và React - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209267012_gx9du5_eHxLjy9ur6Zi0Prr.jpg" width="600" alt="Ứng dụng xây gạch 3D với Gemini và React - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -705,7 +705,7 @@ Phong cách thiết kế nên theo Linear, chỉ chế độ tối, với cảm 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209223074_p70pfd_LqvLh0zCSYOy3-VE.jpg" width="600" alt="Ứng dụng web phân tích MBTI trên X (Twitter) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209223074_p70pfd_LqvLh0zCSYOy3-VE.jpg" width="600" alt="Ứng dụng web phân tích MBTI trên X (Twitter) - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -739,7 +739,7 @@ Tạo một ứng dụng tủ quần áo Hanfu AI tiếng Trung. Sử dụng cô
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg" width="600" alt="Ứng dụng thử đồ ảo AI Hanfu - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg" width="600" alt="Ứng dụng thử đồ ảo AI Hanfu - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -773,7 +773,7 @@ Hãy giúp tôi tạo một ứng dụng web máy đánh chữ cổ điển lấ
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209243747_6zn4ng_st6US49_VK2ldIvf.jpg" width="600" alt="Ứng dụng web máy đánh chữ Retro Motorola Fix Beeper - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209243747_6zn4ng_st6US49_VK2ldIvf.jpg" width="600" alt="Ứng dụng web máy đánh chữ Retro Motorola Fix Beeper - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -807,7 +807,7 @@ Tạo một ứng dụng web bằng tiếng {argument name="language_en" default
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209254334_uu21fi_fDJNuJlmTIVYVYvr.jpg" width="600" alt="Ứng dụng web Trung Quốc về các chòm sao thần thoại Hy Lạp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209254334_uu21fi_fDJNuJlmTIVYVYvr.jpg" width="600" alt="Ứng dụng web Trung Quốc về các chòm sao thần thoại Hy Lạp - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -841,7 +841,7 @@ Tạo một ứng dụng web Trung Quốc theo phong cách cyber cho một cuố
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209237338_qmtoz8_2y43kqiU39gDRcwd.jpg" width="600" alt="Ứng dụng web lịch vạn niên Trung Quốc hiện đại phong cách Cyber - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209237338_qmtoz8_2y43kqiU39gDRcwd.jpg" width="600" alt="Ứng dụng web lịch vạn niên Trung Quốc hiện đại phong cách Cyber - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -874,7 +874,7 @@ Hãy giúp tôi tạo một ứng dụng web máy ảnh phong cách Polaroid c�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209224660_q703c0_3hoHx30nVZ5b8yyw.jpg" width="600" alt="Ứng dụng web máy ảnh phong cách Polaroid cổ điển - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209224660_q703c0_3hoHx30nVZ5b8yyw.jpg" width="600" alt="Ứng dụng web máy ảnh phong cách Polaroid cổ điển - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -908,7 +908,7 @@ Thiết kế một trang web theo phong cách maximalist cho một startup hư c
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255462517_0xbgr4_8CEmdG0IihE4XzEk.jpg" width="600" alt="Trang web khởi nghiệp hot dog kỹ thuật số theo phong cách tối đa - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255462517_0xbgr4_8CEmdG0IihE4XzEk.jpg" width="600" alt="Trang web khởi nghiệp hot dog kỹ thuật số theo phong cách tối đa - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -942,7 +942,7 @@ Tạo một fractal Mandelbulb raymarching trong GLSL, bao quanh nó bằng {arg
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209159016_6yk3yw_TCUAUpzJbxn8xmOV.jpg" width="600" alt="Mandelbulb fractal được Raymarch với các hạt phản ứng âm thanh trong Three.js - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209159016_6yk3yw_TCUAUpzJbxn8xmOV.jpg" width="600" alt="Mandelbulb fractal được Raymarch với các hạt phản ứng âm thanh trong Three.js - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -976,7 +976,7 @@ Bạn là studio {argument name="studio_name_en" default="makemepulse"}. Hãy x�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209176859_vznbt0_UPKTu2bYW7AZTCBs.jpg" width="600" alt="Trang web theo phong cách Agency cho khách hàng tên là AP - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209176859_vznbt0_UPKTu2bYW7AZTCBs.jpg" width="600" alt="Trang web theo phong cách Agency cho khách hàng tên là AP - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1011,7 +1011,7 @@ Sử dụng `threejs` để áp dụng hiệu ứng LASER EYE lên khuôn mặt 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255461636_mdlo2t_TrOA856i8yUthOuI.jpg" width="600" alt="Bản demo web hiệu ứng mắt laze với Mediapipe và Three.js - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255461636_mdlo2t_TrOA856i8yUthOuI.jpg" width="600" alt="Bản demo web hiệu ứng mắt laze với Mediapipe và Three.js - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1045,7 +1045,7 @@ Thiết kế một bản sao chế độ sinh tồn hoàn chỉnh của {argumen
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255475793_hdfpvg_nCOFPLDKO3ls9qTb.jpg" width="600" alt="Bản sao Minecraft chế độ sinh tồn bằng Three.js - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255475793_hdfpvg_nCOFPLDKO3ls9qTb.jpg" width="600" alt="Bản sao Minecraft chế độ sinh tồn bằng Three.js - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1083,7 +1083,7 @@ Surprise me, be creative, and do this step by step.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255470380_e6ucvk_ubnvLR01M37lxkrV.jpg" width="600" alt="Enterprise landing page with interactive responsive design - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255470380_e6ucvk_ubnvLR01M37lxkrV.jpg" width="600" alt="Enterprise landing page with interactive responsive design - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1117,7 +1117,7 @@ Tạo một ứng dụng web giới thiệu một {argument name="color_system_e
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209241902_949ick_ne0FJRQI-oGbGgfq.jpg" width="600" alt="Ứng dụng web hàng ngày về màu sắc truyền thống Trung Quốc - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209241902_949ick_ne0FJRQI-oGbGgfq.jpg" width="600" alt="Ứng dụng web hàng ngày về màu sắc truyền thống Trung Quốc - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1151,7 +1151,7 @@ Hãy giúp tôi viết một trình soạn thảo văn bản đa dạng (rich te
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg" width="600" alt="Trình chỉnh sửa văn bản đa dạng giống Word trên nền web trong một tệp HTML - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg" width="600" alt="Trình chỉnh sửa văn bản đa dạng giống Word trên nền web trong một tệp HTML - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1186,7 +1186,7 @@ Sử dụng Tailwind CSS + HTML5, thêm các hiệu ứng động và chỉ xu�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209256210_9yuf3c_nSwhmffYWeL8BVnG.jpg" width="600" alt="Trang đích bảng xếp hạng KOL Twitter Trung Quốc - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209256210_9yuf3c_nSwhmffYWeL8BVnG.jpg" width="600" alt="Trang đích bảng xếp hạng KOL Twitter Trung Quốc - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1220,7 +1220,7 @@ Tạo một cuốn sách tranh để học {argument name="learning_subject" def
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209248163_oeazqe_wznIvkBORVz7dPEt.jpg" width="600" alt="Ứng dụng web học sách tranh tiếng Anh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209248163_oeazqe_wznIvkBORVz7dPEt.jpg" width="600" alt="Ứng dụng web học sách tranh tiếng Anh - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1253,7 +1253,7 @@ Tạo một ảnh động minh họa nguyên lý điện dung của màn hình c
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="Hoạt ảnh nguyên lý màn hình cảm ứng điện dung - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="Hoạt ảnh nguyên lý màn hình cảm ứng điện dung - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1287,7 +1287,7 @@ Tạo một bản demo hoạt hình về thuật toán đề xuất cho {argumen
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209245189_xk7l00_GCkbyVRynHwDSc_u.jpg" width="600" alt="Hoạt ảnh demo thuật toán đề xuất của Douyin - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209245189_xk7l00_GCkbyVRynHwDSc_u.jpg" width="600" alt="Hoạt ảnh demo thuật toán đề xuất của Douyin - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1320,7 +1320,7 @@ Một hệ thống liên kết bánh răng đa cấp, trong đó việc xoay bá
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209182169_3uxnqx_S4oQ9lQndCTR9dpO.jpg" width="600" alt="Hoạt ảnh hệ thống liên kết bánh răng đa cấp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209182169_3uxnqx_S4oQ9lQndCTR9dpO.jpg" width="600" alt="Hoạt ảnh hệ thống liên kết bánh răng đa cấp - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1353,7 +1353,7 @@ Tạo một trang web cuộn thị sai (parallax scrolling) với hiệu ứng h
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209251231_c47kvt_f7sUEhYX0T-TA08T.jpg" width="600" alt="Trang chủ cuộn thị sai với hiệu ứng hình ảnh bùng nổ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209251231_c47kvt_f7sUEhYX0T-TA08T.jpg" width="600" alt="Trang chủ cuộn thị sai với hiệu ứng hình ảnh bùng nổ - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1393,25 +1393,25 @@ Phong cách: {argument name="style_en" default="Apple/Linear-like Swiss modern s
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg" width="600" alt="Trình tạo trang đích phong cách Thụy Sĩ cao cấp trong React - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg" width="600" alt="Trình tạo trang đích phong cách Thụy Sĩ cao cấp trong React - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209185261_u9bsts_G6EeVogaQAA3ryy.jpg" width="600" alt="Trình tạo trang đích phong cách Thụy Sĩ cao cấp trong React - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764209185261_u9bsts_G6EeVogaQAA3ryy.jpg" width="600" alt="Trình tạo trang đích phong cách Thụy Sĩ cao cấp trong React - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209191329_c5zs4w_G6EeVp2bMAIw9A4.jpg" width="600" alt="Trình tạo trang đích phong cách Thụy Sĩ cao cấp trong React - Image 3">
+<img src="https://cms-assets.youmind.com/media/1764209191329_c5zs4w_G6EeVp2bMAIw9A4.jpg" width="600" alt="Trình tạo trang đích phong cách Thụy Sĩ cao cấp trong React - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209194378_bqwb5i_G6EeVp7bkAA4BZ9.jpg" width="600" alt="Trình tạo trang đích phong cách Thụy Sĩ cao cấp trong React - Image 4">
+<img src="https://cms-assets.youmind.com/media/1764209194378_bqwb5i_G6EeVp7bkAA4BZ9.jpg" width="600" alt="Trình tạo trang đích phong cách Thụy Sĩ cao cấp trong React - Image 4">
 </div>
 
 #### 📌 Chi tiết
@@ -1444,7 +1444,7 @@ Giao diện neon glassmorphism với hiệu ứng ánh sáng UI siêu hiện đ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg" width="600" alt="Giao diện UI hiệu ứng Glassmorphism neon - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg" width="600" alt="Giao diện UI hiệu ứng Glassmorphism neon - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1477,7 +1477,7 @@ Sử dụng SVG để vẽ một bản demo động, tương tác về cách Tes
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209230976_s1ev99_jNGZl2r_QttuS_eV.jpg" width="600" alt="Bản demo SVG tương tác về khả năng nhận diện đường của Tesla FSD - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209230976_s1ev99_jNGZl2r_QttuS_eV.jpg" width="600" alt="Bản demo SVG tương tác về khả năng nhận diện đường của Tesla FSD - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1511,7 +1511,7 @@ Xây dựng trang GitHub của {argument name="project_name_en" default="React"}
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209164010_kfcr6v_UVP2rlimdiU6iAGm.jpg" width="600" alt="Xây dựng lại giao diện người dùng trang dự án React của GitHub - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209164010_kfcr6v_UVP2rlimdiU6iAGm.jpg" width="600" alt="Xây dựng lại giao diện người dùng trang dự án React của GitHub - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1548,7 +1548,7 @@ Ngoài ra, hãy đặt các khối màu trắng ở giữa sảnh.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg" width="600" alt="Cảnh tham quan bảo tàng Three.js - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg" width="600" alt="Cảnh tham quan bảo tàng Three.js - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1581,7 +1581,7 @@ Tôi đã cung cấp một hình ảnh. Hãy viết mã để tạo một cảnh
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209269076_pv0z04_ViPc6k-OigB0DvZy.jpg" width="600" alt="Tạo cảnh 3D voxel art trong Three.js từ hình ảnh - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209269076_pv0z04_ViPc6k-OigB0DvZy.jpg" width="600" alt="Tạo cảnh 3D voxel art trong Three.js từ hình ảnh - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1615,7 +1615,7 @@ Xây dựng một {argument name="puzzle_type_en" default="khối Rubik"} 3D, ba
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg" width="600" alt="Ứng dụng web khối Rubik 3D với các điều khiển trộn và giải - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg" width="600" alt="Ứng dụng web khối Rubik 3D với các điều khiển trộn và giải - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1649,7 +1649,7 @@ Thiết kế một {argument name="app_name_en" default="CapCut"}.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209226668_w793aq_M4xeFftoGPdIXQ73.jpg" width="600" alt="Giao diện người dùng trình chỉnh sửa video giống CapCut trong Gemini - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209226668_w793aq_M4xeFftoGPdIXQ73.jpg" width="600" alt="Giao diện người dùng trình chỉnh sửa video giống CapCut trong Gemini - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1683,7 +1683,7 @@ Hãy tạo một {argument name="game_type_en" default="trò chơi bi-a"} đầy
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209229502_z8h43e_Sfw2XxjctaA-jcVN.jpg" width="600" alt="Trò chơi bi-a HTML một tệp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209229502_z8h43e_Sfw2XxjctaA-jcVN.jpg" width="600" alt="Trò chơi bi-a HTML một tệp - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1717,7 +1717,7 @@ Vui lòng tạo một trang HTML (SVG) duy nhất cho “{argument name="system_
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209232746_9r9qr8_6ATKtxR2C-Z_bgH4.jpg" width="600" alt="Giám sát lõi lượng tử HTML một trang - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209232746_9r9qr8_6ATKtxR2C-Z_bgH4.jpg" width="600" alt="Giám sát lõi lượng tử HTML một trang - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1750,7 +1750,7 @@ Viết một trang web động sử dụng phong cách đám mây điểm (point
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209260950_8uv2vi_xRfGc1qs6KNG9LQh.jpg" width="600" alt="Trang web thuyết tương đối đặc biệt của đám mây điểm động - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209260950_8uv2vi_xRfGc1qs6KNG9LQh.jpg" width="600" alt="Trang web thuyết tương đối đặc biệt của đám mây điểm động - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1784,7 +1784,7 @@ Tạo một SVG của {argument name="controller_type_en" default="tay cầm Xbo
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg" width="600" alt="SVG một tệp của bộ điều khiển Xbox - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg" width="600" alt="SVG một tệp của bộ điều khiển Xbox - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1818,7 +1818,7 @@ Hãy tạo một trang web theo phong cách Neobrutalism, cực kỳ sáng tạo
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg" width="600" alt="Lời nhắc tạo trang web Neobrutalist - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg" width="600" alt="Lời nhắc tạo trang web Neobrutalist - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1852,7 +1852,7 @@ SVG của {argument name="city_skyline_en" default="đường chân trời New Y
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209201317_tgxusr_G3Yz3dKWkAAp-iS.jpg" width="600" alt="Khung cảnh đường chân trời New York SVG một tệp HTML - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209201317_tgxusr_G3Yz3dKWkAAp-iS.jpg" width="600" alt="Khung cảnh đường chân trời New York SVG một tệp HTML - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1909,6 +1909,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-11T12:39:43.085Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-11T16:26:13.640Z</sub>
 
 </div>

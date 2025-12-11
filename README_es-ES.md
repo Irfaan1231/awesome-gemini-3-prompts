@@ -88,7 +88,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **50** |
 | ⭐ Destacado | **0** |
-| 🔄 Última actualización | **jueves, 11 de diciembre de 2025, 12:39:43 UTC** |
+| 🔄 Última actualización | **jueves, 11 de diciembre de 2025, 16:26:14 UTC** |
 
 </div>
 
@@ -118,7 +118,7 @@ Créame una tienda con el tema y estilo de {argument name="theme_en" default="Th
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209199931_ydctkh_ardodAtG20ci8f5l.jpg" width="600" alt="Tienda temática de Charlie Brown para el Día de Acción de Gracias - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209199931_ydctkh_ardodAtG20ci8f5l.jpg" width="600" alt="Tienda temática de Charlie Brown para el Día de Acción de Gracias - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -152,7 +152,7 @@ Quiero diseñar la página de destino para un nuevo {argument name="product_type
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209188519_6bfhcw_4pj5ZhLxXweIHBF7.jpg" width="600" alt="Página de inicio animada futurista para juego de IA - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209188519_6bfhcw_4pj5ZhLxXweIHBF7.jpg" width="600" alt="Página de inicio animada futurista para juego de IA - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -190,19 +190,19 @@ Ayúdame a crear una página de "hello world" con estilo {argument name="style_e
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255462009_uhh5bg_G6QfnjjacAgZb_r.jpg" width="600" alt="Página web "Hola mundo" con variantes de estilo lineal - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255462009_uhh5bg_G6QfnjjacAgZb_r.jpg" width="600" alt="Página web "Hola mundo" con variantes de estilo lineal - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255465710_4a3clb_G6QfvcXaAAAhcf6.jpg" width="600" alt="Página web "Hola mundo" con variantes de estilo lineal - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764255465710_4a3clb_G6QfvcXaAAAhcf6.jpg" width="600" alt="Página web "Hola mundo" con variantes de estilo lineal - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255468357_cf0sk3_G6QgI2RacAAPjCl.jpg" width="600" alt="Página web "Hola mundo" con variantes de estilo lineal - Image 3">
+<img src="https://cms-assets.youmind.com/media/1764255468357_cf0sk3_G6QgI2RacAAPjCl.jpg" width="600" alt="Página web "Hola mundo" con variantes de estilo lineal - Image 3">
 </div>
 
 #### 📌 Detalles
@@ -258,7 +258,7 @@ Valores uniformes para cada sombreador (progresión del tiempo, progreso del des
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209263817_ppwln2_Fki2iITrOE6gCPlf.jpg" width="600" alt="Página de experiencia de producto de reloj 3D de lujo (Next.js + Three.js) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209263817_ppwln2_Fki2iITrOE6gCPlf.jpg" width="600" alt="Página de experiencia de producto de reloj 3D de lujo (Next.js + Three.js) - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -292,7 +292,7 @@ Eres un veterano maestro de la programación de videojuegos. Por favor, ayúdame
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209194824_ts6ken_jsGpVuIdSwPESSnR.jpg" width="600" alt="Prompt para un editor de captura de vídeo de Zelda divertido - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209194824_ts6ken_jsGpVuIdSwPESSnR.jpg" width="600" alt="Prompt para un editor de captura de vídeo de Zelda divertido - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -332,7 +332,7 @@ Convierte la pantalla única en un sitio de desplazamiento con múltiples seccio
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209174368_jdx5gi_6A51eMDR7nvxQOPd.jpg" width="600" alt="Página de inicio de Three.js para smartwatch de lujo con secciones animadas - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209174368_jdx5gi_6A51eMDR7nvxQOPd.jpg" width="600" alt="Página de inicio de Three.js para smartwatch de lujo con secciones animadas - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -366,7 +366,7 @@ Genera {argument name="icon_count_en" default="40"} iconos sencillos y muy vers�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209262445_mf7cya_G6MWd-wbsAAKYiw.jpg" width="600" alt="Generar 40 iconos SVG sencillos con botones de descarga - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209262445_mf7cya_G6MWd-wbsAAKYiw.jpg" width="600" alt="Generar 40 iconos SVG sencillos con botones de descarga - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -402,7 +402,7 @@ Usa cualquier biblioteca de voxel o WebGL que prefieras, pero entrega el proyect
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209216678_bb9sac_N3NTnsH6x0dVwRpf.jpg" width="600" alt="Escena HTML de un solo archivo de jardín de pagoda de arte voxel - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209216678_bb9sac_N3NTnsH6x0dVwRpf.jpg" width="600" alt="Escena HTML de un solo archivo de jardín de pagoda de arte voxel - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -435,7 +435,7 @@ Recrea un panel de datos de criptomonedas futurista en modo oscuro: utiliza un f
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209220218_kppymm_mu18egPuhdhyynBc.jpg" width="600" alt="Interfaz de usuario de panel de control de criptomonedas futurista - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209220218_kppymm_mu18egPuhdhyynBc.jpg" width="600" alt="Interfaz de usuario de panel de control de criptomonedas futurista - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -468,7 +468,7 @@ Diseña una animación mecánica de una noria SVG que incluya una rueda principa
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209214086_7c83l2_fGU454kI2vu8dFjI.jpg" width="600" alt="Animación mecánica de una noria SVG en HTML - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209214086_7c83l2_fGU454kI2vu8dFjI.jpg" width="600" alt="Animación mecánica de una noria SVG en HTML - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -502,7 +502,7 @@ Cree una página web de "curso de entrenamiento" china inspirada en {argument na
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209217106_6fmlu1_3SnhTqXry41EUPsg.jpg" width="600" alt="Sitio web del curso de entrenamiento chino Keep-inspired - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209217106_6fmlu1_3SnhTqXry41EUPsg.jpg" width="600" alt="Sitio web del curso de entrenamiento chino Keep-inspired - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -535,7 +535,7 @@ Cree una página de fitness china al estilo Keep con una interfaz de usuario lim
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209210820_oxsdtd_JD0qwSM30jXTVCtO.jpg" width="600" alt="Página de fitness china estilo Keep (HTML único) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209210820_oxsdtd_JD0qwSM30jXTVCtO.jpg" width="600" alt="Página de fitness china estilo Keep (HTML único) - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -568,7 +568,7 @@ Crea un sitio web neobrutalista que traspase los límites de la creatividad. Inc
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209207369_aa3rub_Com2rFXK131nN-WJ.jpg" width="600" alt="Prompt de diseño de sitio web neobrutalista - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209207369_aa3rub_Com2rFXK131nN-WJ.jpg" width="600" alt="Prompt de diseño de sitio web neobrutalista - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -601,7 +601,7 @@ Por favor, desarrolla una aplicación de cámara web con una atmósfera retro de
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209203730_z4nncu_80rs2O9LInawTSTj.jpg" width="600" alt="Sitio web de cámara Polaroid retro con muro de fotos - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209203730_z4nncu_80rs2O9LInawTSTj.jpg" width="600" alt="Sitio web de cámara Polaroid retro con muro de fotos - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -634,7 +634,7 @@ Genera una aplicación web china donde los usuarios registren sus sueños cada m
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209238976_et7ieq_7pJ4fC5sdbhGHT7S.jpg" width="600" alt="Aplicación web de diario de sueños estilo tarot - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209238976_et7ieq_7pJ4fC5sdbhGHT7S.jpg" width="600" alt="Aplicación web de diario de sueños estilo tarot - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -671,7 +671,7 @@ Actúa como un ingeniero frontend y diseñador UX de talla mundial. Crea una {ar
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209267012_gx9du5_eHxLjy9ur6Zi0Prr.jpg" width="600" alt="Aplicación de construcción 3D con Gemini y React - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209267012_gx9du5_eHxLjy9ur6Zi0Prr.jpg" width="600" alt="Aplicación de construcción 3D con Gemini y React - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -705,7 +705,7 @@ El estilo de diseño debe seguir a Linear, solo en modo oscuro, con una sensaci�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209223074_p70pfd_LqvLh0zCSYOy3-VE.jpg" width="600" alt="Aplicación web de análisis MBTI para X (Twitter) - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209223074_p70pfd_LqvLh0zCSYOy3-VE.jpg" width="600" alt="Aplicación web de análisis MBTI para X (Twitter) - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -739,7 +739,7 @@ Genera una aplicación de vestuario Hanfu con IA en chino. Utiliza tecnología d
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg" width="600" alt="Aplicación de probador virtual de Hanfu con IA - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209249948_o2ejtv_bEBJ9Q-sEm-FuO9_.jpg" width="600" alt="Aplicación de probador virtual de Hanfu con IA - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -773,7 +773,7 @@ Ayúdame a crear una aplicación web de máquina de escribir retro, con la temá
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209243747_6zn4ng_st6US49_VK2ldIvf.jpg" width="600" alt="Aplicación web Retro Motorola Fix Beeper de máquina de escribir - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209243747_6zn4ng_st6US49_VK2ldIvf.jpg" width="600" alt="Aplicación web Retro Motorola Fix Beeper de máquina de escribir - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -807,7 +807,7 @@ Genera una aplicación web en {argument name="language_en" default="chino"} que 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209254334_uu21fi_fDJNuJlmTIVYVYvr.jpg" width="600" alt="Aplicación web china de constelaciones de la mitología griega - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209254334_uu21fi_fDJNuJlmTIVYVYvr.jpg" width="600" alt="Aplicación web china de constelaciones de la mitología griega - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -841,7 +841,7 @@ Genera una aplicación web china de estilo ciber para un almanaque diario modern
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209237338_qmtoz8_2y43kqiU39gDRcwd.jpg" width="600" alt="Aplicación web de almanaque chino moderno estilo ciberpunk - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209237338_qmtoz8_2y43kqiU39gDRcwd.jpg" width="600" alt="Aplicación web de almanaque chino moderno estilo ciberpunk - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -874,7 +874,7 @@ Por favor, ayúdame a crear una aplicación web de cámara estilo Polaroid retro
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209224660_q703c0_3hoHx30nVZ5b8yyw.jpg" width="600" alt="Aplicación web de cámara estilo Polaroid retro - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209224660_q703c0_3hoHx30nVZ5b8yyw.jpg" width="600" alt="Aplicación web de cámara estilo Polaroid retro - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -908,7 +908,7 @@ Diseña un sitio web maximalista para una startup ficticia que vende {argument n
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255462517_0xbgr4_8CEmdG0IihE4XzEk.jpg" width="600" alt="Sitio web de una startup de perritos calientes digitales maximalista - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255462517_0xbgr4_8CEmdG0IihE4XzEk.jpg" width="600" alt="Sitio web de una startup de perritos calientes digitales maximalista - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -942,7 +942,7 @@ Crea un fractal Mandelbulb de raymarching en GLSL, rodéalo con {argument name="
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209159016_6yk3yw_TCUAUpzJbxn8xmOV.jpg" width="600" alt="Fractal Mandelbulb con *raymarching* y partículas que reaccionan al audio en Three.js - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209159016_6yk3yw_TCUAUpzJbxn8xmOV.jpg" width="600" alt="Fractal Mandelbulb con *raymarching* y partículas que reaccionan al audio en Three.js - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -976,7 +976,7 @@ Eres el estudio {argument name="studio_name_en" default="makemepulse"}. Créame 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209176859_vznbt0_UPKTu2bYW7AZTCBs.jpg" width="600" alt="Sitio web estilo agencia para un cliente llamado AP - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209176859_vznbt0_UPKTu2bYW7AZTCBs.jpg" width="600" alt="Sitio web estilo agencia para un cliente llamado AP - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1011,7 +1011,7 @@ Utiliza `threejs` para aplicar un efecto de OJOS LÁSER a la cara capturada por 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255461636_mdlo2t_TrOA856i8yUthOuI.jpg" width="600" alt="Demostración web del efecto de ojos láser con Mediapipe y Three.js - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255461636_mdlo2t_TrOA856i8yUthOuI.jpg" width="600" alt="Demostración web del efecto de ojos láser con Mediapipe y Three.js - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1045,7 +1045,7 @@ Diseña una réplica completa del modo supervivencia de {argument name="game_nam
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255475793_hdfpvg_nCOFPLDKO3ls9qTb.jpg" width="600" alt="Réplica de Minecraft en Three.js en modo supervivencia - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255475793_hdfpvg_nCOFPLDKO3ls9qTb.jpg" width="600" alt="Réplica de Minecraft en Three.js en modo supervivencia - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1083,7 +1083,7 @@ Sorpréndeme, sé creativo y hazlo paso a paso.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764255470380_e6ucvk_ubnvLR01M37lxkrV.jpg" width="600" alt="Página de destino empresarial con diseño interactivo adaptable - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764255470380_e6ucvk_ubnvLR01M37lxkrV.jpg" width="600" alt="Página de destino empresarial con diseño interactivo adaptable - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1117,7 +1117,7 @@ Genera una aplicación web que presente un {argument name="color_system_en" defa
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209241902_949ick_ne0FJRQI-oGbGgfq.jpg" width="600" alt="Aplicación web diaria de colores tradicionales chinos - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209241902_949ick_ne0FJRQI-oGbGgfq.jpg" width="600" alt="Aplicación web diaria de colores tradicionales chinos - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1151,7 +1151,7 @@ Ayúdame a escribir un editor de texto enriquecido basado en web similar a {argu
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg" width="600" alt="Editor de texto enriquecido web tipo Word en un solo archivo HTML - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209173944_kwdxz8_lQts3X1jzvL5Lb7g.jpg" width="600" alt="Editor de texto enriquecido web tipo Word en un solo archivo HTML - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1186,7 +1186,7 @@ Usa Tailwind CSS + HTML5, añade animaciones y genera solo el código HTML direc
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209256210_9yuf3c_nSwhmffYWeL8BVnG.jpg" width="600" alt="Página de destino de la clasificación de KOLs chinos en Twitter - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209256210_9yuf3c_nSwhmffYWeL8BVnG.jpg" width="600" alt="Página de destino de la clasificación de KOLs chinos en Twitter - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1220,7 +1220,7 @@ Crea un libro ilustrado para aprender {argument name="learning_subject" default=
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209248163_oeazqe_wznIvkBORVz7dPEt.jpg" width="600" alt="Aplicación web de aprendizaje de libros ilustrados en inglés - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209248163_oeazqe_wznIvkBORVz7dPEt.jpg" width="600" alt="Aplicación web de aprendizaje de libros ilustrados en inglés - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1253,7 +1253,7 @@ Crea una animación que demuestre el principio capacitivo de una pantalla tácti
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="Animación del principio de la pantalla táctil capacitiva - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="Animación del principio de la pantalla táctil capacitiva - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1287,7 +1287,7 @@ Crea una animación de demostración del algoritmo de recomendación para {argum
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209245189_xk7l00_GCkbyVRynHwDSc_u.jpg" width="600" alt="Animación de demostración del algoritmo de recomendación de Douyin - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209245189_xk7l00_GCkbyVRynHwDSc_u.jpg" width="600" alt="Animación de demostración del algoritmo de recomendación de Douyin - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1320,7 +1320,7 @@ Un sistema de engranajes de varios niveles en el que la rotación del engranaje 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209182169_3uxnqx_S4oQ9lQndCTR9dpO.jpg" width="600" alt="Animación del sistema de varillaje de engranajes multinivel - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209182169_3uxnqx_S4oQ9lQndCTR9dpO.jpg" width="600" alt="Animación del sistema de varillaje de engranajes multinivel - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1353,7 +1353,7 @@ Crea un sitio web con desplazamiento parallax y efectos visuales explosivos: fon
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209251231_c47kvt_f7sUEhYX0T-TA08T.jpg" width="600" alt="Página de inicio con desplazamiento parallax y efectos visuales explosivos - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209251231_c47kvt_f7sUEhYX0T-TA08T.jpg" width="600" alt="Página de inicio con desplazamiento parallax y efectos visuales explosivos - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1393,25 +1393,25 @@ Estilo: {argument name="style_en" default="Apple/Linear-like Swiss modern style"
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg" width="600" alt="Generador de landing pages de estilo suizo de alta gama en React - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209183164_ff2fxj_G6EeVp4bMAE1rkh.jpg" width="600" alt="Generador de landing pages de estilo suizo de alta gama en React - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209185261_u9bsts_G6EeVogaQAA3ryy.jpg" width="600" alt="Generador de landing pages de estilo suizo de alta gama en React - Image 2">
+<img src="https://cms-assets.youmind.com/media/1764209185261_u9bsts_G6EeVogaQAA3ryy.jpg" width="600" alt="Generador de landing pages de estilo suizo de alta gama en React - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209191329_c5zs4w_G6EeVp2bMAIw9A4.jpg" width="600" alt="Generador de landing pages de estilo suizo de alta gama en React - Image 3">
+<img src="https://cms-assets.youmind.com/media/1764209191329_c5zs4w_G6EeVp2bMAIw9A4.jpg" width="600" alt="Generador de landing pages de estilo suizo de alta gama en React - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209194378_bqwb5i_G6EeVp7bkAA4BZ9.jpg" width="600" alt="Generador de landing pages de estilo suizo de alta gama en React - Image 4">
+<img src="https://cms-assets.youmind.com/media/1764209194378_bqwb5i_G6EeVp7bkAA4BZ9.jpg" width="600" alt="Generador de landing pages de estilo suizo de alta gama en React - Image 4">
 </div>
 
 #### 📌 Detalles
@@ -1444,7 +1444,7 @@ Una interfaz de neón con *glassmorphism* con efectos de iluminación de UI ultr
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg" width="600" alt="Interfaz de usuario de neón con *glassmorphism* - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209235569_ubbhh8_hniRordigEgw3eLQ.jpg" width="600" alt="Interfaz de usuario de neón con *glassmorphism* - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1477,7 +1477,7 @@ Utilice SVG para dibujar una demostración dinámica e interactiva de cómo Tesl
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209230976_s1ev99_jNGZl2r_QttuS_eV.jpg" width="600" alt="Demostración interactiva en SVG del reconocimiento de carreteras de Tesla FSD - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209230976_s1ev99_jNGZl2r_QttuS_eV.jpg" width="600" alt="Demostración interactiva en SVG del reconocimiento de carreteras de Tesla FSD - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1511,7 +1511,7 @@ Crea la página de GitHub de {argument name="project_name_en" default="React"}.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209164010_kfcr6v_UVP2rlimdiU6iAGm.jpg" width="600" alt="Reconstruir la interfaz de usuario de la página de proyecto de React de GitHub - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209164010_kfcr6v_UVP2rlimdiU6iAGm.jpg" width="600" alt="Reconstruir la interfaz de usuario de la página de proyecto de React de GitHub - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1548,7 +1548,7 @@ También coloca bloques blancos en el centro de la sala.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg" width="600" alt="Escena de recorrido por el museo en Three.js - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209190782_xuvxaf_lG3hvJgHdeeMM0Il.jpg" width="600" alt="Escena de recorrido por el museo en Three.js - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1581,7 +1581,7 @@ He proporcionado una imagen. Codifica una hermosa escena de arte voxel inspirada
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209269076_pv0z04_ViPc6k-OigB0DvZy.jpg" width="600" alt="Generación de escenas de arte voxel en threejs a partir de una imagen - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209269076_pv0z04_ViPc6k-OigB0DvZy.jpg" width="600" alt="Generación de escenas de arte voxel en threejs a partir de una imagen - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1614,7 +1614,7 @@ Crea un cubo de Rubik 3D, incluye un botón para mezclarlo que baraje el cubo y 
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg" width="600" alt="Aplicación web de cubo de Rubik 3D con controles de mezcla y resolución - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209166801_28oo2s_Yw11-5ANo4d3iKMe.jpg" width="600" alt="Aplicación web de cubo de Rubik 3D con controles de mezcla y resolución - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1648,7 +1648,7 @@ Diseña un {argument name="app_name_en" default="CapCut"}.
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209226668_w793aq_M4xeFftoGPdIXQ73.jpg" width="600" alt="Interfaz de usuario de editor de video tipo CapCut en Gemini - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209226668_w793aq_M4xeFftoGPdIXQ73.jpg" width="600" alt="Interfaz de usuario de editor de video tipo CapCut en Gemini - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1682,7 +1682,7 @@ Crea un juego de {argument name="game_type_en" default="billar"} completamente f
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209229502_z8h43e_Sfw2XxjctaA-jcVN.jpg" width="600" alt="Juego de billar en HTML de un solo archivo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209229502_z8h43e_Sfw2XxjctaA-jcVN.jpg" width="600" alt="Juego de billar en HTML de un solo archivo - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1716,7 +1716,7 @@ Por favor, genera un HTML (SVG) de una sola página para un «{argument name="sy
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209232746_9r9qr8_6ATKtxR2C-Z_bgH4.jpg" width="600" alt="HTML de una sola página de monitoreo de Quantum core - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209232746_9r9qr8_6ATKtxR2C-Z_bgH4.jpg" width="600" alt="HTML de una sola página de monitoreo de Quantum core - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1749,7 +1749,7 @@ Crea una página web dinámica que utilice un estilo de nube de puntos genial pa
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209260950_8uv2vi_xRfGc1qs6KNG9LQh.jpg" width="600" alt="Página web de relatividad especial de nube de puntos dinámica - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209260950_8uv2vi_xRfGc1qs6KNG9LQh.jpg" width="600" alt="Página web de relatividad especial de nube de puntos dinámica - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1783,7 +1783,7 @@ Crea un SVG de un {argument name="controller_type_en" default="controlador de Xb
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg" width="600" alt="SVG de un solo archivo de un mando de Xbox - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209158979_4xcpbe_G6CeUfEX0AApWPC.jpg" width="600" alt="SVG de un solo archivo de un mando de Xbox - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1817,7 +1817,7 @@ Crea una página web neobrutalista, hazla extremadamente creativa y lleva los l�
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg" width="600" alt="Prompt de generación de página web neobrutalista - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209270654_9o0of1_5Grq3MMeGuW79EHM.jpg" width="600" alt="Prompt de generación de página web neobrutalista - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1851,7 +1851,7 @@ SVG del {argument name="city_skyline_en" default="horizonte de Nueva York"}. Uti
 ##### Image 1
 
 <div align="center">
-<img src="https://cdn.gooo.ai/cms/1764209201317_tgxusr_G3Yz3dKWkAAp-iS.jpg" width="600" alt="Escena SVG de la silueta de Nueva York en un solo HTML - Image 1">
+<img src="https://cms-assets.youmind.com/media/1764209201317_tgxusr_G3Yz3dKWkAAp-iS.jpg" width="600" alt="Escena SVG de la silueta de Nueva York en un solo HTML - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -1908,6 +1908,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar una estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-11T12:39:43.543Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-11T16:26:14.169Z</sub>
 
 </div>
