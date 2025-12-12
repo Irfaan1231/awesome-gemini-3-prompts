@@ -86,9 +86,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **50** |
+| 📝 提示詞總數 | **49** |
 | ⭐ 精選 | **0** |
-| 🔄 最後更新 | **2025年12月12日 星期五 凌晨1:22:33 [UTC]** |
+| 🔄 最後更新 | **2025年12月12日 星期五 凌晨4:31:31 [UTC]** |
 
 </div>
 
@@ -1232,40 +1232,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 33: 電容式觸控螢幕原理動畫
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一個簡短的中文提示，要求 Gemini 製作一個動畫，演示電容式觸控螢幕的運作原理，適用於教育視覺化。
-
-#### 📝 提示詞
-
-```
-建立一個動畫，演示觸控螢幕的電容原理。
-```
-
-#### 🖼️ 示例圖
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="電容式觸控螢幕原理動畫 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [松果先森](https://x.com/songguoxiansen)
-- **來源:** [Twitter Post](https://x.com/songguoxiansen/status/1991031879156576326)
-- **發布時間:** 2025年11月19日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/gemini-3-prompts?prompt=%E5%BB%BA%E7%AB%8B%E4%B8%80%E5%80%8B%E5%8B%95%E7%95%AB%EF%BC%8C%E6%BC%94%E7%A4%BA%E8%A7%B8%E6%8E%A7%E8%9E%A2%E5%B9%95%E7%9A%84%E9%9B%BB%E5%AE%B9%E5%8E%9F%E7%90%86%E3%80%82)**
-
----
-
-### No. 34: 抖音推薦演算法演示動畫
+### No. 33: 抖音推薦演算法演示動畫
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1299,7 +1266,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 35: 多級齒輪連動系統動畫
+### No. 34: 多級齒輪連動系統動畫
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1332,7 +1299,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 36: 具爆炸性視覺效果的視差滾動首頁
+### No. 35: 具爆炸性視覺效果的視差滾動首頁
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1365,7 +1332,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 37: React 高端瑞士風格登陸頁面產生器
+### No. 36: React 高端瑞士風格登陸頁面產生器
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1423,7 +1390,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 38: 玻璃擬態霓虹介面 UI
+### No. 37: 玻璃擬態霓虹介面 UI
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1456,7 +1423,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 39: Tesla FSD 道路識別的互動式 SVG 示範
+### No. 38: Tesla FSD 道路識別的互動式 SVG 示範
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1489,7 +1456,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 40: 重新打造 GitHub 的 React 專案頁面 UI
+### No. 39: 重新打造 GitHub 的 React 專案頁面 UI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1523,7 +1490,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 41: Three.js 博物館導覽場景
+### No. 40: Three.js 博物館導覽場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1560,7 +1527,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 42: 從圖片生成 Voxel 藝術 three.js 場景提示
+### No. 41: 從圖片生成 Voxel 藝術 three.js 場景提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1593,7 +1560,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 43: 具備混亂與還原控制項的 3D 魔術方塊網路應用程式
+### No. 42: 具備混亂與還原控制項的 3D 魔術方塊網路應用程式
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1627,7 +1594,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 44: Gemini 中類似 CapCut 的影片編輯器 UI
+### No. 43: Gemini 中類似 CapCut 的影片編輯器 UI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1661,7 +1628,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 45: 單一檔案 HTML 撞球遊戲
+### No. 44: 單一檔案 HTML 撞球遊戲
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1695,7 +1662,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 46: Quantum core 監控單頁 HTML
+### No. 45: Quantum core 監控單頁 HTML
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1729,7 +1696,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 47: 動態點雲狹義相對論網頁
+### No. 46: 動態點雲狹義相對論網頁
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1762,7 +1729,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 48: 單一檔案的 Xbox 控制器 SVG
+### No. 47: 單一檔案的 Xbox 控制器 SVG
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1796,7 +1763,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 49: 新粗野主義網頁生成提示
+### No. 48: 新粗野主義網頁生成提示
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1830,7 +1797,7 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 
 ---
 
-### No. 50: 紐約天際線 SVG 單一 HTML 場景
+### No. 49: 紐約天際線 SVG 單一 HTML 場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1907,6 +1874,6 @@ PBR 材質著色器（粗糙度、金屬度、AO）
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2025-12-12T01:22:33.891Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2025-12-12T04:31:31.764Z</sub>
 
 </div>

@@ -86,9 +86,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **50** |
+| 📝 Tổng số câu lệnh | **49** |
 | ⭐ Nổi bật | **0** |
-| 🔄 Cập nhật lần cuối | **lúc 01:22:36 UTC Thứ Sáu, 12 tháng 12, 2025** |
+| 🔄 Cập nhật lần cuối | **lúc 04:31:32 UTC Thứ Sáu, 12 tháng 12, 2025** |
 
 </div>
 
@@ -1234,40 +1234,7 @@ Tạo một cuốn sách tranh để học {argument name="learning_subject" def
 
 ---
 
-### No. 33: Hoạt ảnh nguyên lý màn hình cảm ứng điện dung
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Mô tả
-
-Một lời nhắc ngắn bằng tiếng Trung yêu cầu Gemini tạo một ảnh động minh họa cách hoạt động của màn hình cảm ứng điện dung, phù hợp cho các hình ảnh trực quan mang tính giáo dục.
-
-#### 📝 Câu lệnh
-
-```
-Tạo một ảnh động minh họa nguyên lý điện dung của màn hình cảm ứng.
-```
-
-#### 🖼️ Hình ảnh ví dụ
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="Hoạt ảnh nguyên lý màn hình cảm ứng điện dung - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [松果先森](https://x.com/songguoxiansen)
-- **Nguồn:** [Twitter Post](https://x.com/songguoxiansen/status/1991031879156576326)
-- **Đã xuất bản:** 19 tháng 11, 2025
-- **Ngôn ngữ:** zh
-
-**[👉 Thử ngay →](https://youmind.com/gemini-3-prompts?prompt=T%E1%BA%A1o%20m%E1%BB%99t%20%E1%BA%A3nh%20%C4%91%E1%BB%99ng%20minh%20h%E1%BB%8Da%20nguy%C3%AAn%20l%C3%BD%20%C4%91i%E1%BB%87n%20dung%20c%E1%BB%A7a%20m%C3%A0n%20h%C3%ACnh%20c%E1%BA%A3m%20%E1%BB%A9ng.)**
-
----
-
-### No. 34: Hoạt ảnh demo thuật toán đề xuất của Douyin
+### No. 33: Hoạt ảnh demo thuật toán đề xuất của Douyin
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1301,7 +1268,7 @@ Tạo một bản demo hoạt hình về thuật toán đề xuất cho {argumen
 
 ---
 
-### No. 35: Hoạt ảnh hệ thống liên kết bánh răng đa cấp
+### No. 34: Hoạt ảnh hệ thống liên kết bánh răng đa cấp
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1334,7 +1301,7 @@ Một hệ thống liên kết bánh răng đa cấp, trong đó việc xoay bá
 
 ---
 
-### No. 36: Trang chủ cuộn thị sai với hiệu ứng hình ảnh bùng nổ
+### No. 35: Trang chủ cuộn thị sai với hiệu ứng hình ảnh bùng nổ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1367,7 +1334,7 @@ Tạo một trang web cuộn thị sai (parallax scrolling) với hiệu ứng h
 
 ---
 
-### No. 37: Trình tạo trang đích phong cách Thụy Sĩ cao cấp trong React
+### No. 36: Trình tạo trang đích phong cách Thụy Sĩ cao cấp trong React
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1425,7 +1392,7 @@ Phong cách: {argument name="style_en" default="Apple/Linear-like Swiss modern s
 
 ---
 
-### No. 38: Giao diện UI hiệu ứng Glassmorphism neon
+### No. 37: Giao diện UI hiệu ứng Glassmorphism neon
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1458,7 +1425,7 @@ Giao diện neon glassmorphism với hiệu ứng ánh sáng UI siêu hiện đ�
 
 ---
 
-### No. 39: Bản demo SVG tương tác về khả năng nhận diện đường của Tesla FSD
+### No. 38: Bản demo SVG tương tác về khả năng nhận diện đường của Tesla FSD
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1491,7 +1458,7 @@ Sử dụng SVG để vẽ một bản demo động, tương tác về cách Tes
 
 ---
 
-### No. 40: Xây dựng lại giao diện người dùng trang dự án React của GitHub
+### No. 39: Xây dựng lại giao diện người dùng trang dự án React của GitHub
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1525,7 +1492,7 @@ Xây dựng trang GitHub của {argument name="project_name_en" default="React"}
 
 ---
 
-### No. 41: Cảnh tham quan bảo tàng Three.js
+### No. 40: Cảnh tham quan bảo tàng Three.js
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1562,7 +1529,7 @@ Ngoài ra, hãy đặt các khối màu trắng ở giữa sảnh.
 
 ---
 
-### No. 42: Tạo cảnh 3D voxel art trong Three.js từ hình ảnh
+### No. 41: Tạo cảnh 3D voxel art trong Three.js từ hình ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1595,7 +1562,7 @@ Tôi đã cung cấp một hình ảnh. Hãy viết mã để tạo một cảnh
 
 ---
 
-### No. 43: Ứng dụng web khối Rubik 3D với các điều khiển trộn và giải
+### No. 42: Ứng dụng web khối Rubik 3D với các điều khiển trộn và giải
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1629,7 +1596,7 @@ Xây dựng một {argument name="puzzle_type_en" default="khối Rubik"} 3D, ba
 
 ---
 
-### No. 44: Giao diện người dùng trình chỉnh sửa video giống CapCut trong Gemini
+### No. 43: Giao diện người dùng trình chỉnh sửa video giống CapCut trong Gemini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1663,7 +1630,7 @@ Thiết kế một {argument name="app_name_en" default="CapCut"}.
 
 ---
 
-### No. 45: Trò chơi bi-a HTML một tệp
+### No. 44: Trò chơi bi-a HTML một tệp
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1697,7 +1664,7 @@ Hãy tạo một {argument name="game_type_en" default="trò chơi bi-a"} đầy
 
 ---
 
-### No. 46: Giám sát lõi lượng tử HTML một trang
+### No. 45: Giám sát lõi lượng tử HTML một trang
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1731,7 +1698,7 @@ Vui lòng tạo một trang HTML (SVG) duy nhất cho “{argument name="system_
 
 ---
 
-### No. 47: Trang web thuyết tương đối đặc biệt của đám mây điểm động
+### No. 46: Trang web thuyết tương đối đặc biệt của đám mây điểm động
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1764,7 +1731,7 @@ Viết một trang web động sử dụng phong cách đám mây điểm (point
 
 ---
 
-### No. 48: SVG một tệp của bộ điều khiển Xbox
+### No. 47: SVG một tệp của bộ điều khiển Xbox
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1798,7 +1765,7 @@ Tạo một SVG của {argument name="controller_type_en" default="tay cầm Xbo
 
 ---
 
-### No. 49: Lời nhắc tạo trang web Neobrutalist
+### No. 48: Lời nhắc tạo trang web Neobrutalist
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1832,7 +1799,7 @@ Hãy tạo một trang web theo phong cách Neobrutalism, cực kỳ sáng tạo
 
 ---
 
-### No. 50: Khung cảnh đường chân trời New York SVG một tệp HTML
+### No. 49: Khung cảnh đường chân trời New York SVG một tệp HTML
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1909,6 +1876,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-12T01:22:36.826Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2025-12-12T04:31:32.619Z</sub>
 
 </div>

@@ -86,9 +86,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **50** |
+| 📝 Toplam İstem | **49** |
 | ⭐ Öne Çıkan | **0** |
-| 🔄 Son Güncelleme | **12 Aralık 2025 Cuma 01:22:39 UTC** |
+| 🔄 Son Güncelleme | **12 Aralık 2025 Cuma 04:31:35 UTC** |
 
 </div>
 
@@ -1233,40 +1233,7 @@ Resimli kitaplar aracılığıyla İngilizce öğrenmek için bir web uygulamas�
 
 ---
 
-### No. 33: Kapasitif dokunmatik ekran prensibi animasyonu
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Açıklama
-
-Gemini'den, eğitimsel görselleştirmeler için uygun, kapasitif dokunmatik ekranların nasıl çalıştığını gösteren bir animasyon oluşturmasını isteyen kısa bir Çince istem.
-
-#### 📝 İstem
-
-```
-Bir dokunmatik ekranın kapasitif prensibini gösteren bir animasyon oluşturun.
-```
-
-#### 🖼️ Örnek Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="Kapasitif dokunmatik ekran prensibi animasyonu - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [松果先森](https://x.com/songguoxiansen)
-- **Kaynak:** [Twitter Post](https://x.com/songguoxiansen/status/1991031879156576326)
-- **Yayınlandı:** 19 Kasım 2025
-- **Diller:** zh
-
-**[👉 Şimdi dene →](https://youmind.com/gemini-3-prompts?prompt=Bir%20dokunmatik%20ekran%C4%B1n%20kapasitif%20prensibini%20g%C3%B6steren%20bir%20animasyon%20olu%C5%9Fturun.)**
-
----
-
-### No. 34: Douyin öneri algoritması demo animasyonu
+### No. 33: Douyin öneri algoritması demo animasyonu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1300,7 +1267,7 @@ Douyin'in öneri algoritmasının animasyon demosunu oluşturmak için kısa bir
 
 ---
 
-### No. 35: Çok seviyeli dişli bağlantı sistemi animasyonu
+### No. 34: Çok seviyeli dişli bağlantı sistemi animasyonu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1333,7 +1300,7 @@ Ana dişliyi döndürmenin tüm dişlilerin orantılı olarak otomatik hareket e
 
 ---
 
-### No. 36: Patlayıcı görsel efektlere sahip paralaks kaydırmalı ana sayfa
+### No. 35: Patlayıcı görsel efektlere sahip paralaks kaydırmalı ana sayfa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1366,7 +1333,7 @@ Patlayıcı görsel efektlere sahip bir paralaks kaydırma web sitesi oluşturun
 
 ---
 
-### No. 37: React ile üst düzey İsviçre tarzı açılış sayfası oluşturucu
+### No. 36: React ile üst düzey İsviçre tarzı açılış sayfası oluşturucu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1424,7 +1391,7 @@ Stil: {argument name="style_en" default="Apple/Linear-like Swiss modern style"},
 
 ---
 
-### No. 38: Glassmorphism neon arayüz UI
+### No. 37: Glassmorphism neon arayüz UI
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1457,7 +1424,7 @@ Ultra modern UI aydınlatma efektleri ve yarı saydam cam panellerle camlaşma n
 
 ---
 
-### No. 39: Tesla FSD yol tanıma özelliğinin etkileşimli SVG demosu
+### No. 38: Tesla FSD yol tanıma özelliğinin etkileşimli SVG demosu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1490,7 +1457,7 @@ Tesla FSD'nin yolları nasıl tanıdığını gösteren dinamik, etkileşimli bi
 
 ---
 
-### No. 40: GitHub'ın React proje sayfası kullanıcı arayüzünü yeniden oluşturun
+### No. 39: GitHub'ın React proje sayfası kullanıcı arayüzünü yeniden oluşturun
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1524,7 +1491,7 @@ Gemini 3 Pro'dan React'in GitHub sayfasını oluşturmasını, yani React deposu
 
 ---
 
-### No. 41: Three.js müze gezintisi sahnesi
+### No. 40: Three.js müze gezintisi sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1561,7 +1528,7 @@ Ayrıca salonun ortasına beyaz bloklar yerleştirin.
 
 ---
 
-### No. 42: Görselden Voxel Art Three.js Sahne Oluşturma İstemcisi
+### No. 41: Görselden Voxel Art Three.js Sahne Oluşturma İstemcisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1594,7 +1561,7 @@ Bir görsel sağladım. Bu görselden ilham alan güzel bir voksel sanat sahnesi
 
 ---
 
-### No. 43: Karıştırma ve çözme denetimlerine sahip 3 boyutlu Rubik Küpü web uygulaması
+### No. 42: Karıştırma ve çözme denetimlerine sahip 3 boyutlu Rubik Küpü web uygulaması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1628,7 +1595,7 @@ Kullanıcı tarafından karıştırılabilen, otomatik olarak çözülebilen ve 
 
 ---
 
-### No. 44: Gemini'da CapCut benzeri video düzenleyici kullanıcı arayüzü
+### No. 43: Gemini'da CapCut benzeri video düzenleyici kullanıcı arayüzü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1662,7 +1629,7 @@ Bir {argument name="app_name_en" default="CapCut"} tasarlayın.
 
 ---
 
-### No. 45: Tek dosyalı HTML bilardo oyunu
+### No. 44: Tek dosyalı HTML bilardo oyunu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1696,7 +1663,7 @@ Lütfen tek bir HTML dosyasında tam işlevli bir {argument name="game_type_en" 
 
 ---
 
-### No. 46: Quantum core izleme tek sayfalık HTML
+### No. 45: Quantum core izleme tek sayfalık HTML
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1730,7 +1697,7 @@ Lütfen "{argument name="system_name_en" default="Quantum Core Monitoring System
 
 ---
 
-### No. 47: Dinamik nokta bulutu özel görelilik web sayfası
+### No. 46: Dinamik nokta bulutu özel görelilik web sayfası
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1763,7 +1730,7 @@ Lütfen "{argument name="system_name_en" default="Quantum Core Monitoring System
 
 ---
 
-### No. 48: Xbox kontrol cihazının tek dosyalı SVG'si
+### No. 47: Xbox kontrol cihazının tek dosyalı SVG'si
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1797,7 +1764,7 @@ Bir {argument name="controller_type_en" default="Xbox kontrolcüsü"} SVG'si olu
 
 ---
 
-### No. 49: Neobrutalist web sayfası oluşturma istemi
+### No. 48: Neobrutalist web sayfası oluşturma istemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1831,7 +1798,7 @@ Bir neobrutalist web sayfası oluşturun, son derece yaratıcı olsun ve sınır
 
 ---
 
-### No. 50: New York silüeti SVG tek HTML sahnesi
+### No. 49: New York silüeti SVG tek HTML sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1908,6 +1875,6 @@ Ayrıntılı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasın
 **[📝 Bir istem gönder](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız ver](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-12T01:22:39.389Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2025-12-12T04:31:35.344Z</sub>
 
 </div>

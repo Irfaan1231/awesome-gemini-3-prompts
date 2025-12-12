@@ -86,9 +86,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **50** |
+| 📝 총 프롬프트 수 | **49** |
 | ⭐ 추천 | **0** |
-| 🔄 마지막 업데이트 | **2025년 12월 12일 금요일 오전 1시 22분 35초 UTC** |
+| 🔄 마지막 업데이트 | **2025년 12월 12일 금요일 오전 4시 31분 32초 UTC** |
 
 </div>
 
@@ -1234,40 +1234,7 @@ Tailwind CSS + HTML5를 사용하고 애니메이션을 추가하며, HTML 코�
 
 ---
 
-### No. 33: 정전식 터치스크린 원리 애니메이션
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 설명
-
-정전식 터치스크린 작동 방식을 보여주는 교육용 시각화 자료에 적합한 애니메이션을 만들도록 Gemini에게 요청하는 짧은 중국어 프롬프트.
-
-#### 📝 프롬프트
-
-```
-터치스크린의 정전식 원리를 보여주는 애니메이션을 만드세요.
-```
-
-#### 🖼️ 예시 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="정전식 터치스크린 원리 애니메이션 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [松果先森](https://x.com/songguoxiansen)
-- **출처:** [Twitter Post](https://x.com/songguoxiansen/status/1991031879156576326)
-- **게시일:** 2025년 11월 19일
-- **언어:** zh
-
-**[👉 지금 시도하기 →](https://youmind.com/gemini-3-prompts?prompt=%ED%84%B0%EC%B9%98%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%9D%98%20%EC%A0%95%EC%A0%84%EC%8B%9D%20%EC%9B%90%EB%A6%AC%EB%A5%BC%20%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%8A%94%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%EC%9D%84%20%EB%A7%8C%EB%93%9C%EC%84%B8%EC%9A%94.)**
-
----
-
-### No. 34: Douyin 추천 알고리즘 데모 애니메이션
+### No. 33: Douyin 추천 알고리즘 데모 애니메이션
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1301,7 +1268,7 @@ Douyin 추천 알고리즘의 애니메이션 데모를 생성하기 위한 짧�
 
 ---
 
-### No. 35: 다단계 기어 연결 시스템 애니메이션
+### No. 34: 다단계 기어 연결 시스템 애니메이션
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1334,7 +1301,7 @@ Douyin 추천 알고리즘의 애니메이션 데모를 생성하기 위한 짧�
 
 ---
 
-### No. 36: 폭발적인 시각 효과를 자랑하는 패럴랙스 스크롤링 홈페이지
+### No. 35: 폭발적인 시각 효과를 자랑하는 패럴랙스 스크롤링 홈페이지
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1367,7 +1334,7 @@ Douyin 추천 알고리즘의 애니메이션 데모를 생성하기 위한 짧�
 
 ---
 
-### No. 37: React 기반의 하이엔드 스위스 스타일 랜딩 페이지 생성기
+### No. 36: React 기반의 하이엔드 스위스 스타일 랜딩 페이지 생성기
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1425,7 +1392,7 @@ Gemini에게 엄격한 사양을 따르고 스위스 모던 및 벤토 레이아
 
 ---
 
-### No. 38: 글래스모피즘 네온 인터페이스 UI
+### No. 37: 글래스모피즘 네온 인터페이스 UI
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1458,7 +1425,7 @@ Gemini에게 엄격한 사양을 따르고 스위스 모던 및 벤토 레이아
 
 ---
 
-### No. 39: 테슬라 FSD 도로 인식의 대화형 SVG 데모
+### No. 38: 테슬라 FSD 도로 인식의 대화형 SVG 데모
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1491,7 +1458,7 @@ SVG를 사용하여 Tesla FSD가 도로를 인식하는 방식을 동적이고 �
 
 ---
 
-### No. 40: GitHub의 React 프로젝트 페이지 UI 재구축
+### No. 39: GitHub의 React 프로젝트 페이지 UI 재구축
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1525,7 +1492,7 @@ Gemini 3 Pro에게 React의 GitHub 페이지를 만들도록 요청하는 아주
 
 ---
 
-### No. 41: Three.js 박물관 둘러보기 장면
+### No. 40: Three.js 박물관 둘러보기 장면
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1562,7 +1529,7 @@ three.js로 장면을 만들어 보세요.
 
 ---
 
-### No. 42: 이미지로부터 복셀 아트 Three.js 씬 생성 프롬프트
+### No. 41: 이미지로부터 복셀 아트 Three.js 씬 생성 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1595,7 +1562,7 @@ three.js로 장면을 만들어 보세요.
 
 ---
 
-### No. 43: 믹스 및 솔브 컨트롤이 있는 3D 루빅스 큐브 웹 앱
+### No. 42: 믹스 및 솔브 컨트롤이 있는 3D 루빅스 큐브 웹 앱
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1629,7 +1596,7 @@ three.js로 장면을 만들어 보세요.
 
 ---
 
-### No. 44: Gemini의 CapCut과 유사한 동영상 편집기 UI
+### No. 43: Gemini의 CapCut과 유사한 동영상 편집기 UI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1663,7 +1630,7 @@ Gemini를 사용하여 CapCut 스타일의 동영상 편집 애플리케이션 �
 
 ---
 
-### No. 45: 단일 파일 HTML 당구 게임
+### No. 44: 단일 파일 HTML 당구 게임
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1697,7 +1664,7 @@ Gemini를 사용하여 CapCut 스타일의 동영상 편집 애플리케이션 �
 
 ---
 
-### No. 46: 퀀텀 코어 모니터링 단일 페이지 HTML
+### No. 45: 퀀텀 코어 모니터링 단일 페이지 HTML
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1731,7 +1698,7 @@ Gemini에게 '양자 코어 모니터링 시스템' UI를 나타내는 단일 �
 
 ---
 
-### No. 47: 동적 포인트 클라우드 특수 상대성 이론 웹페이지
+### No. 46: 동적 포인트 클라우드 특수 상대성 이론 웹페이지
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1764,7 +1731,7 @@ Gemini에게 '양자 코어 모니터링 시스템' UI를 나타내는 단일 �
 
 ---
 
-### No. 48: Xbox 컨트롤러 단일 파일 SVG
+### No. 47: Xbox 컨트롤러 단일 파일 SVG
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1798,7 +1765,7 @@ Gemini 3.0 Pro에 웹 페이지 또는 UI 구성 요소에 삽입하기에 적�
 
 ---
 
-### No. 49: 네오 브루탈리즘 웹페이지 생성 프롬프트
+### No. 48: 네오 브루탈리즘 웹페이지 생성 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1832,7 +1799,7 @@ dorksense라는 제목으로, 매우 창의적이고 네오브루탈리즘적인
 
 ---
 
-### No. 50: 뉴욕 스카이라인 SVG 단일 HTML 장면
+### No. 49: 뉴욕 스카이라인 SVG 단일 HTML 장면
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1909,6 +1876,6 @@ dorksense라는 제목으로, 매우 창의적이고 네오브루탈리즘적인
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-12T01:22:36.011Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2025-12-12T04:31:32.230Z</sub>
 
 </div>

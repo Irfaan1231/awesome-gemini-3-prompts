@@ -86,9 +86,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **50** |
+| 📝 Total de prompts | **49** |
 | ⭐ Destacado | **0** |
-| 🔄 Última actualización | **viernes, 12 de diciembre de 2025, 1:22:37 a.m. UTC** |
+| 🔄 Última actualización | **viernes, 12 de diciembre de 2025, 4:31:34 a.m. UTC** |
 
 </div>
 
@@ -1233,40 +1233,7 @@ Crea un libro ilustrado para aprender {argument name="learning_subject" default=
 
 ---
 
-### No. 33: Animación del principio de funcionamiento de una pantalla táctil capacitiva
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Descripción
-
-Un breve *prompt* en chino que le pide a Gemini que cree una animación que demuestre cómo funcionan las pantallas táctiles capacitivas, adecuada para visualizaciones educativas.
-
-#### 📝 Prompt
-
-```
-Crea una animación que demuestre el principio capacitivo de una pantalla táctil.
-```
-
-#### 🖼️ Imágenes de ejemplo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="Animación del principio de funcionamiento de una pantalla táctil capacitiva - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [松果先森](https://x.com/songguoxiansen)
-- **Fuente:** [Twitter Post](https://x.com/songguoxiansen/status/1991031879156576326)
-- **Publicado:** 19 de noviembre de 2025
-- **Idiomas:** zh
-
-**[👉 Pruébalo ahora →](https://youmind.com/gemini-3-prompts?prompt=Crea%20una%20animaci%C3%B3n%20que%20demuestre%20el%20principio%20capacitivo%20de%20una%20pantalla%20t%C3%A1ctil.)**
-
----
-
-### No. 34: Animación de demostración del algoritmo de recomendación de Douyin
+### No. 33: Animación de demostración del algoritmo de recomendación de Douyin
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1300,7 +1267,7 @@ Crea una animación de demostración del algoritmo de recomendación para {argum
 
 ---
 
-### No. 35: Animación de un sistema de varillaje de engranajes multinivel
+### No. 34: Animación de un sistema de varillaje de engranajes multinivel
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1333,7 +1300,7 @@ Un sistema de engranajes de varios niveles donde al girar el engranaje principal
 
 ---
 
-### No. 36: Página de inicio con desplazamiento parallax y efectos visuales explosivos
+### No. 35: Página de inicio con desplazamiento parallax y efectos visuales explosivos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1366,7 +1333,7 @@ Crea un sitio web con desplazamiento parallax y efectos visuales explosivos: fon
 
 ---
 
-### No. 37: Generador de landing pages de alta gama estilo suizo en React
+### No. 36: Generador de landing pages de alta gama estilo suizo en React
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1424,7 +1391,7 @@ Estilo: {argument name="style_en" default="Estilo moderno suizo tipo Apple/Linea
 
 ---
 
-### No. 38: Interfaz de usuario de neón con glassmorphism
+### No. 37: Interfaz de usuario de neón con glassmorphism
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1457,7 +1424,7 @@ Una interfaz de neón con *glassmorphism*, efectos de iluminación de UI ultramo
 
 ---
 
-### No. 39: Demostración interactiva en SVG del reconocimiento de carreteras de Tesla FSD
+### No. 38: Demostración interactiva en SVG del reconocimiento de carreteras de Tesla FSD
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1490,7 +1457,7 @@ Usa SVG para dibujar una demostración dinámica e interactiva de cómo Tesla FS
 
 ---
 
-### No. 40: Reconstruir la interfaz de usuario de la página de proyecto de React de GitHub
+### No. 39: Reconstruir la interfaz de usuario de la página de proyecto de React de GitHub
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1524,7 +1491,7 @@ Crea la página de GitHub de {argument name="project_name_en" default="React"}.
 
 ---
 
-### No. 41: Escena de recorrido por el museo en Three.js
+### No. 40: Escena de recorrido por el museo en Three.js
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1561,7 +1528,7 @@ También coloca bloques blancos en el centro de la sala.
 
 ---
 
-### No. 42: Generación de escenas de arte voxel en three.js a partir de una imagen
+### No. 41: Generación de escenas de arte voxel en three.js a partir de una imagen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1594,7 +1561,7 @@ He proporcionado una imagen. Codifica una hermosa escena de arte voxel inspirada
 
 ---
 
-### No. 43: Aplicación web de cubo de Rubik 3D con controles para mezclar y resolver
+### No. 42: Aplicación web de cubo de Rubik 3D con controles para mezclar y resolver
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1628,7 +1595,7 @@ Crea un cubo 3D {argument name="puzzle_type_en" default="Rubik"}, incluye un bot
 
 ---
 
-### No. 44: Interfaz de usuario de editor de video similar a CapCut en Gemini
+### No. 43: Interfaz de usuario de editor de video similar a CapCut en Gemini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1662,7 +1629,7 @@ Diseña un {argument name="app_name_en" default="CapCut"}.
 
 ---
 
-### No. 45: Juego de billar HTML de un solo archivo
+### No. 44: Juego de billar HTML de un solo archivo
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1696,7 +1663,7 @@ Crea un {argument name="game_type_en" default="juego de billar"} completamente f
 
 ---
 
-### No. 46: Monitoreo de núcleo cuántico HTML de una sola página
+### No. 45: Monitoreo de núcleo cuántico HTML de una sola página
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1730,7 +1697,7 @@ Por favor, genere una página HTML (SVG) única para un "{argument name="system_
 
 ---
 
-### No. 47: Página web de relatividad especial de nube de puntos dinámica
+### No. 46: Página web de relatividad especial de nube de puntos dinámica
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1763,7 +1730,7 @@ Crea una página web dinámica que use un estilo de nube de puntos genial para e
 
 ---
 
-### No. 48: SVG de un solo archivo de un control de Xbox
+### No. 47: SVG de un solo archivo de un control de Xbox
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1797,7 +1764,7 @@ Crea un SVG de un {argument name="controller_type_en" default="controlador de Xb
 
 ---
 
-### No. 49: Prompt para la generación de páginas web neobrutalistas
+### No. 48: Prompt para la generación de páginas web neobrutalistas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1831,7 +1798,7 @@ Crea una página web neobrutalista, que sea extremadamente creativa y que lleve 
 
 ---
 
-### No. 50: Escena SVG de un solo HTML del horizonte de Nueva York
+### No. 49: Escena SVG de un solo HTML del horizonte de Nueva York
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1908,6 +1875,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar una estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-12T01:22:37.778Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2025-12-12T04:31:34.171Z</sub>
 
 </div>

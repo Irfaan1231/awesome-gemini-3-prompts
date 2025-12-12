@@ -86,9 +86,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **50** |
+| 📝 Total des prompts | **49** |
 | ⭐ En vedette | **0** |
-| 🔄 Dernière mise à jour | **vendredi 12 décembre 2025 à 01:22:38 UTC** |
+| 🔄 Dernière mise à jour | **vendredi 12 décembre 2025 à 04:31:34 UTC** |
 
 </div>
 
@@ -1233,40 +1233,7 @@ Créez un livre d'images pour apprendre l' {argument name="learning_subject" def
 
 ---
 
-### No. 33: Animation du principe de l'écran tactile capacitif
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Description
-
-Une courte invite en chinois demandant à Gemini de créer une animation expliquant le fonctionnement des écrans tactiles capacitifs, adaptée aux visualisations éducatives.
-
-#### 📝 Prompt
-
-```
-Créez une animation démontrant le principe capacitif d'un écran tactile.
-```
-
-#### 🖼️ Images d'exemple
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="Animation du principe de l'écran tactile capacitif - Image 1">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [松果先森](https://x.com/songguoxiansen)
-- **Source:** [Twitter Post](https://x.com/songguoxiansen/status/1991031879156576326)
-- **Publié:** 19 novembre 2025
-- **Langues:** zh
-
-**[👉 Essayer maintenant →](https://youmind.com/gemini-3-prompts?prompt=Cr%C3%A9ez%20une%20animation%20d%C3%A9montrant%20le%20principe%20capacitif%20d'un%20%C3%A9cran%20tactile.)**
-
----
-
-### No. 34: Animation de démonstration de l'algorithme de recommandation Douyin
+### No. 33: Animation de démonstration de l'algorithme de recommandation Douyin
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1300,7 +1267,7 @@ Créez une animation de démonstration de l'algorithme de recommandation pour {a
 
 ---
 
-### No. 35: Animation du système de tringlerie de vitesses à plusieurs niveaux
+### No. 34: Animation du système de tringlerie de vitesses à plusieurs niveaux
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1333,7 +1300,7 @@ Un système de tringlerie d'engrenages à plusieurs niveaux où la rotation de l
 
 ---
 
-### No. 36: Page d'accueil à défilement parallaxe avec des effets visuels explosifs
+### No. 35: Page d'accueil à défilement parallaxe avec des effets visuels explosifs
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1366,7 +1333,7 @@ Créez un site web à défilement parallaxe avec des effets visuels explosifs : 
 
 ---
 
-### No. 37: Générateur de pages de destination haut de gamme de style suisse en React
+### No. 36: Générateur de pages de destination haut de gamme de style suisse en React
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1424,7 +1391,7 @@ Style : {argument name="style_en" default="Apple/Linear-like Swiss modern style"
 
 ---
 
-### No. 38: Interface utilisateur néon de glassmorphism
+### No. 37: Interface utilisateur néon de glassmorphism
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1457,7 +1424,7 @@ Une interface néon en *glassmorphism* avec des effets d'éclairage d'interface 
 
 ---
 
-### No. 39: Démo SVG interactive de la reconnaissance routière Tesla FSD
+### No. 38: Démo SVG interactive de la reconnaissance routière Tesla FSD
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1490,7 +1457,7 @@ Utilisez SVG pour dessiner une démonstration dynamique et interactive de la fa�
 
 ---
 
-### No. 40: Reconstruire l'interface utilisateur de la page de projet React de GitHub
+### No. 39: Reconstruire l'interface utilisateur de la page de projet React de GitHub
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1524,7 +1491,7 @@ Créez la page GitHub de {argument name="project_name_en" default="React"}.
 
 ---
 
-### No. 41: Scène de visite de musée Three.js
+### No. 40: Scène de visite de musée Three.js
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1561,7 +1528,7 @@ Placez également des blocs blancs au milieu du hall.
 
 ---
 
-### No. 42: Génération d'une scène Three.js en voxel art à partir d'une image (prompt)
+### No. 41: Génération d'une scène Three.js en voxel art à partir d'une image (prompt)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1594,7 +1561,7 @@ J'ai fourni une image. Codez une magnifique scène d'art voxel inspirée de cett
 
 ---
 
-### No. 43: Application web de Rubik’s cube 3D avec commandes de mélange et de résolution
+### No. 42: Application web de Rubik’s cube 3D avec commandes de mélange et de résolution
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1628,7 +1595,7 @@ Créez un {argument name="puzzle_type_en" default="Rubik's cube"} en 3D, incluez
 
 ---
 
-### No. 44: Interface utilisateur d'éditeur vidéo de type CapCut dans Gemini
+### No. 43: Interface utilisateur d'éditeur vidéo de type CapCut dans Gemini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1662,7 +1629,7 @@ Concevez un {argument name="app_name_en" default="CapCut"}.
 
 ---
 
-### No. 45: Jeu de billard HTML en un seul fichier
+### No. 44: Jeu de billard HTML en un seul fichier
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1696,7 +1663,7 @@ Veuillez créer un {argument name="game_type_en" default="jeu de billard"} enti�
 
 ---
 
-### No. 46: Quantum core monitoring HTML monopage
+### No. 45: Quantum core monitoring HTML monopage
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1730,7 +1697,7 @@ Veuillez générer une page HTML (SVG) unique pour un « {argument name="system_
 
 ---
 
-### No. 47: Page web de la relativité restreinte des nuages de points dynamiques
+### No. 46: Page web de la relativité restreinte des nuages de points dynamiques
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1763,7 +1730,7 @@ Créez une page web dynamique qui utilise un style de nuage de points sympa pour
 
 ---
 
-### No. 48: Fichier SVG unique d'une manette Xbox
+### No. 47: Fichier SVG unique d'une manette Xbox
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1797,7 +1764,7 @@ Créez un SVG d'une {argument name="controller_type_en" default="manette Xbox"}.
 
 ---
 
-### No. 49: Invite de génération de page web néobrutaliste
+### No. 48: Invite de génération de page web néobrutaliste
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1831,7 +1798,7 @@ Créez une page web néobrutaliste, rendez-la extrêmement créative et repousse
 
 ---
 
-### No. 50: Scène SVG du skyline de New York en un seul fichier HTML
+### No. 49: Scène SVG du skyline de New York en un seul fichier HTML
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1908,6 +1875,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-12T01:22:38.293Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2025-12-12T04:31:34.584Z</sub>
 
 </div>

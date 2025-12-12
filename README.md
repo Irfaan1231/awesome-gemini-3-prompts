@@ -86,9 +86,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **50** |
+| 📝 Total Prompts | **49** |
 | ⭐ Featured | **0** |
-| 🔄 Last Updated | **Friday, December 12, 2025 at 1:22:32 AM UTC** |
+| 🔄 Last Updated | **Friday, December 12, 2025 at 4:31:30 AM UTC** |
 
 </div>
 
@@ -1234,40 +1234,7 @@ Create a picture book for learning {argument name="learning_subject" default="En
 
 ---
 
-### No. 33: Capacitive touchscreen principle animation
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Description
-
-A short Chinese prompt asking Gemini to create an animation demonstrating how capacitive touchscreens work, suitable for educational visualizations.
-
-#### 📝 Prompt
-
-```
-Create an animation demonstrating the capacitive principle of a touch screen.
-```
-
-#### 🖼️ Example Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1764209257588_krlosw_t-wuNVWr2kNHojNd.jpg" width="600" alt="Capacitive touchscreen principle animation - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [松果先森](https://x.com/songguoxiansen)
-- **Source:** [Twitter Post](https://x.com/songguoxiansen/status/1991031879156576326)
-- **Published:** November 19, 2025
-- **Languages:** zh
-
-**[👉 Try it now →](https://youmind.com/gemini-3-prompts?prompt=Create%20an%20animation%20demonstrating%20the%20capacitive%20principle%20of%20a%20touch%20screen.)**
-
----
-
-### No. 34: Douyin recommendation algorithm demo animation
+### No. 33: Douyin recommendation algorithm demo animation
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1301,7 +1268,7 @@ Create a demo animation of the recommendation algorithm for {argument name="plat
 
 ---
 
-### No. 35: Multi-level gear linkage system animation
+### No. 34: Multi-level gear linkage system animation
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1334,7 +1301,7 @@ A multi-level gear linkage system where rotating the main gear causes all gears 
 
 ---
 
-### No. 36: Parallax scrolling homepage with explosive visual effects
+### No. 35: Parallax scrolling homepage with explosive visual effects
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1367,7 +1334,7 @@ Create a parallax scrolling website with explosive visual effects: layered backg
 
 ---
 
-### No. 37: High-end Swiss-style landing page generator in React
+### No. 36: High-end Swiss-style landing page generator in React
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1425,7 +1392,7 @@ Style: {argument name="style_en" default="Apple/Linear-like Swiss modern style"}
 
 ---
 
-### No. 38: Glassmorphism neon interface UI
+### No. 37: Glassmorphism neon interface UI
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1458,7 +1425,7 @@ A glassmorphism neon interface with ultra-modern UI lighting effects and semi-tr
 
 ---
 
-### No. 39: Interactive SVG demo of Tesla FSD road recognition
+### No. 38: Interactive SVG demo of Tesla FSD road recognition
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1491,7 +1458,7 @@ Use SVG to draw a dynamic, interactive demonstration of how Tesla FSD recognizes
 
 ---
 
-### No. 40: Rebuild GitHub’s React project page UI
+### No. 39: Rebuild GitHub’s React project page UI
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1525,7 +1492,7 @@ Build the GitHub page of {argument name="project_name_en" default="React"}.
 
 ---
 
-### No. 41: Three.js museum walkthrough scene
+### No. 40: Three.js museum walkthrough scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1562,7 +1529,7 @@ Also place white blocks in the middle of the hall.
 
 ---
 
-### No. 42: Voxel art threejs scene generation prompt from image
+### No. 41: Voxel art threejs scene generation prompt from image
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1595,7 +1562,7 @@ I have provided an image. Code a beautiful voxel art scene inspired by this imag
 
 ---
 
-### No. 43: 3D Rubik’s cube web app with mix and solve controls
+### No. 42: 3D Rubik’s cube web app with mix and solve controls
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1629,7 +1596,7 @@ Build a 3D {argument name="puzzle_type_en" default="Rubik's cube"}, include a bu
 
 ---
 
-### No. 44: CapCut-like video editor UI in Gemini
+### No. 43: CapCut-like video editor UI in Gemini
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1663,7 +1630,7 @@ Design a {argument name="app_name_en" default="CapCut"}.
 
 ---
 
-### No. 45: Single-file HTML billiards game
+### No. 44: Single-file HTML billiards game
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1697,7 +1664,7 @@ Please create a fully functional {argument name="game_type_en" default="billiard
 
 ---
 
-### No. 46: Quantum core monitoring single-page HTML
+### No. 45: Quantum core monitoring single-page HTML
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1731,7 +1698,7 @@ Please generate a single-page HTML (SVG) for a “{argument name="system_name_en
 
 ---
 
-### No. 47: Dynamic point cloud special relativity webpage
+### No. 46: Dynamic point cloud special relativity webpage
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1764,7 +1731,7 @@ Write a dynamic webpage that uses a cool point-cloud style to explain special re
 
 ---
 
-### No. 48: Single-file SVG of an Xbox controller
+### No. 47: Single-file SVG of an Xbox controller
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1798,7 +1765,7 @@ Create an SVG of an {argument name="controller_type_en" default="Xbox controller
 
 ---
 
-### No. 49: Neobrutalist webpage generation prompt
+### No. 48: Neobrutalist webpage generation prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1832,7 +1799,7 @@ Make a neobrutalist webpage, make it extremely creative and push the limits as f
 
 ---
 
-### No. 50: New York skyline SVG single-HTML scene
+### No. 49: New York skyline SVG single-HTML scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1909,6 +1876,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-12-12T01:22:33.270Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-12-12T04:31:31.360Z</sub>
 
 </div>
